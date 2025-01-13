@@ -1,0 +1,181 @@
+ OCR:	Dallen, Günther, Kapellmeister, Erfurt 
+ Truth:	Dallen, Günther, Kapellmeister, Erfurt, 
+ Levenshtein: 1	CER:  0.0256
+
+ OCR:	Schmidts Hotel 1 
+ Truth:	 Schmidts Hotel | 1 
+ Levenshtein: 3	CER:  0.158
+
+ OCR:	Canis, Joh., cand. phil., Zittau, Preußenhof 1 
+ Truth:	Canis, Joh., cand. phil., Zittau, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Berndt, G., Kfm., Berlin, Baltischer Hof 1 
+ Truth:	Berndt, G., Kfm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Boigs, Frau, mit Tochter, Berlin Walfisch 2 
+ Truth:	Boigs, Frau, mit Tochter, Berlin, Walfisch | 2 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Burmeister, Heinrich, Stralsund, Schweriner 
+ Truth:	Burmeister, Heinrich, Stralsund, Schweriner 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Hof 1 
+ Truth:	 Hof | 1 
+ Levenshtein: 3	CER:  0.375
+
+ OCR:	Bartel, Fritz, Kfm., Berlin, Preußenhof 1 
+ Truth:	Bartel, Fritz, Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Bernhardt, Georg, Kfm., m. Tochter, Dresden 
+ Truth:	Bernhard, Georg, Kfm., m. Tochter, Dresden 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	Drei Kronen 2 
+ Truth:	 Drei Kronen | 2 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Cannitzer, Walter, Fabrikant, Berlin, Preußen 
+ Truth:	Cannitzer, Walter, Fabrikant, Berlin, Preu= 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Gäßßenhof 1 
+ Truth:	ßenhof | 1 
+ Levenshtein: 5	CER:  0.5
+
+ OCR:	Dittrich, Max, Kfm., Bilenbach, Preußenhof 1 
+ Truth:	Dittrich, Max, Kfm., Bilenbach, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Corswandt, Baron, Rittergutsbesitzer 
+ Truth:	v. Corswandt, Baron, Rittergutsbesitzer, 
+ Levenshtein: 4	CER:  0.1
+
+ OCR:	Preußenhof 1 
+ Truth:	 Crummin, Preußenhof | 1 
+ Levenshtein: 12	CER:  0.5
+
+ OCR:	Buker, Franz, Kfm., Berlin, Central-Hotel 1 
+ Truth:	Buker, Franz, Kfm., Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Clasen, Heinrich, Kfm., Brandenburg, Schwe⸗ 
+ Truth:	Clasen, Heinrich, Kfm., Brandenburg, Schwe= 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	riner Hof 1 
+ Truth:	riner Hof | 1 
+ Levenshtein: 2	CER:  0.154
+
+ OCR:	Brose, Paul, Kfm., Stettin, Central-Hotel 1 
+ Truth:	Brose, Paul, Kfm., Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Dischler, Anna, Frau Direktor, Stettin 
+ Truth:	Dischler, Anna, Frau Direktor, Stettin, 
+ Levenshtein: 1	CER:  0.0256
+
+ OCR:	5 | Hoy 
+ Truth:	 Dünenschloß | 1 
+ Levenshtein: 15	CER:  0.938
+
+ OCR:	Behr, Walter, Kfm., Greifswald, Central 
+ Truth:	Behr, Walter, Kfm., Greifswald, Central= 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	Hotel 1 
+ Truth:	Hotel | 1 
+ Levenshtein: 2	CER:  0.222
+
+ OCR:	Cisow, Charlotte, Frl., Stettin, Dr. Verwiwe 1 
+ Truth:	Cisow, Charlotte, Frl., Stettin, Dr. Verwiwe | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Eiger, Emma, Frau, Berlin, Tip Top 1 
+ Truth:	Eiger, Emma, Frau, Berlin, Tip Top | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Czerlinsky, Georg, Bankier, Berlin-Steglitz, 
+ Truth:	Czerlinsky, Georg, Bankier, Berlin=Steglitz, 
+ Levenshtein: 1	CER:  0.0227
+
+ OCR:	Dünenschloß 1 
+ Truth:	 Preußenhof | 1 
+ Levenshtein: 11	CER:  0.733
+
+ OCR:	Engewicht, Klara, Frl., Berlin, Wald u. See 1 
+ Truth:	Engewicht, Klara, Frl., Berlin, Wald u. See | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Buchau, Paul, Kfm., Stettin, Central-Hotel 1 
+ Truth:	Buchau, Paul, Kfm., Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Duchstein, Friedr., Kfm., Berlin, Preußenhof 1 
+ Truth:	Duchstein, Friedr., Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Brüning, Otto, Kfm., Berlin, Schmidts Hotel 1 
+ Truth:	Brüning, Otto, Kfm., Berlin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Cohn, Josef, Kfm., Berlin, Schmidts Hotel 1 
+ Truth:	Cohn, Josef, Kfm., Berlin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Czrzemowski, Kfm., Eberswalde, Krüger 1 
+ Truth:	Czrzemowski, Kfm., Eberswalde, Krüger | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Boecker, H., Kfm., Sarstedt, Baltischer Hof 1 
+ Truth:	Boecker, H., Kfm., Sarstedt, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Dittmer, Joh., Professor, Stettin, Goldfried 1 
+ Truth:	Dittmer, Joh., Professor, Stettin, Goldfried | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Chowsteind, E., Kfm., Wiesbaden, Preußenh. 1 
+ Truth:	Chowsteind, E., Kfm., Wiesbaden, Preußenh. | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Doll, Richard, Kfm., Stettin, Schmidts Hotel 1 
+ Truth:	Doll, Richard, Kfm., Stettin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Dankers, Hugo, Kaufmann, Stettin, Baltischer 
+ Truth:	Dankers, Hugo, Kaufmann, Stettin, Baltischer 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Walfisch 1 
+ Truth:	 Hof | 1 
+ Levenshtein: 7	CER:  0.875
+
+ OCR:	Buchholg Kurt, Kfm., Jeschke 1 
+ Truth:	Buchholz, Kurt, Kfm., Jeschke | 1 
+ Levenshtein: 4	CER:  0.121
+
+ OCR:	Bock, Alexander, Kfm., Hambg., Preußenhof 1 
+ Truth:	Bock, Alexander, Kfm., Hambg., Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Bauschmann, Willy, Stadtsekretär, mit Frau 
+ Truth:	Bauschmann, Willy, Stadtsekretär, mit Frau, 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	Berlin, Schmidts Hotel 2 
+ Truth:	 Berlin, Schmidts Hotel | 2 
+ Levenshtein: 3	CER:  0.111
+
+ OCR:	Baruch, C., Kfm., Berlin, Preußenhof 1 
+ Truth:	Baruch, C., Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Cohn, Siegfr., Kfm., Berlin, Schmidts Hotel 1 
+ Truth:	Cohn, Siegfr., Kfm., Berlin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0426
+
+final CER: 0.07971014492753623 mean CER: 0.13945012138062074

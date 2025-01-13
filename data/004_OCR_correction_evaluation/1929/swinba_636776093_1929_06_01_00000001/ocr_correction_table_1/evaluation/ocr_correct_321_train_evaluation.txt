@@ -1,0 +1,53 @@
+ OCR:	Abraham, Jos., Kaufm., mit Familie, Charlottenburg, Gretel 3 
+ Truth:	Abraham, Jos., Kaufm., mit Familie, Charlottenburg, Gretel | 3 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Aderhold, Charlotte, Bankbeamtin, Berlin, Min Ollendeel 1 
+ Truth:	Aderhold, Charlotte, Bankbeamtin, Berlin, Min Ollendeel | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Artmann, Landwirt, mit Frau, Rügen, Seerings Hotel 2 
+ Truth:	Artmann, Landwirt, mit Frau, Rügen, Seerings Hotel | 2 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Ahrens, Hans, Kaufmann, mit Familie, Berlin, Ursula 3 
+ Truth:	Ahrens, Hans, Kaufmann, mit Familie, Berlin, Ursula | 3 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Archut, Karl, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Archut, Karl, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Angerstach, Richard, Kaufmann, mit Frau, Berlin, Strandburg 2 
+ Truth:	Angerstach, Richard, Kaufmann, mit Frau, Berlin, Strandburg | 2 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Auerbach, Dr., Rechtsanwalt, mit Frau und Tochter, Berlin 
+ Truth:	Auerbach, Dr., Rechtsanwalt, mit Frau und Tochter, Berlin, 
+ Levenshtein: 1	CER:  0.0172
+
+ OCR:	Hohenstaufen 3 
+ Truth:	 Hohenstaufen | 3 
+ Levenshtein: 3	CER:  0.176
+
+ OCR:	Abrahamsohn, Max, Patentanwalt, Berlin, Walfisch 1 
+ Truth:	Abrahamsohn, Max, Patentanwalt, Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Adelmann, H., Ingenieur, Berlin, Hotel Schwefel 1 
+ Truth:	Adelmann, H., Ingenieur, Berlin, Hotel Schwefel | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Arje, Walter, Kaufmann, mit Frau, Berlin, Barbarossa 2 
+ Truth:	Arje, Walter, Kaufmann, mit Frau, Berlin, Barbarossa | 2 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Agahd, Walter, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Agahd, Walter, Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Abraham, Hans, Dr., Arzt, Halensee, Viktoria 1 
+ Truth:	Abraham, Hans, Dr., Arzt, Halensee, Viktoria | 1 
+ Levenshtein: 2	CER:  0.0417
+
+final CER: 0.04017857142857143 mean CER: 0.04789433929996778

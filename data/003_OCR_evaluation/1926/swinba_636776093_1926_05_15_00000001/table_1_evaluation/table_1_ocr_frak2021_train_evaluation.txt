@@ -1,0 +1,65 @@
+ OCR:	Bechler, M., Frau, Stolzenhagen⸗Kratzwiek, Pommerhaus 1 
+ Truth:	Bechler, M., Frau, Slotzenhagen=Kratzwiek, Pommernhaus | 1 
+ Levenshtein: 6	CER:  0.103
+
+ OCR:	Behrens, Lina, Witwe, Wolgast, Grünestraße 20 1 
+ Truth:	Behrens, Lina, Witwe, Wolgast, Grünestraße 20 | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Böttcher, Walter, Kaufmann, Neukölln, Wikinger Hof 1 
+ Truth:	Böttcher, Walter, Kaufmann, Neukölln, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Bernert, Paul, Berlin, Europäischer Hof 1 
+ Truth:	Bernert, Paul, Berlin, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Abraham, Max, Kaufmann, Nürnberg, Preußenhof 1 
+ Truth:	Abraham, Max, Kaufmann, Nürnberg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Abrahamso, Adolf, Kaufmann, Stettin, Central⸗Hotel 1 
+ Truth:	Abrahamso, Adolf, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Bluth, Hugo, Pfarrer, mit Frau, Landsberg, Pommernhaus 2 
+ Truth:	Bluth, Hugo, Pfarrer, mit Frau, Landsberg, Pommernhaus | 2 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Bartusch, Frieda, Frau, Stettin, Pommernhaus 1 
+ Truth:	Bartusch, Frieda, Frau, Stettin, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Adler, Bruno, Berlin, Preußenhof 1 
+ Truth:	Adler, Bruno, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Bolle, Georg, Kaufmann, Berlin⸗Hermsdorf, Jeschkes Hotel 1 
+ Truth:	Bolle, Georg, Kaufmann, Berlin=Hermsdorf, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.05
+
+ OCR:	Ackermann, Rud., Dr. Studienrat, Wilmersdorf, Haiderose 1 
+ Truth:	Ackermann, Rud., Dr. Studienrat, Wilmersdorf, Haiderose | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Bandlow, Ida, Torgelow, Neuestraße 9 1 
+ Truth:	Bandlow, Ida, Torgelow, Neuestraße 9 | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Bahlke, Hans, Kaufmann, Stettin, Preußenhof 1 
+ Truth:	Bahlke, Hans, Kaufmann, Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Alt, Richard, Kaufmann, Remscheidt, Preußenhof 1 
+ Truth:	Alt, Richard, Kaufmann, Remscheidt, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Aue, Walter, Kaufmann, Lübeck, Preußenhof 1 
+ Truth:	Aue, Walter, Kaufmann, Lübeck, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Buschmann, Friedrich, Kaufmann, Bielefeld, Preußenhof 1 
+ Truth:	Buschmann, Friedrich, Kaufmann, Bielefeld, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0351
+
+final CER: 0.04714640198511166 mean CER: 0.04704525816991416

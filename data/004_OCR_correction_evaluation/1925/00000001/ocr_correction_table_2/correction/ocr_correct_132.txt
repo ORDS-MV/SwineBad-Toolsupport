@@ -1,0 +1,93 @@
+Kolbe, E, Oberingenieur, Kiel, Jeschkes Hotel 1
+Körbe, Ida, Fräulein, Hohenkrug, Christliches Hospiz 1
+Kohlmitz, Alex, Kaufmann, Berlin, Haegers Hotel 1
+Kornemann, Charlotte, Fräulein, Juliusruhe, Haegers H. 1
+Krause, Alfred, Kaufmann, Stettin, Jeschkes Hotel 1
+Krumrey, Alfred, Kaufmann, Stettin, Central⸗Hotel 1
+Kawehl, Just, Kaufmann, Stettin, Jeschkes Hotel 1
+König, Frieda, Frau, Berlin, Central-Hotel 1
+Kahrs, Otto, Kaufmann, Leipzig, Batischer Hof 1
+Kaiser, Kurt, Kaufm., Berlin, Baltischer Hof 1
+Kowalkowski, Martha, Oberin, Falkensee, Baltischer Hof 1
+Karst, Franz, Kfm., Berlin, Baltischer Hof 1
+Karstans, Hans, Kfm., mit Frau, Stettin, Europäisch. Hof 2
+Kaul, Hugo, Oberförster, m. Fr., Schwedt a. O., Balt. Hof 2
+Kiesewetter, Bruno, Kaufm., Wilmersdorf, Baltischer Hof 1
+Klähn, Hedwig, Frl., Torgelow, Europäischer Hof 1
+Köhler, Marie, Frl., Torgelow, Europäischer Hof 1
+Köhnlein, Fritz, Ministerialamtm., Potsdam, Balt. Hof 1
+Koropp, E., Frl., Berlin, Baltischer Hof 1
+Krämer, W., Ingenieur, Stralsund, Baltischer Hof 1
+Knoop, Ernst, Kaufm., Altona, Schweriner Hof 1
+Koch, Willy, Kaufmann, Berlin, Preußenhof 1
+Kösters, Ernst, Kaufm., Stettin, Hohenzollernhof 1
+Krüger, Emma, Frl., Stockholm, Moltkestr. 26 1
+Kranz, Erich, Kaufm., Worms, Baltischer Hof 1
+Kaschinsky, Max, Kaufm., Berlin, Preußenhof 1
+Kjar, Swend, Inspektor, Kopenhagen, Central-Hotel 1
+König, Helm., Kaufm., Pankow, Haegers Hotel 1
+Krüger, Albert, Revisor, Greifswald, Schweriner Hof 1
+Klas | Frau | mit Kind | Essen | Jeschkes Hotel 2
+Knopp, Theodor, Tempelhof, Färberstraße 1
+Knah, Martin, Kreisbeamter, Kammin, Baltischer Hof 1
+Koschnick, Siegfried, Kaufm., Berlin, Baltischer Hof 1
+Kussin, Wilhelm, Kfm., mit Tochter, Berlin, Baltischer Hof 2
+Köhler, Kurt, Kfm., Berlin, Drei Kronen 1
+Kirchhoff, Karl, Lehrer i. R., m. Frau, Pankow, Frieden
+straße 1 2
+Laesecke, R., Ingenieur, Stettin, Schweriner Hof 1
+Lange, Fritz, Vertreter, Berlin, Drei Kronen 1
+Lehndorff, Frieda, Schauspielerin, Berlin, Preußenhof 1
+Linge, Georg, Kaufm., Steglitz, Preußenhof 1
+Loewy, Kaufm., Berlin, Preußenhof 1
+Lange, Hedw., Krankenpfleger., Hohen-Lychen, Chr. Hosp. 1
+Lattermann, Erich, Dr. med., Berlin, Central-Hotel 1
+Lewy, L., Kaufm., Stettin, Preußenhof 1
+Luckau, Emil, Kaufm., Dresden, Jeschkes Hotel 1
+Lucksnat, Robert, Kaufm., Charlottenburg, Jeschkes Hotel 1
+Lattermann, Luise, Frau, Berlin, Central-Hotel 1
+Lessert, Eugen, Kaufmann, Berlin, Central⸗Hotel 1
+Lange, Otto, Marine-Lag.-Ober-Insp., Kiel, Baltisch. Hof 1
+Littauer, Dr., Assessor, Berlin, Baltischer Hof 1
+Lothes, Henry, Kaufm., Stettin, Central-Hotel 1
+Lotsch, Kurt, Kaufm., Meißen i. S., Europäischer Hof 1
+Lange, August, Kaufm., Stralsund, Drei Kronen 1
+Liebeskind, Hans, Kaufm., Stettin, Central-Hotel 1
+Lojewski, Georg, Kaufm., Lichtenberg, Preußenhof 1
+Leverlot, Walter, Kaufm., Berlin, Preußenhof 1
+Loewenstein, Walter, Kaufm., Berlin, Preußenhof 1
+Manning, Ph., Dr., Schauspieler, Halensee, Preußenhof 1
+Meyer, Oskar, Inspektor, Zschachwitz, Schweriner Hof 1
+Mosch, Paula, Frl., Berlin, Drei Kronen 1
+Mührer, Otto, Landwirt, Rambul, Schweriner Hof 1
+Müller, H. E., Kaufm., Rostock, Preußenhof 1
+Murr, Josef, Architekt, Großkunzendorf, Drei Kronen 1
+Mäußnert, Sophie, Frau, m. Sohn, Stuttgart, Central-H. 2
+Moka, Arthur, Kaufm., Nengersdorf, Central-Hotel 1
+Müller, Walter, Kaufm., Halensee, Central-Hotel 1
+Marcus, Jean, Kaufm., Berlin, Centra⸗Hotel 1
+Menge, Anton, Artist, Berlin, Drei Kronen 1
+Monkowski, Anton, Artist, mit Fr., Teltow, Hohenzollern 2
+Moser, Richard, Kaufm., Landsberg a. W., Central-Hotel 1
+Maaß, Anna, Frl., Berlin, Christl. Hospiz 1
+Maaß, Jean, Kaufm., Berlin, Baltischer Hof 1
+Mamroth, Dr., Arzt, Berlin, Baltischer Hof 1
+Marckscheffel, H., Ingen., Stettin, Baltischer Hof 1
+Martins, Walter, Kaufm., Stettin, Baltischer Hof 1
+Müller, Käthe, Frl., Berlin, Baltischer Hof 1
+Miltzlaff, Johanna, Eggesin, Friedenstr. 12 1
+Mahnke, Walter, Musiker, Stettin, Haegers Hotel 1
+Marquardt, Julius, Kaufmann, Stettin, Central-Hotel 1
+WMüller, Kapitän, Stettin, Baltischer Hof 1
+Müller, Fritz, Kaufm., Brandenburg, Baktischer Hof 1
+Mühlberg, Hans, Kaufm., Rathenow, Drei Kronen 1
+Nehls, Hans, Kaufm., Stettin, Schweriner Hof 1
+Nebel, P., Kaufm., Berlin, Drei Kronen 1
+Neumann, U., Kaufm., Stettin, Christl. Hospiz 1
+Nitsche, Fritz, Landw., Heringsdorf, Drei Kronen 1
+Nüsche Erna, Frau, Heringsdorf, Drei Kronen 1
+Nawrat, B., Kaufm., Stettin, Central-Hotel 1
+Niedermeyer, Fabrikbesitzer, mit Fr., Stettin, Jeschkes H. 2
+Niemann, Scalren Berlin, Haegers Hotel 1
+Noak, Max, auf Berlin, Jeschkes Hotel 1
+Neldner, Hans, Kaufm., Stettin, Jeschkes Hotel 1

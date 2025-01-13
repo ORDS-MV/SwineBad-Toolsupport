@@ -1,0 +1,217 @@
+ OCR:	. | Ultinann, Georg, Kaufm., Leipzig, Deutsches Haus 1 
+ Truth:	Altmann, Georg, Kaufm., Leipzig, Deutsches Haus | 1 
+ Levenshtein: 9	CER:  0.176
+
+ OCR:	3kGoettcher, C. A., Kaufin., mit Frau, Berlin, Jesters Hotel 2 
+ Truth:	Boettcher, C. A., Kaufm., mit Frau, Berlin, Jesters Hotel | 2 
+ Levenshtein: 7	CER:  0.115
+
+ OCR:	EWBoitin, Marie, Lehrerin, Güstrow, Eggebrechtstr. 12 1 
+ Truth:	Boitin, Marie, Lehrerin, Güstrow, Eggebrechtstr. 12 | 1 
+ Levenshtein: 4	CER:  0.0727
+
+ OCR:	. | gtner, Frig, Kaufm., mit Frau, Neukölln, Hotel Walfisch 2. 
+ Truth:	htner, Fritz, Kaufm., mit Frau, Neukölln, Hotel Walfisch | 2 
+ Levenshtein: 10	CER:  0.167
+
+ OCR:	1 ültshul, Oskar, Fabritbesißer, Berlin, Vila Hohenstaufen 1 
+ Truth:	Altschul, Oskar, Fabrikbesitzer, Berlin, Villa Hohenstaufen | 1 
+ Levenshtein: 10	CER:  0.159
+
+ OCR:	Böttger, Kurt, Kaufm., Leipzig, Central-Hotel 1 
+ Truth:	Böttger, Kurt, Kaufm., Leipzig, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	 fietscher, Patentanwalt, Wilmersdorf, Hotel Walfisch . 1. 
+ Truth:	letscher, Patentanwalt, Wilmersdorf, Hotel Walfisch | 1 
+ Levenshtein: 5	CER:  0.0909
+
+ OCR:	JI.Vöhmann, Joh., Kaufm., Berlin, Hotel Westend 1 
+ Truth:	Böhmann, Joh., Kaufm., Berlin, Hotel Westend | 1 
+ Levenshtein: 6	CER:  0.125
+
+ OCR:	Vade, Paula, Privatiere, Charlottenburg, Park-Hotel 1 
+ Truth:	Bade, Paula, Privatiere, Charlottenburg, Park=Hotel | 1 
+ Levenshtein: 4	CER:  0.0727
+
+ OCR:	Luchholz, Willy, Kaufm., Berlin, Jeschkes Hotel 1 
+ Truth:	Buchholz, Willy, Kaufm., Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	1 |Lbrens, August, Kaufm., Stettin, Jeschles Gasth. 41 
+ Truth:	Ahrens, August, Kaufm., Stettin, Jeschkes Gasth. | 1 
+ Levenshtein: 8	CER:  0.154
+
+ OCR:	 Werndt, Jda, Privatiere, Charlottenburg, Kaß, Dünenstraße 19 1 
+ Truth:	Berndt, Ida, Privatiere, Charlottenburg, Katz, Dünestraße 19 | 1 
+ Levenshtein: 8	CER:  0.125
+
+ OCR:	. Börner, Hans, Dr., mit Frau, Berlin, Jesters Hotel 2 
+ Truth:	Börner, Hans, Dr., mit Frau, Berlin, Jesters Hotel | 2 
+ Levenshtein: 4	CER:  0.0741
+
+ OCR:	 | dam, Livy, Direttrice, Berlin, Parthotel 1 
+ Truth:	Adam, Livy, Direktrice, Berlin, Parkhotel | 1 
+ Levenshtein: 7	CER:  0.156
+
+ OCR:	f4örüdner, Hans, Operettensänger, Berlin, Villa Heureka 1 
+ Truth:	Brückner, Hans, Operettenfänger, Berlin, Villa Heureka | 1 
+ Levenshtein: 8	CER:  0.138
+
+ OCR:	"TUron, Anita, Schülerin, Berlin, Villa Neptun 1 
+ Truth:	Aron, Anita, Schülerin, Berlin, Villa Neptun | 1 
+ Levenshtein: 5	CER:  0.104
+
+ OCR:	 "rshner, Jrma, Frl., Stettin, Park-Halle, Gartenstrae 1 
+ Truth:	örschmer, Irma, Frl., Stettin, Park=Hallte, Gartenstraße | 1 
+ Levenshtein: 10	CER:  0.167
+
+ OCR:	 Blümel, Wilh., Kaufm., Berlin, Hotel Deutsches Haus 1 
+ Truth:	Blümel, Wilh., Kaufm., Berlin, Hotel Deutsches Haus | 1 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	| F, Karl, Techniker, Tiefenbach, Europäischer Hof 1 
+ Truth:	ak, Karl, Techniker, Tiefenbach, Europäischer Hof | 1 
+ Levenshtein: 5	CER:  0.0943
+
+ OCR:	 del, Ernst, Student, Halle a. S., Central-Hotel 1 
+ Truth:	Brendel, Ernst, Student, Halle a. S., Central=Hotel | 1 
+ Levenshtein: 7	CER:  0.127
+
+ OCR:	Prauden, Karl, Dr. med., Berlin, Hotel Walfish 1 
+ Truth:	Brauden, Karl, Dr. med., Berlin, Hotel Walfisch | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	 Besser, Roland, mit Fam., Stettin, Fenstonat Seeschloß 4 
+ Truth:	Besser, Roland, mit Fam., Stettin, Pensionat Seeschloß | 4 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	raforte, Wolfgang, Kaufm., Berlin, Jesters Hotel 1 
+ Truth:	Corte, Wolfgang, Kaufm., Berlin, Jesters Hotel | 1 
+ Levenshtein: 5	CER:  0.1
+
+ OCR:	 effohn, Friedr., Schiffsunternehmer, UlsnisSchlei, Central-Hotel 1 
+ Truth:	efsohn, Friedr., Schiffsunternehmer, Ulsnis/Schlei, Central=Hotel | 1 
+ Levenshtein: 6	CER:  0.087
+
+ OCR:	- | Ahrendt, Willy, Kaufm., Usedom, Central-Hotel 1 
+ Truth:	Ahrendt, Willy, Kaufm., Usedom, Central=Hotel | 1 
+ Levenshtein: 7	CER:  0.143
+
+ OCR:	Mergmann, Walter, Chemiker, Berlin, Lange, Färberstraßke 1 
+ Truth:	Bergmann, Walter, Chemiker, Berlin, Lange, Färberstraße | 1 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	Puvgmeister, Ewald, Kaufm., Stettin, Hotel Deutsches Haus 1 
+ Truth:	Burgmeister, Ewald, Kaufm., Stettin, Hotel Deutsches Haus | 1 
+ Levenshtein: 4	CER:  0.0656
+
+ OCR:	„en, M., Kaufm., mit Frau, Berlin, Villa Strandbburg . 2 
+ Truth:	nen, M., Kaufm., mit Frau, Berlin, Villa Strandburg | 2 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	Firscher, Heinr., Fabrikbesiber, mit Fam., Stettin, Villa Neptun sh. 
+ Truth:	Fischer, Heinr., Fabrikbesitzer, mit Fam., Stettin, Villa Neptun | 5 
+ Levenshtein: 6	CER:  0.0882
+
+ OCR:	A runlich, Kaufm., mit Frau, Stettin, Hotel Drei Kronen  
+ Truth:	Brunlich, Kaufm., mit Frau, Stettin, Hotel Drei Kronen | 2 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	„feeßau, Angelita, Frauenshhülerin, Charlottenburg, Villa Heureka 1. 
+ Truth:	Feetzau, Angelika, Frauenschülerin, Charlottenburg, Villa Heureka | 1 
+ Levenshtein: 9	CER:  0.13
+
+ OCR:	Lohn, Sigism., Kaufm., mit Frau, Greifswald, Jeschkes Hotel 2 
+ Truth:	Cohn, Sigism., Kaufm., mit Frau, Greifswald, Jeschkes Hotel | 2 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	„ Farmozien, Wilh., Kaufm., Wollin, Schweriner Hof 1 
+ Truth:	armozien, Wilh., Kaufm., Wollin, Schweriner Hof | 1 
+ Levenshtein: 5	CER:  0.098
+
+ OCR:	Böhms, Jul, Kaufm., mit Frau, Berlin, Hotel Walfis  
+ Truth:	Böhms, Jul., Kaufm., mit Frau, Berlin, Hotel Walfisch | 2 
+ Levenshtein: 6	CER:  0.105
+
+ OCR:	 Brokmann, Friß, Chemiker, mit Frau, Berlin, Hotel Walfis 2 
+ Truth:	Brokmann, Fritz, Chemiker, mit Frau, Berlin, Hotel Walfisch | 2 
+ Levenshtein: 7	CER:  0.111
+
+ OCR:	a Bader, Rentier, mit Frau, Medroto, Hotel Walfish 2 
+ Truth:	Bader, Rentier, mit Frau, Medrow, Hotel Walfisch | 2 
+ Levenshtein: 7	CER:  0.135
+
+ OCR:	dBraune, Wilh., mit Frau, Stettin, Böttchers Logierhaus 2 
+ Truth:	Braune, Wilh., mit Frau, Stettin, Böttchers Logierhaus | 2 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	-„dblischke, Frib, Kaufm., Stettin, Viktoria-Hotekt 1 
+ Truth:	Blischke, Fritz, Kaufm., Stettin, Viktoria=Hotel | 1 
+ Levenshtein: 10	CER:  0.192
+
+ OCR:	| | leffle, Varga, Studentin, Rojtok, Deutsches Haus 1 
+ Truth:	Aeffke, Marga, Studentin, Rostock, Deutsches Haus | 1 
+ Levenshtein: 11	CER:  0.208
+
+ OCR:	. "on, Rechtsanwalt, mit Fam., Stettin, Strandburg . 38 
+ Truth:	on, Rechtsanwalt, mit Fam., Stettin, Strandburg | 3 
+ Levenshtein: 5	CER:  0.098
+
+ OCR:	"| Abraham, Arthur, Kaufm., mit Frau, Berlin, Pension Seeshloz  
+ Truth:	Abraham, Arthur, Kaufm., mit Frau, Berlin, Pension Seeschloß | 2 
+ Levenshtein: 8	CER:  0.125
+
+ OCR:	Bald, Wilhelm, Abteilungs-Präsident, mit Frau, Stettin, Jeschkes Gajthaus 2 
+ Truth:	Bald, Wilhelm, Abteilungs=Präsident, mit Frau, Stettin, Jeschkes Gasthaus | 2 
+ Levenshtein: 4	CER:  0.0519
+
+ OCR:	j, Hans, FKaufm., mit Fvau, Berlin, Hotel Walfisch 2 
+ Truth:	Beroj, Hans, Kaufm., mit Frau, Berlin, Hotel Walfisch | 2 
+ Levenshtein: 8	CER:  0.14
+
+ OCR:	 Brachler, Frit, Eberswalde, Central-Hotel 1 
+ Truth:	Brachler, Fritz, Eberswalde, Central=Hotel | 1 
+ Levenshtein: 5	CER:  0.109
+
+ OCR:	| bler, Hugo, Mühlenbesißer, mit Frau, enhagner Mühle, Kr. Templin, 
+ Truth:	ebler, Hugo, Mühlenbesitzer, mit Frau, Hesenhagner Mühle, Kr. Templin, Moltkestraße 19 | 2 
+ Levenshtein: 27	CER:  0.3
+
+ OCR:	Breuer, Frieda, Charlottenburg, Gasth. Stephanie 1 
+ Truth:	Breuer, Frieda, Charlottenburg, Gasth. Stephanie | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Fohn, Georg, Kaufm., mit Frau, Berlin, Haus Helene 2 
+ Truth:	Cohn, Georg, Kaufm., mit Frau, Berlin, Haus Helene | 2 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	. ummenz, Heinrich, Kaufm., mit Frau, Berlin, Europäischer Hof 2 
+ Truth:	ommenz, Heinrich, Kaufm., mit Frau, Berlin, Europäischer Hof | 2 
+ Levenshtein: 5	CER:  0.0781
+
+ OCR:	c Poignant, Erna, Stettin, Hotel Schweriner Hof 1. 
+ Truth:	Broitzmann, Erna, Stettin, Hotel Schweriner Hof | 1 
+ Levenshtein: 10	CER:  0.196
+
+ OCR:	. jaehler, Herm., Bankbeamter, Stralsund, Central-Hotel UU 
+ Truth:	aehler, Herm., Bankbeamter, Stralsund, Central=Hotel | 1 
+ Levenshtein: 7	CER:  0.125
+
+ OCR:	fe, Grete, Frl., Stettin, Hotel Walfish 1 
+ Truth:	nse, Grete, Frl., Stettin, Hotel Walfisch | 1 
+ Levenshtein: 5	CER:  0.111
+
+ OCR:	| 2amni, Milly, Buchhalterin, Eberswalde, Central-Hotel 1 
+ Truth:	amnitz, Willy, Buchhalterin, Eberswalde, Central=Hotel | 1 
+ Levenshtein: 9	CER:  0.155
+
+ OCR:	Baer, Karl, Apotheker, Berlin, Hotel Drei Kronen . 1 
+ Truth:	Baer, Karl, Apotheker, Berlin, Hotel Drei Kronen | 1 
+ Levenshtein: 1	CER:  0.0192
+
+ OCR:	l |V tmann, Vax, Kaufm., Breslau, Villa Favorit . 1 
+ Truth:	Altmann, Max, Kaufm., Breslau, Villa Favorit | 1 
+ Levenshtein: 7	CER:  0.146
+
+final CER: 0.11202096298722568 mean CER: 0.11065749504320886

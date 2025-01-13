@@ -1,0 +1,173 @@
+ OCR:	Bitter, H, Spediteur, Wanne, Bollwerk 38 1 
+ Truth:	Bitter, H., Spediteur, Wanne, Bollwerk 38 | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Bajch, Wilh, Kfm.,, mit Frau, Leipzig, Jester 2 
+ Truth:	Basch, Wilh., Kfm., mit Frau, Leipzig, Jester | 2 
+ Levenshtein: 5	CER:  0.102
+
+ OCR:	Beyer, Hauptmann a. D, mit Familie, Schön⸗ 
+ Truth:	Beyer, Hauptmann a. D., mit Familie, Schön= 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	jeld, Bealus ille 4 
+ Truth:	feld, Beatus ille | 4 
+ Levenshtein: 4	CER:  0.19
+
+ OCR:	Bach, Wilh, Obering, Mittweida, Schmidts 
+ Truth:	Bach, Wilh., Obering., Mittweida, Schmidts 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Hotel 1 
+ Truth:	 Hotel | 1 
+ Levenshtein: 3	CER:  0.3
+
+ OCR:	Auerbach, Henry, Kaufmann, Berlin, Preu 
+ Truth:	Auerbach, Henry, Kaufmann, Berlin, Preu= 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	ßenhof 1 
+ Truth:	ßenhof | 1 
+ Levenshtein: 2	CER:  0.2
+
+ OCR:	Biswanger, Carl, Kfm, Berlin, Hubertus 1 
+ Truth:	Biswanger, Carl, Kfm., Berlin, Hubertus | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Bender, H9, Kfm., Frankf. a. M, Preußenhof 1 
+ Truth:	Bender, H., Kfm., Frankf. a. M., Preußenhof | 1 
+ Levenshtein: 4	CER:  0.0851
+
+ OCR:	v. Bucholdt, Egon, Freiherr, Ing, Berlin, 
+ Truth:	v. Bucholdt, Egon, Freiherr, Ing., Berlin, 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	Zester 1 
+ Truth:	 Jester | 1 
+ Levenshtein: 4	CER:  0.364
+
+ OCR:	Bonow, August, Stettin, Preußenhof 1 
+ Truth:	Bonow, August, Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Brade, Otto, Kfm. Berlin, Preußenhof 1 
+ Truth:	Brade, Otto, Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Beyer, Otto, Ingenieur, Erfurt, Treptow 1 
+ Truth:	Beyer, Otto, Ingenieur, Erfurt, Treptow | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Brandt, Kfm., Berlin, Preußenhof 1 
+ Truth:	Brandt, Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Bauer, Walter, Kfm., Zeschke 1 
+ Truth:	Bauer, Walter, Kfm., Jeschke | 1 
+ Levenshtein: 3	CER:  0.0938
+
+ OCR:	Berger, Grete, Frau, mit Kind, Berlin, 
+ Truth:	Berger, Grete, Frau, mit Kind, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Steinstraße 5 2 
+ Truth:	 Steinstraße 5 | 2 
+ Levenshtein: 3	CER:  0.167
+
+ OCR:	Brodeck, Otto, Buchdruckereibesitzer, Berlin 
+ Truth:	Brodeck, Otto, Buchdruckereibesitzer, Berlin 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Drei Kronen 1 
+ Truth:	 Drei Kronen | 1 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Blossei, Herm, Köslin, Meereswarte 1 
+ Truth:	Blossei, Herm., Köslin, Meereswarte | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Busse, Willy, Kaufmann, mit Frau, Berlin, 
+ Truth:	Busse, Willy, Kaufmann, mit Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Atlantic 2 
+ Truth:	 Atlantic | 2 
+ Levenshtein: 3	CER:  0.231
+
+ OCR:	Andres, Johannes, Kaufmann, Berlin, Preu 
+ Truth:	Andres, Johannes, Kaufmann, Berlin, Preu= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	ßenhof 1 
+ Truth:	ßenhof | 1 
+ Levenshtein: 2	CER:  0.2
+
+ OCR:	Bender, Liesbeth, Berlin, Oehlke 1 
+ Truth:	Bender, Liesbeth, Berlin, Oehlke | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Aumilla, Fräulein, Berlin, Preußenhof 1 
+ Truth:	Aumilla, Fräulein, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Albrecht, Heinrich, Ingenieur, Berlin, Zester 1 
+ Truth:	Albrecht, Heinrich, Ingenieur, Berlin, Jester | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Boek, Conrad, Obering, Landsberg, Drei 
+ Truth:	Boek, Conrad, Obering., Landsberg, Drei 
+ Levenshtein: 1	CER:  0.0256
+
+ OCR:	Kronen 1 
+ Truth:	 Kronen | 1 
+ Levenshtein: 3	CER:  0.273
+
+ OCR:	Blochert, Siegfried, Kfm., Berlin, Preußenhos 1 
+ Truth:	Blochert, Siegfried, Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Boehlke, Werner, Bankbeamter, Neubranden⸗ 
+ Truth:	Boehlke, Werner, Bankbeamter, Neubranden= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	burg, Schweriner Hof 1 
+ Truth:	burg, Schweriner Hof | 1 
+ Levenshtein: 2	CER:  0.0833
+
+ OCR:	Branssurf, Otto, Berlin, Goldner Hirsch 1 
+ Truth:	Branssurf, Otto, Berlin, Goldner Hirsch | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Becker, Emil, Elektroinstallateur, mit Frau, 
+ Truth:	Becker, Emil, Elektroinstallateur, mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Nauenburg a. S., Schmidts Hotel 2 
+ Truth:	 Nauenburg a. S., Schmidts Hotel | 2 
+ Levenshtein: 3	CER:  0.0833
+
+ OCR:	Baumgarth, Kfm., Berlin, Hohenzollernhof 1 
+ Truth:	Baumgarth, Kfm., Berlin, Hohenzollernhof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Braun, Albert, Kaufmann, Sorau, Kühle 
+ Truth:	Braun, Albert, Kaufmann, Sorau, Kühle 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Quelle 1 
+ Truth:	 Quelle | 1 
+ Levenshtein: 3	CER:  0.273
+
+ OCR:	Aurig, Willi, Elektrotechniker, mit Frau, 
+ Truth:	Aurig, Willi, Elektrotechniker, mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Crimmitschau, Schmidts Hotel 2 
+ Truth:	 Crimmitschau, Schmidts Hotel | 2 
+ Levenshtein: 3	CER:  0.0909
+
+ OCR:	Benjamin, Martin, Kfm., Schmidts Hotel 1 
+ Truth:	Benjamin, Martin, Kfm., ? Schmidts Hotel | 1 
+ Levenshtein: 4	CER:  0.0909
+
+final CER: 0.06436314363143632 mean CER: 0.09281917752222721

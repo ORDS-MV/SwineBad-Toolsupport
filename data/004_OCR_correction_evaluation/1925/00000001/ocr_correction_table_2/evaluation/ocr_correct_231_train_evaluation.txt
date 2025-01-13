@@ -1,0 +1,225 @@
+ OCR:	Maaß, Jean, Kaufm., Berlin, Baltischer Hof 1 
+ Truth:	Maaß, Jean, Kaufm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Knoop, Ernst, Kaufm., Altona, Schweriner Hof 1 
+ Truth:	Knopp, Ernst, Kaufm., Altona, Schweriner Hof | 1 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Nawrat, B., Kaufm., Stettin, Central-Hotel 1 
+ Truth:	Nawrat, B., Kaufm., Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Nite Erna, Frau, Heringsdorf, Drei Kronen 1 
+ Truth:	Nitsche, Erna, Frau, Heringsdorf, Drei Kronen | 1 
+ Levenshtein: 6	CER:  0.122
+
+ OCR:	Mosch, Paula, Frl., Berlin, Drei Kronen 1 
+ Truth:	Mosch, Paula, Frl., Berlin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Martins, Walter, Kaufm., Stettin, Baltischer Hof 1 
+ Truth:	Martins, Walter, Kaufm., Stettin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Krämer, W., Ingenieur, Stralsund, Baltischer Hof 1 
+ Truth:	Krämer, W., Ingenieur, Stralsund, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Kirchhoff, Karl, Lehrer i. R., m. Frau, Pankow, Frieden⸗ 
+ Truth:	Kirchhoff, Karl, Lehrer i. R., m. Frau, Pankow, Frieden= 
+ Levenshtein: 1	CER:  0.0179
+
+ OCR:	straße 1 2 
+ Truth:	straße 1 | 2 
+ Levenshtein: 2	CER:  0.167
+
+ OCR:	Müller, Walter, Kaufm., Halensee, Central-Hotel 1 
+ Truth:	Müller, Walter, Kaufm., Halensee, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Mota, Arthur, Kaufm., Nengersdorf, Central-Hotel 1 
+ Truth:	Moka, Arthur, Kaufm., Nengersdorf, Central=Hotel | 1 
+ Levenshtein: 4	CER:  0.0769
+
+ OCR:	Kawehl, Just, Kaufmann, Stettin, Jeschkes Hotel 1 
+ Truth:	Kawehl, Just, Kaufmann, Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Kjar, Swend, Inspektor, Kopenhagen, Central-Hotel 1 
+ Truth:	Kjar, Swend, Inspektor, Kopenhagen, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Nitsche, Fritz, Landw., Heringsdorf, Drei Kronen 1 
+ Truth:	Nitsche, Fritz, Landw., Heringsdorf, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Neldner, Hans, Kaufm., Stettin, Jeschkes Hotel 1 
+ Truth:	Neldner, Hans, Kaufm., Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Menge, Anton, Artist, Berlin, Drei Kronen 1 
+ Truth:	Menge, Anton, Artist, Berlin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Kolbe, E, Oberingenieur, Kiel, Jeschkes Hotel 1 
+ Truth:	Kolbe, E, Oberingenieur, Kiel, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Liebeskind, Hans, Kaufm., Stettin, Central-Hotel 1 
+ Truth:	Liebeskind, Hans, Kaufm., Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	König, Frieda, Frau, Berlin, Central-Hotel 1 
+ Truth:	König, Frieda, Frau, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Mührer, Otto, Landwirt, Rambul, Schweriner Hof 1 
+ Truth:	Mührer, Otto, Landwirt, Rambul, Schweriner Hof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Ludsnat, Robert, Kaufm., Charlottenburg, Jeschkes Hotel 1 
+ Truth:	Lucksnat, Robert, Kaufm., Charlottenburg, Jeschkes Hotel | 1 
+ Levenshtein: 4	CER:  0.0667
+
+ OCR:	Karstans, Hans, Kfm., mit Frau, Stettin, Europäisch. Hof 2 
+ Truth:	Karstans, Hans, Kfm., mit Frau, Stettin, Europäisch. Hof | 2 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Knah, Martin, Kreisbeamter, Kammin, Baltischer Hof 1 
+ Truth:	Knah, Martin, Kreisbeamter, Kammin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Köhler, Marie, Frl., Torgelow, Europäischer Hof 1 
+ Truth:	Köhler, Marie, Frl., Torgelow, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Lotsch, Kurt, Kaufm., Meißen i. S., Europäischer Hof 1 
+ Truth:	Lotsch, Kurt, Kaufm., Meißen i. S., Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Koropp, E., Frl., Berlin, Baltischer Hof 1 
+ Truth:	Koropp, E., Frl., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Kussin, Wilhelm, Kfm., mit Tochter, Berlin, Baltischer Hof 2 
+ Truth:	Kussin, Wilhelm, Kfm., mit Tochter, Berlin, Baltischer Hof | 2 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Neumann, U., Kaufm., Stettin, Christl. Hospiz 1 
+ Truth:	Neumann, U., Kaufm., Stettin, Christl. Hospiz | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Kiesewetter, Bruno, Kaufm., Wilmersdorf, Baltischer Hof 1 
+ Truth:	Kiesewetter, Bruno, Kaufm., Wilmersdorf, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Klas | Frau | mit Kind | Essen | Jeschkes Hotel 2 
+ Truth:	Klas, Frau, mit Kind, Essen, Jeschkes Hotel | 2 
+ Levenshtein: 10	CER:  0.213
+
+ OCR:	Karst, Franz, Kfm., Berlin, Baltischer Hof 1 
+ Truth:	Karst, Franz, Kfm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Knopp, Theodor, Tempelhof, Färberstraße 1 
+ Truth:	Knopp, Theodor, Tempelhof, Färberstraße | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Mamroth, Dr., Arzt, Berlin, Baltischer Hof 1 
+ Truth:	Mamroth, Dr., Arzt, Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Murr, Josef, Architekt, Großkunzendorf, Drei Kronen 1 
+ Truth:	Murr, Josef, Architekt, Großkunzendorf, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Monkowski, Anton, Artist, mit Fr., Teltow, Hohenzollern 2 
+ Truth:	Monkowski, Anton, Artist, mit Fr., Teltow, Hoehnzollern | 2 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	Kranz, Erich, Kaufm., Worms, Baltischer Hof 1 
+ Truth:	Kranz, Erich, Kaufm., Worms, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Laefete, R., Ingenieur, Stettin, Schweriner Hof 1 
+ Truth:	Laesecke, R., Ingenieur, Stettin, Schweriner Hof | 1 
+ Levenshtein: 5	CER:  0.0962
+
+ OCR:	Lange, Otto, Marine-Lag.-Ober-Insp., Kiel, Baltisch. Hof 1 
+ Truth:	Lange, Otto, Marine=Lag.=Ober=Insp., Kiel, Baltisch. Hof | 1 
+ Levenshtein: 5	CER:  0.0833
+
+ OCR:	Klähn, Hedwig, Frl., Torgelow, Europäischer Hof 1 
+ Truth:	Klähn, Hedwig, Frl., Torgelow, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Lange, August, Kaufm., Stralsund, Drei Kronen 1 
+ Truth:	Lange, August, Kaufm., Stralsund, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Kahrs, Otto, Kaufmann, Leipzig, Batischer Hof 1 
+ Truth:	Kahrs, Otto, Kaufmann, Leipzig, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Kohlmigz, Alex, Kaufmann, Berlin, Haegers Hotel 1 
+ Truth:	Kohlmitz, Alex, Kaufmann, Berlin, Haegers Hotel | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Krüger, Albert, Revisor, Greifswald, Schweriner Hof 1 
+ Truth:	Krüger, Albert, Revisor, Greifswald, Schweriner Hof | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Lehndorff, Frieda, Schauspielerin, Berlin, Preußenhof 1 
+ Truth:	Lehndorff, Frieda, Schauspielerin, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Kaiser, Kurt, Kaufm., Berlin, Baltischer Hof 1 
+ Truth:	Kaiser, Kurt, Kaufm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Körbe, Ida, Fräulein, Hohenkrug, Christliches Hospiz 1 
+ Truth:	Körbe, Ida, Fräulein, Hohenkrug, Christliches Hospiz | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Marscheffel, H., Ingen., Stettin, Baltischer Hof 1 
+ Truth:	Marckscheffel, H., Ingen., Stettin, Baltischer Hof | 1 
+ Levenshtein: 4	CER:  0.0741
+
+ OCR:	Noak, Max, aufm Berlin, Jeschkes Hotel 1 
+ Truth:	Noak, Max, Kaufm., Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 5	CER:  0.111
+
+ OCR:	Koschnick, Siegfried, Kaufm., Berlin, Baltischer Hof 1 
+ Truth:	Koschnick, Siegfried, Kaufm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Marquardt, Julius, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Marquardt, Julius, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	Kaschinsky, Max, Kaufm., Berlin, Preußenhof 1 
+ Truth:	Kaschinsky, Max, Kaufm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Müller, H. E., Kaufm., Rostock, Preußenhof 1 
+ Truth:	Müller, H. E., Kaufm., Rostock, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Lattermann, Erich, Dr. med., Berlin, Central-Hotel 1 
+ Truth:	Lattermann, Erich, Dr. med., Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Krause, Alfred, Kaufmann, Stettin, Jeschkes Hotel 1 
+ Truth:	Krause, Alfred, Kaufmann, Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Kornemann, Charlotte, Fräulein, Juliusruhe, Haegers H. 1 
+ Truth:	Kornemann, Charlotte, Fräulein, Juliusruhe, Haegers H. | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Lothes, Henry, Kaufm., Stettin, Central-Hotel 1 
+ Truth:	Lothes, Henry, Kaufm., Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+final CER: 0.05318774216273336 mean CER: 0.055264162090248425

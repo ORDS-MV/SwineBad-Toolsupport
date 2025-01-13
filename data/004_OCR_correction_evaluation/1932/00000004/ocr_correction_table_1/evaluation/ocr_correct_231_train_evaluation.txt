@@ -1,0 +1,157 @@
+ OCR:	Eder, Charlotte, Arztwitwe, mit Kindern, Berlin, Favorit 3 
+ Truth:	Eder, Charlotte, Arztwitwe, mit Kindern, Berlin, Favorit | 3 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Brehm, Max, Kaufm., mit Frau, Berlin, Barbenina 2 
+ Truth:	Brehm, Max, Kaufm., mit Frau, Berlin, Barberina | 2 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Auernhammer, Anni, Buchhalterin, München, Heysestr. 18 1 
+ Truth:	Auernhammer, Anni, Buchhalterin, Münhen, Heysestr. 18 | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Dienemann, Georg, Arzt, mit Frau, Berlin, Hohenstaufen 2 
+ Truth:	Dienemann, Georg, Arzt, mit Frau, Berlin, Hohenstaufen | 2 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Budde, Eugen, Dr. jur., mit Fam., Berlin, Dünenschloß 3 
+ Truth:	Budde, Eugen, Dr. jur., mit Fam., Berlin, Dünenschloß | 3 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Bussina, Frau Dr., Juristin, Berlin, Lotte 1 
+ Truth:	Bussina, Frau Dr., Juristin, Berlin, Lotte | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Dietrich, Wolf, Landwirt, Berlin, Gertrud 1 
+ Truth:	Dietrich, Wolf, Landwirt, Berlin, Gertrud | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Bumster, Kurt, Vertreter, mit Frau, Berlin, Vineta 2 
+ Truth:	Bumster, Kurt, Vertreter, mit Frau, Berlin, Vineta | 2 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Bachmann, Dolly, Frau, Neustrelitz, Friedrichstr. 14c 1 
+ Truth:	Bachmann, Dolly, Frau, Neustrelitz, Friedrichstr. 14c | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Broh, Walter, Kaufm., Berlin, Strandburg 1 
+ Truth:	Broh, Walter, Kaufm., Berlin, Strandburg | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Bruhn, Else, Frau, Neubrandenburg, Agnes 1 
+ Truth:	Bruhn, Else, Frau, Neubrandenburg, Agnes | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Dinse, Wilhelm, Dipl. agr., Halle, Neptun 1 
+ Truth:	Dinse, Wilhelm, Dipl. agr., Halle, Neptun | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Brandenburg, Lisa, Frau, Berlin, Strandpalast 1 
+ Truth:	Brandenburg, Lisa, Frau, Berlin, Strandpalast | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Bolle, Dr., Arzt, mit Fam., Treptow a. R., Haiderose 4 
+ Truth:	Bolle, Dr., Arzt, mit Fam., Treptow a. R., Haiderose | 4 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Aron, Kurt, Kaufm., mit Frau, Berlin, Dagmar 2 
+ Truth:	Aron, Kurt, Kaufm., mit Frau, Berlin, Dagmar | 2 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Batzke, Willy, Kaufm., Zehlendorf, Am Meer 1 
+ Truth:	Batzke, Willy, Kaufm., Zehlendorf, Am Meer | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Deutschland, Dr., Adolf, Zahnarzt, Berlin, Agnes 1 
+ Truth:	Deutschland, Dr., Adolf, Zahnarzt, Berlin, Agnes | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Bossert, Dora, Frau, Berlin, Dünenschloß 1 
+ Truth:	Bossert, Dora, Frau, Berlin, Dünenschloß | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Ballersbedt, Martha, Stud.-Afs., Barbarossa 1 
+ Truth:	Ballerstedt, Martha, Stud.=Ass., ? Barbarossa | 1 
+ Levenshtein: 7	CER:  0.143
+
+ OCR:	Bretzke, Willy, Kaufm., Berlin, Herrenbadstr. 8 1 
+ Truth:	Bretzke, Willy, Kaufm., Berlin, Herrenbadstr. 8 | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Chartrong, Werner, Kaufm., Berlin, Neptun 1 
+ Truth:	Chartrong, Werner, Kaufm., Berlin, Neptun | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Chartrong, Hedwig, Frau Rechnungsrat, Berlin, Neptun 1 
+ Truth:	Chartrong, Hedwig, Frau Rechnungsrat, Berlin, Neptun | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Arje, Walder, Kaufm., Berlin, Sonnenschein 1 
+ Truth:	Arje, Walter, Kaufm., Berlin, Sonneschein | 1 
+ Levenshtein: 4	CER:  0.0889
+
+ OCR:	Behrend, Elsa, Berlin, Strandburg - 1 
+ Truth:	Behrend, Elsa, Berlin, Strandburg | 1 
+ Levenshtein: 1	CER:  0.027
+
+ OCR:	Dörel, Otto, Kaufm., mit Frau Bertin, Dagmar 2 
+ Truth:	Dörel, Otto, Kaufm., mit Frau, Berlin, Dagmar | 2 
+ Levenshtein: 4	CER:  0.0816
+
+ OCR:	Auvert, Dr., Arzt, Sommerfeld, Walfisch 1 
+ Truth:	Aubert, Dr., Arzt, Sommerfeld, Walfisch | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Borzgus, Werner, Kaufm., mit Frau, Berlin, Agnes 2 
+ Truth:	Borzgus, Werner, Kaufm., mit Frau, Berlin, Agnes | 2 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Balzer, Albert, Sekretär, Königswusterhausen, Midgard 1 
+ Truth:	Balzer, Albert, Sekretär, Königswusterhausen, Midgard | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Brunzlow, Arthur, Spark.-Ltr., mit Frau, Marienwalde, Lotte 2 
+ Truth:	Brunzlow, Arthur, Spark.=Ltr., mit Frau, Marienwalde, Lotte | 2 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	Dunast, Gerhard, Kaufm., Berlin, Agnes 1 
+ Truth:	Dunast, Gerhard, Kaufm., Berlin, Agnes | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Arens, Dr., Rich., Ministerialrat, m. Fam., Berlin, Waterkant 3 
+ Truth:	Arens, Dr., Rich., Ministerialrat, m. Fam., Berlin, Waterkant | 3 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Ehrlich, Kaufm., mit Frau, Berlin, Seerings Hotel. 2 
+ Truth:	Ehrilich, Kaufm., mit Frau, Berlin, Seerings Hotel | 2 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Baar, Justizrat, mit Frau, Stebtin, Seeschloß | 
+ Truth:	Baar, Justizrat, mit Frau, Stettin, Seeschloß | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Albrecht, Herbert, Hotelangestellter, Berlin, Germania. 1 
+ Truth:	Albrecht, Herbert, Hotelangestellter, Berlin, Germania | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Engelke, Laura, Witwe, Berlin, Lucie 1. 
+ Truth:	Engelke, Laura, Witwe, Berlin, Lucie | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Davy, Lorna, Weymouth England, Dünenschloß 1 
+ Truth:	Davy, Lorna, Weymouth (England), Dünenschloß | 1 
+ Levenshtein: 4	CER:  0.0833
+
+ OCR:	Bosch, Kurt, mit Fam., Berlin, Friedensburg 4 
+ Truth:	Bosch, Kurt, mit Fam., Berlin, Friedensburg | 4 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	 
+ Truth:	Ebert, Magdalene, Potsdam, Elsbeth | 1 
+ Levenshtein: 38	CER:  1.0
+
+ OCR:	Culmeyer, Kaufm., mit Frau, Guhrode, Walfisch 1 
+ Truth:	Culmeyer, Kaufm., mit Frau, Guhrode, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0408
+
+final CER: 0.06717948717948719 mean CER: 0.07378003460338493

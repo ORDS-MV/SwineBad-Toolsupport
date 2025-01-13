@@ -1,0 +1,189 @@
+ OCR:	Gekelmann, Benjamin, Kaufm., Charlotten 
+ Truth:	Gekelmann, Benjamin, Kaufm., Charlotten= 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	 
+ Truth:	burg, Strandhotel | 1 
+ Levenshtein: 21	CER:  1.0
+
+ OCR:	Gießel, Richard, Juwelier, m. Fam., Berlin 
+ Truth:	Gießel, Richard, Juwelier, m. Fam., Berlin, 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	Dünenschloß 3 
+ Truth:	 Dünenschloß | 3 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Gerlach, S., Frau, m. Sohn, Berlin, Strand 
+ Truth:	Gerlach, S., Frau, m. Sohn, Berlin, Strand= 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	Strandhotel 1 
+ Truth:	Hotel | 2 
+ Levenshtein: 10	CER:  1.11
+
+ OCR:	Ernstein, Ed., Kfm., Berlin, Min. Ollendeel 1 
+ Truth:	Ernstein, Ed., Kfm., Berlin, Min Ollendeel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Gießel, Paul, Juwelier, mit Frau, Berlin 
+ Truth:	Gießel, Paul, Juwelier, mit Frau, Berlin, 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Dünenschloß 9 
+ Truth:	 Dünenschloß | 2 
+ Levenshtein: 4	CER:  0.25
+
+ OCR:	Drembug, J., Kaufm., mit Frau, Wilmers 
+ Truth:	Drembug, I., Kaufm., mit Frau, Wilmers= 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Ddorf, 2 
+ Truth:	dorf, ? | 2 
+ Levenshtein: 5	CER:  0.455
+
+ OCR:	Hotel 2 
+ Truth:	F 
+ Levenshtein: 7	CER:  7.0
+
+ OCR:	Expulson, Luise, Frau, Berlin, Beatus ille 1 
+ Truth:	Expulson, Luise, Frau, Berlin, Beatus ille | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Elleuch, Hans, Kaufm., mit Frau, Charlot⸗ 
+ Truth:	Elleuch, Hans, Kaufm., mit Frau, Charlot= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	tenburg, Strandburg 2 
+ Truth:	tenburg, Strandburg | 2 
+ Levenshtein: 2	CER:  0.087
+
+ OCR:	Friedezky, Ernst, Beamter, Berlin, Strandh. 1 
+ Truth:	Friedezky, Ernst, Beamter, Berlin, Strandh. | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Frahne, Elfriede, Frau, Landshut, Strand⸗ 
+ Truth:	Frahne, Elfriede, Frau, Landshut, Strand= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	palast 1 
+ Truth:	palast | 1 
+ Levenshtein: 2	CER:  0.2
+
+ OCR:	Feldmann, Max, Kaufm., mit Frau, Prag, 
+ Truth:	Feldmann, Max, Kaufm., mit Frau, Prag, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Bernhard 2 
+ Truth:	 Bernhard | 2 
+ Levenshtein: 3	CER:  0.231
+
+ OCR:	Golzberg, S., Dr., Rechtsanwalt, Berlin 
+ Truth:	Golzberg, S., Dr., Rechtsanwalt, Berlin, 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	burg, Strandhotel 1 
+ Truth:	 Strandhotel | 1 
+ Levenshtein: 7	CER:  0.438
+
+ OCR:	Diedenbohm, Karl, Kaufm., Greifswald 
+ Truth:	Diedenbohm, Karl, Kaufm., Greifswald, 
+ Levenshtein: 1	CER:  0.027
+
+ OCR:	Strandhotel 1 
+ Truth:	 Strandhotel | 1 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Evans, Kaufm., mit Frau, Stettin, Schloß 
+ Truth:	Evans, Kaufm., mit Frau, Stettin, Schloß 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	am Meer 2 
+ Truth:	 am Meer | 2 
+ Levenshtein: 3	CER:  0.25
+
+ OCR:	Dietrich, Willy, Bureauvorst., Stettin, Min 
+ Truth:	Dietrich, Willy, Bureauvorst., Stettin, Min 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Ollendeel 1 
+ Truth:	 Ollendeel | 1 
+ Levenshtein: 3	CER:  0.214
+
+ OCR:	Ewalds, Josef, Kfm., Krefeld, Strandhotel 2 
+ Truth:	Ewalds, Josef, Kfm., Krefeld, Strandhotel | 2 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Feige, Martha, Frl., Breslau, Helios 1 
+ Truth:	Feige, Martha, Frl., Breslau, Helios | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Gehr, Adolf, Kaufm., mit Fam., Charlotten⸗ 
+ Truth:	Gehr, Adolf, Kaufm., mit Fam., Charlotten= 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	burg, Strandburg i 5 
+ Truth:	burg, Strandburg | 5 
+ Levenshtein: 1	CER:  0.05
+
+ OCR:	Dorn, Wilhelm, Ingen., Stettin, Barbarossa 1 
+ Truth:	Dorn, Wilhelm, Ingen., Stettin, Barbarossa | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Freudenthal, Felix, Dr., Amtsger.-Rat, nrit 
+ Truth:	Freudenthal, Felix, Dr., Amtsger.=Rat, mit 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Frau, Berlin, Barbarossa 2 
+ Truth:	 Frau, Berlin, Barbarossa | 2 
+ Levenshtein: 3	CER:  0.103
+
+ OCR:	Ernstein, Eduard, Kaufm. Berlin, Walfisch 1 
+ Truth:	Ernstein, Eduard, Kaufm., Berlin, Walfisch | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Gronow, Landwirt, Greifswald, Hubertus 1 
+ Truth:	Gronow, Landwirt, Greifswald, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Friedländer, Max, Fondsmakler, mit Fam., 
+ Truth:	Friedländer, Max, Fondsmakler, mit Fam., 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Berlin, Strandburg 3 
+ Truth:	 Berlin, Strandburg | 3 
+ Levenshtein: 3	CER:  0.13
+
+ OCR:	Dorn, Hermann, Kaufm., Berlin-Südende 
+ Truth:	Dorn, Hermann, Kaufm., Berlin=Südende, 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Dünenschloß 2 
+ Truth:	 Dünenschloß | 2 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Freudenberg, Walter, Kaufm., mit Frau 
+ Truth:	Freudenberg, Walter, Kaufm., mit Frau, 
+ Levenshtein: 1	CER:  0.0263
+
+ OCR:	Berlin, Ostseehotel 2 
+ Truth:	 Berlin, Ostseehotel | 2 
+ Levenshtein: 3	CER:  0.125
+
+ OCR:	Freiberg, Rob., Weinhaus-Inh., mit Frau u. 
+ Truth:	Freiberg, Rob., Weinhaus=Inh., mit Frau u. 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	Bedienung, Leipzig, Strandburg 3 
+ Truth:	 Bedienung, Leipzig, Strandburg | 3 
+ Levenshtein: 3	CER:  0.0857
+
+ OCR:	Freiser, Fanny, Frau Kfm., Berlin, Hohen- 
+ Truth:	Freiser, Fanny, Frau Kfm., Berlin, Hohen= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	staufen 1 
+ Truth:	staufen | 1 
+ Levenshtein: 2	CER:  0.182
+
+final CER: 0.08749145591250855 mean CER: 0.2839674088435965

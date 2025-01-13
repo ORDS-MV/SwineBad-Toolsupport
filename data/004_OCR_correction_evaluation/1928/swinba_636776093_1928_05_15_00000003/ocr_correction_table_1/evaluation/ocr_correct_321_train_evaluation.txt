@@ -1,0 +1,157 @@
+ OCR:	Badstübner, Käthe, Bansin, Pommernhaus 1 
+ Truth:	Badstübner, Käthe, Bansin, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Barguke, Max, Berlin, St. Hubertus 
+ Truth:	Barguke, Max, Berlin, St. Hubertus | 1 
+ Levenshtein: 4	CER:  0.105
+
+ OCR:	Delang, Gertrud, Heringsdorf, Privatklinik Meereswarte 1 
+ Truth:	Delang, Gertrud, Heringsdorf, Privatklinik Meereswarte | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Brück, Margot, Stargard, Pommernhaus 1 
+ Truth:	Brück, Margot, Stargard, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Fleßburg, Alexander, Obermusikmeister, Berlin, Eisentraut 1 
+ Truth:	Fleßburg, Alexander, Obermusikmeister, Berlin, Eisentraut | 1 
+ Levenshtein: 2	CER:  0.0328
+
+ OCR:	Dornbusch, Else, Gollnow, Pommernhaus 1 
+ Truth:	Dornbusch, Else, Gollnow, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Beth, Reinh., Karnin, Goldener Hirsch 1 
+ Truth:	Beth, Reinh., Karnin, Goldener Hirsch | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Allgin, Reinhard, Neuendorf, Haus Achilles 1 
+ Truth:	Allgin, Reinhard, Neuendorf, Haus Achilles | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Fitze, Günther, Ingenieur, Stettin, Preußenhof 1 
+ Truth:	Fitze, Günther, Ingenieur, Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Beversdorff, Erna, Stettin, Pommernhaus 1 
+ Truth:	Beversdorff, Erna, Stettin, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Bol, E., Student, Berlin, Walfisch 1 
+ Truth:	Bol, E., Student, Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Flöter, H. I., Stettin, Baltischer Hof 1 
+ Truth:	Flöster, H. I., Stettin, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Engel, Alfred, Güstrow, Wikinger Hof 1 
+ Truth:	Engel, Alfred, Güstrow, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Brandt, Dietrich, Sellin, Wikinger Hof 1 
+ Truth:	Brandt, Dietrich, Sellin, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Ball, Berthold, Berlin, Preußenhof 1 
+ Truth:	Ball, Bertholf, Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0789
+
+ OCR:	Drews, Georg, Buchhalter, mit Frau, Berlin, Bismarckstraße 7 2 
+ Truth:	Drews, Georg, Buchhalter, mit Frau, Berlin, Bismarckstraße 7 | 2 
+ Levenshtein: 2	CER:  0.0312
+
+ OCR:	Bauer, Franz, Berlin, Preußenhof 1 
+ Truth:	Bauer, Franz, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Berthold, Georg, Postrat, Stettin, Preußenhof 1 
+ Truth:	Berthold, Georg, Postrat, Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Bresin, Willy, Stettin, Haegers Hotel 1 
+ Truth:	Bresin, Willy, Stettin, Haegers Hotel | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Ebert, Otto, Ingenieur, Stettin, Baltischer Hof 1 
+ Truth:	Ebert, Otto, Ingenieur, Stettin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Busch, Otto, Stettin, Haegers Hotel 1 
+ Truth:	Busch, Otto, Stettin, Haegers Hotel | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Beckmann, Georg, Berlin, Preußenhof 1 
+ Truth:	Beckmann, Georg, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Boettcher, Elsa, Altdamm, Pommernhaus 1 
+ Truth:	Boettcher, Elsa, Altdamm, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Ebeling, Stettin, Jeschktes Hotel 1 
+ Truth:	Ebeling, Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.0833
+
+ OCR:	Anger, Friedrich, Berlin, Baltischer Hof 1 
+ Truth:	Anger, Friedrich, Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Feidelberg, Hermann mit Frau, Berlin, Baltischer Hof I 
+ Truth:	Feidelberg, Hermann mit Frau, Berlin, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Frede, A., Berlin, Central Hotel 1 
+ Truth:	Frede, A., Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0833
+
+ OCR:	Andersen, Walter, Major a. D., Berlin, Walfisch 1 
+ Truth:	Andersen, Walter, Major a. D., Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Fiedler, Otto, Berlin, Jeschkes Hotel 1 
+ Truth:	Fiedler, Otto, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Brackrock, Erich, Stettin, Wald und See 01 
+ Truth:	Brackrock, Erich, Stettin, Wald und See | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Braun, Horst, Berlin, Preußenhof 1 
+ Truth:	Braun, Horst, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Bennert, Rudolf, Stettin, Wikinger Hof 1 
+ Truth:	Bennert, Rudolf, Stettin, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Dunbow, Walter, Pastor, Ahrenshagen, Pommernhaus 1 
+ Truth:	Dunbow, Walter, Pastor, Ahrenshagen, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Fuldet, Joseph, Landeshut, Kühle Quelle 1 
+ Truth:	Fuldet, Joseph, Landeshut, Kühle Quelle | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Fränzel, Richard, Berlin, Preußenhof 1 
+ Truth:	Fränzel, Richard, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Eymael, Maria, Wolgast, Pommernhaus 1 
+ Truth:	Eymael, Maria, Wolgast, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Fritzsche, Elise, Frau, Binz, Pommernhaus 1 
+ Truth:	Fritzsche, Elise, Frau, Binz, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Fiedler, Ursula, Binz, Pommernhaus 1 
+ Truth:	Fiedler, Ursula, Binz, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Buschhausen, Karl, Sellin, Wikinger Hof -- 1 
+ Truth:	Buschhausen, Karl, Sellin, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.0465
+
+final CER: 0.049824150058616644 mean CER: 0.051201249024413045

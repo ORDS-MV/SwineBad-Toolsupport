@@ -1,0 +1,64 @@
+M | Name und Stand Wohnort | Wohnung | Pech
+| Uebertrag | 1587
+970 | Appelbaum, Hermann, Elektrotechniker | Berlin | Maaß, Lotsenstr. 81 1
+971 | Albert, Ludwig, Kind | Schlatkow | Kinderpflegeheim 1
+972 | Aulich, Kaufmann | Berlin | Jeschkes Hotel 1
+973 | Dr. Auerbach, Richard, Journalist, mit Frau | „ | Villa Kaiser Wilhelm 92
+674 | Basedow, Professor | Dresden | Hotel Seestern 1
+975 | Beyer, E., Kantor, mit Frau - | Neustadt i. S. | Villa Dinse 2
+976 | Beuthen, Albert, Kaufmann | Berlin | Ostsee-Hotel - 1
+977 | Burow, Frau, mit Sohn Charlottenburg | Park-Hotel 2
+978 | Beutner, Helene, Fräulein Berlin | Villa Schloß Hohenzollern 1
+979 | Beutner, Käthe, Frau „ „ 1
+980 | Boer, Richard, Kaufmann |„ Hotel Prinz Eitel Friedrich
+981 | Bayl, Erich, Leutnant - | Coblenz Kinderpflegeheim 1
+982 | Brachmann, Bodo, Schüler | Leipzig 1 1
+983 | Bergemann, Kaufmann Berlin - | Jeschkes Hotel 1
+984 | Baumann, Kaufmann - - Stettin „ 1
+985 | Berndt Kaufmann | Berlin - 1
+986 | von Below, Rittergutsbesitzer | Targelin b. Anklam | Hotel Walfisch | 1
+987 | von Below, D., Rittergutsbesitzer | Premen bei Anklam „ 1
+988 | Berlin, Ida, Lehrerin, em. | Greifswald | Villa Viktoria Luise 1
+989 | Bohm, Martha, Fräulein | Neudamm | Villa Meeresstille 1
+990 | Dr. Braun, Chemiker Berlin Villa Aegir 1
+991 | Buchholz, Julius, Konfektionär | Breslau | Villa Splendid 1
+992 | von Bülow, Frau, mit Sohn und Bedienung | Stettin | Villa Schloß Hohenzollern 3
+993 | Berju, Simon, Kaufmann, mit Frau - Berlin - - Pension Pulvermann 92
+994 | Celer, Curt, cand. ing. | Dresden | Hotel Seestern 1
+995 | Cohn, Leopold, Rentier, mit Familie | Waidmannslust | Villa Nußbaum 3
+996 | Crganjist, S., caud. ing. | Dresden | Hotel Seestern 1
+997 | Clotz, Erna, Kind | Fulda Hessen | Kinderpflegeheim 1
+998 | Drucker, A., Kaufmann Berlin | Hotel Walsisch 1
+999 | Dehne, Rolf, Kind Frankfurt a. O. Kinderpflegeheim 1
+1000 | Eisenhardt, Kurt, Diplom-Ingenieur | Berlin | Villa Luise 1
+1001 | Erb, Gerdi, Schülerin | Moltersdorf | Kinderpflegeheim - 1
+1002 | Ebel, Julus, Kaufmann | Berlin | Villa Daheim 1
+1003 | Eggenkiwiyler, A., Diplom-Ingenieur | Dresden | Hotel Seestern 1
+- 1004 | Eichfe, Wilh., cand. rer. tech. | „ | „ | 1
+1005 | von Erlach, G., cand. ing. „ „ y 1
+1006 | Ernst, Heinrich, Fabrikant, mit Bedienung | Berlin | Villa Hilda 2
+1007 | Ernst, Selma | „ 1
+1008 | Fuchs, Frieda, Frau Maurermeister, mit Kindern | Görlitz | Villa Toni 3
+1009 | Fielding, J., Kind | Friedenau | Kinderpflegeheim 1
+1010 | Friedländer, Kaufmann Güstrow | Jeschkes Hotel 1
+1011 | Feilke, W., Referendar | Stargard i. Pom. m 1
+1012 | Fischer, Maria, Schülerin | Berlin | Villa Midgard 1
+1013 | Freund, Otto, Bankbeamter, mit Frau | Halensee | Villa Wilhelma 2
+1014 Fritschke, M., Bau-Ingenieur |Dresden Hotel Seestern 1
+1015 | Feichtner, Helene, Fr. Kaufmann, m. Fam. u. Bedg. | Rixdorf Villa Steinberg 4
+1016 | Feichtner, Robert, Kaufmann N „ 1
+1017 | Gehler Dresden | Hotel Seestern 1
+1018 | Gelblum, cand. ing. „ „ 1
+1019 | Glasberg, Philipp, Schneidermstr., m. Fam. u. Bedg. | Berlin - | Villa Heiderose 4
+1020 | Goepel, Wilhelm, Kaufmann, mit Familie | „ „ 3
+1021 | von Gilgenheimb, Fritz, Kind | Breslau | Kinderpflegeheim 1
+1022 | Gudell, Werner, Schüler Halensee „ 1
+1023 | Grensdorf, Stabsarzt | Bromberg | Jeschkes Hotel 1
+1024 | Groschkus, Gertrud Berlin | Berg, Moltkestr. 14 1
+1025 | Grohmann, Paul, Kaufmann | Breslau | v. Miller, Gartenstr. 16 1
+1026 | Groschke, Albert, Kaufmann | Pernambuco Brasilien | Villa Glücksburg 1
+1027 | Guhn, Johannes, Ober-Postassistent, mit Frau | Neusalz | Brunnow, Krausestr. 10 2
+1028 | Grün, Emil und Paul, Kaufleute, Gebrüder | Berlin | Villa Monbijou 2
+1029 | Guttmann, Otto, Kaufmann, mit Frau | Breslau | Villa Schloß Hohenzollern 2
+1030 | Dr. Gotischalk, Ernst, Arzt, mit Frau | Charlotteuburg | Villa Silesia | 4
+Vebertrag | 1674

@@ -1,0 +1,65 @@
+ OCR:	Breem, E., Stettin, Preußenhof 1 
+ Truth:	Breem, E., Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0588
+
+ OCR:	Coustobel, Carl, mit Frau, Chemnitz, Preußenhof 2 
+ Truth:	Coustobel, Carl, mit Frau, Chemnitz, Preußenhof | 2 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Cohn, Rudolf, Berlin, Preußenhof 1 
+ Truth:	Cohn, Rudolf, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Dione, Just., Konsul, mit Familie, Berlin, St. Hubertus 5 
+ Truth:	Dione, Just., Konsul, mit Familie, Berlin, St. Hubertus | 5 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Barlinsky, Kaufmann, Berlin, Central-Hotel 1 
+ Truth:	Barlinsky, Kaufmann, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Blumann, Nikolaus, Kaufmann, Dessau, Preußenhof 1 
+ Truth:	Blumann, Nikolaus, Kaufmann, Dessau, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Bohse, Lina, Frau Lohme a. R., Pommernhaus 1 
+ Truth:	Bohse, Lina, Frau Lohme a. R., Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Brendemühl, Wilhelm, Berlin, Central-Hotel 
+ Truth:	Brendemühl, Wilhelm, Berlin, Central=Hotel | 1 
+ Levenshtein: 5	CER:  0.109
+
+ OCR:	Brose, Hans, Kaufmann, Charlottenburg, Preußenhof 1 
+ Truth:	Brose, Hans, Kaufmann, Charlottenburg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Bennewitz, Paul, Königsberg, Hotel goldener Hirsch 1 
+ Truth:	Bennewitz, Paul, Königsberg, Hotel goldener Hirsch | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Brandes, Hans, Ingenieur, Stettin, Central-Hotel 1 
+ Truth:	Brandes, Hans, Ingenieur, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Dittmer, K., Rentier, Stettin, St. Hubertus 1 
+ Truth:	Dittmer, K., Rentier, Stettin, St. Hubertus | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	v. Bülow, Katharina, Frau, Kolberg, Pommernhaus 1 
+ Truth:	v. Bülow, Katharina, Frau, Kolberg, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Brandt, Bertha, Frau, Stargard i. P., Pommernhaus 1 
+ Truth:	Brandt, Bertha, Frau, Stargard i. P., Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Berger, Gerhard, Kaufmann, Alt-Rohlstedt, Preußenhof 1 
+ Truth:	Berger, Gerhard, Kaufmann, Alt=Kohlstedt, Preußenhof | 1 
+ Levenshtein: 4	CER:  0.0714
+
+ OCR:	Döring, Konrad, Dr., Journalist, mit Frau, Berlin, St. Hubert. 2 
+ Truth:	Döring, Konrad, Dr., Journalist, mit Frau, Berlin, St. Hubert. | 2 
+ Levenshtein: 2	CER:  0.0303
+
+final CER: 0.04868913857677903 mean CER: 0.04986259933043358

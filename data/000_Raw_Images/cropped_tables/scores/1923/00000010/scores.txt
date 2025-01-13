@@ -1,0 +1,4 @@
+Score for table_0:  0.9994921684265137
+Score for table_1:  0.9992683529853821
+Score for table_2:  0.9981671571731567
+Score for table_3:  0.8446874618530273

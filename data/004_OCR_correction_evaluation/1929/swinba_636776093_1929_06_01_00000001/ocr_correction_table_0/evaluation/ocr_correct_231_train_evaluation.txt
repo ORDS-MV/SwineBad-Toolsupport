@@ -1,0 +1,49 @@
+ OCR:	Armeth, Erica, Majorsgattin, Schöneberg, Walfisch 1 
+ Truth:	Armeth, Erica, Majorsgattin, Schöneberg, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Andrisch, Rechtsanwalt, Greifswald, Wikinger Hof 1. 
+ Truth:	Andrisch, Rechtsanwalt, Greifswald, Wikinger Hof | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Alexander, Alfred, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Alexander, Alfred, Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Arens, Friedrich, Kaufmann, Bermen, Preußenhof 1 
+ Truth:	Arens, Friedrich, Kaufmann, Bremen, Preußenhof | 1 
+ Levenshtein: 4	CER:  0.08
+
+ OCR:	Adler, S., Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Adler, S., Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Andresen, Georg, Kaufmann, Hamburg, Preußenhof 1 
+ Truth:	Andresen, Georg, Kaufmann, Hamburg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Albrecht, Jens, Kaufmann, Berlin, Achilles 1 
+ Truth:	Albrecht, Jens, Kaufmann, Berlin, Achilles | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Aue, Ingeborg, Potsdam, Elsbeth -- 1 
+ Truth:	Aue, Ingeborg, Potsdam, Elsbeth | 1 
+ Levenshtein: 2	CER:  0.0571
+
+ OCR:	Albu, Fritz, Kaufmann, Berlin, Schmidts Hotel 1 
+ Truth:	Albu, Fritz, Kaufmann, Berlin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Andree, Hermann, Baumeister, mit Familie, Pankow 5 
+ Truth:	Andree, Hermann, Baumeister, mit Familie, Pankow, | 5 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Ahlsten, von, Kaufmann, Neuwuster, Baltischer Hof 1 
+ Truth:	Ahlsten, von, Kaufmann, Neuwuster, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Arlt, Ernst, Kaufmann, Berlin, Wikinger Hof 1 
+ Truth:	Arlt, Ernst, Kaufmann, Berlin, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+final CER: 0.048109965635738834 mean CER: 0.048290477467025306

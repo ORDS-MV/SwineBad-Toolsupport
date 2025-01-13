@@ -1,0 +1,89 @@
+ OCR:	Braun, Erich, Leutnant, Woldegk, Zum Walfisth 1 
+ Truth:	Braun, Erich, Leutnant, Woldegk, Zum Walfisch | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Borsch, Albert, Berlin, Haegers Gasth. --1 
+ Truth:	Borsch, Albert, Berlin, Haegers Gasth. | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Bluhm, August, Zimmermeister, Usedom, Oehlkes Gasth. 1k 
+ Truth:	Bluhm, August, Zimmermeister, Usedom, Oehlkes Gasth. | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Besser, Elisabeth, Frau, Stettin, Seeshloß 1 
+ Truth:	Besser, Elisabeth, Frau, Stettin, Seeschloß | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Vuth, Wilh., Berlin, Haegers Gasth. 1 
+ Truth:	Buth, Wilh., Berlin, Haegers Gasth. | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Bosch, C., Verlagsbuchändler, Berlin, Strandburg 1 
+ Truth:	Basch, C., Berlagsbuchhändler, Berlin, Strandburg | 1 
+ Levenshtein: 5	CER:  0.0943
+
+ OCR:	Brühl, Richard, Feldwebel, Stettin, Schmidts Gasth. 1 
+ Truth:	Brühl, Richard, Feldwebel, Stettin, Schmidts Gasth. | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Bernhard, Emmy, Frau Reg.-Rat, nrit Bed., Berlin, Haus Ela 2 
+ Truth:	Bernhard, Emma, Frau Reg.=Rat, mit Bed., Berlin, Haus Ella | 2 
+ Levenshtein: 7	CER:  0.113
+
+ OCR:	Biehl, Antonie, Frau, Hamburg, Arminius 1 
+ Truth:	Biehl, Antonie, Frau, Hamburg, Arminius | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Blan, Emil, Kaufm., mit Frau, Stettin, Gasth. Westend 2 
+ Truth:	Blanck, Emil, Kaufm., mit Frau, Stettin, Gasth. Westend | 2 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	Vliesath, Erich, Bäcker, Berlin, Haegers Gasth. 1 
+ Truth:	Bliesath, Erich, Bäcker, Berlin, Haegers Gasth. | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Bachrach, Aliee, Frau, Charlottenburg, Schloß Hohenzollern 1 
+ Truth:	Bachrach, Alice, Frau, Charlottenburg, Schloß Hohenzollern | 1 
+ Levenshtein: 3	CER:  0.0484
+
+ OCR:	Berber, Anita, Tänzerin, Berlin, Jeschke ath 1 
+ Truth:	Berber, Anita, Tänzerin, Berlin, Jeschkes Gasth. | 1 
+ Levenshtein: 6	CER:  0.115
+
+ OCR:	Briel, Karl, Marinc-Pfarrer, Warnemünde, Jeshkes Gasth. 1 
+ Truth:	Briel, Karl, Marine=Pfarrer, Warnemünde, Jeschkes Gasth. | 1 
+ Levenshtein: 5	CER:  0.0833
+
+ OCR:	Böller, Hildegard, Konzertsängerin, Stralsund, Zunr Walfish 1 
+ Truth:	Böller, Hildegard, Konzertsängerin, Stralsund, Zum Walfisch | 1 
+ Levenshtein: 5	CER:  0.0794
+
+ OCR:	Buchhorn, Frit, Leutnant, Plathe i. Pom., Schloß am Meer 1 
+ Truth:	Buchhorn, Fritz, Leutnant, Plathe i. Pom., Schloß am Meer | 1 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Burkhart, Grete, Frau Oberstabsarzt, mit Töchtern, Berlin, An de 
+ Truth:	Burkhart, Grete, Frau Oberstabsarzt, mit Töchtern, Berlin, An de 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Waterkant  
+ Truth:	 Waterkant | 3 
+ Levenshtein: 4	CER:  0.286
+
+ OCR:	Burmeister, Dora, Frau Amtsrätin, Berlin, Yeschkes Hotel 1 
+ Truth:	Burmeister, Dora, Frau Amtsrätin, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.05
+
+ OCR:	Blefing, Emma, Frl., Mühlenbe, Haegers Gasth. 1 
+ Truth:	Bleising, Emma, Frl., Mühlenbeck, Haegers Gasth. | 1 
+ Levenshtein: 6	CER:  0.115
+
+ OCR:	Bank, Werner, Jntendanturrat, m. Fanr., Stettin, Schloß Hohenzollern 5 
+ Truth:	Bank, Werner, Intendanturrat, m. Fam., Stettin, Schloß Hohenzollern | 3 
+ Levenshtein: 6	CER:  0.0845
+
+ OCR:	Beerens, Julius, Kaufm., Berlin, Friedenstr. 10a - -- ed 41 
+ Truth:	Beerens, Julius, Kaufm., Berlin, Friedenstr. 10a | 1 
+ Levenshtein: 8	CER:  0.154
+
+final CER: 0.07369323050556983 mean CER: 0.08113675601672704

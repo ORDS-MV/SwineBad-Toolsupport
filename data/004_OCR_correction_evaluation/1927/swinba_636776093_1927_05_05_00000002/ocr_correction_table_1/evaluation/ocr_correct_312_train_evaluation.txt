@@ -1,0 +1,121 @@
+ OCR:	Brums, Otto, Ingen., Berlin, Jeschkes Hotel 1 
+ Truth:	Brums, Otto, Ingen., Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	v. Bärenfels, Adolf, Diplom-Ingen., Stettin, Jeschks Hotel 1 
+ Truth:	v. Bärenfels, Adolf, Diplom=Ingen., Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 4	CER:  0.0635
+
+ OCR:	Aler, Hugo, Direktor, Berlin, Strandburg 1 
+ Truth:	Alex, Hugo, Direktor, Berlin, Strandburg | 1 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Bahlrucks, P., Stettin, Baltischer Hof 1 
+ Truth:	Bahlrucks, P., Stettin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Bennert, Kurt, Stettin, Baltischer Hof 1 
+ Truth:	Bennert, Kurt, Stettin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Duinker, C., Essen, Baltischer Hof 1 
+ Truth:	Duinker, C., Essen, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Bauer, Theodor, Fichthof, Jeschkes Hotel 1 
+ Truth:	Bauer, Theodor, Fichthof, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Doering, Arnold, Gutsbesitzer, Kl. Mokratz, Preußenhof 1 
+ Truth:	Doering, Arnold, Gutsbesitzer, Kl. Mokratz, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Doligkeit, Louise, Berlin, Preußenhof 1 
+ Truth:	Doligkeit, Louise, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Bäsell, Hermann, Stralsund, Pommernhaus 1 
+ Truth:	Bäsell, Hermann, Stralsund, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Deutsch, Martin, Berlin, Jeschkes Hotel 1 
+ Truth:	Deutsch, Martin, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Berg, Karl, Schwerin, Drei Kronen 1 
+ Truth:	Berg, Karl, Schwerin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Bergmann, Hans, Nürnberg, Preußenhofß 1 
+ Truth:	Bergmann, Hans, Nürnberg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Bendix, Emil, mit Frau, Berlin, Hohenstaufen 2 
+ Truth:	Bendix, Emil, mit Frau, Berlin, Hohenstaufen | 2 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Bornemann, Karl, Berlin, Europäischer Hof 1 
+ Truth:	Bornemann, Karl, Berlin, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Ackermann, Adolf, Berlin, Preußenhof 1 
+ Truth:	Ackermann, Adolf, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Drews, Rudolf, Stettin, Kühle Quelle 1 
+ Truth:	Drews, Rudolf, Stettin, Kühle Quelle | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Döhring, Ferdinand, Prenzlau, Europäischer Hof 1 
+ Truth:	Döhring, Ferdinand, Prenzlau, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Breitkopf, Gerhard, Berlin, Preußenhof 1 
+ Truth:	Breitkopf, Gerhard, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Bischoff, Rudolf, Berlin, Baltischer Hof 1 
+ Truth:	Bischoff, Rudolf, Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	v. Carben, Willy, Berlin, Preußenhof 1 
+ Truth:	v. Carben, Willy, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Barsewitz, Gutsbesitzer, Trebbereck, Preußenhof 1 
+ Truth:	Barsewitz, Gutsbesitzer, Trebbereck, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Brandes, I., Neuenhagen, Preußenhof 1 
+ Truth:	Brandes, I., Neuenhagen, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Below, Alfred, Stettin, Central-Hotel 1 
+ Truth:	Below, Alfred, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Böhme, Marg., Wilmersdorf, Hubertus 1 
+ Truth:	Böhme, Marg., Wilmersdorf, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Bock, Maud, 2 Preußenhof 1 
+ Truth:	Bock, Maud, ? Preußenhof | 1 
+ Levenshtein: 3	CER:  0.107
+
+ OCR:	Bornemann, Meta, Berlin, Europäischer Hof 1 
+ Truth:	Bornemann, Meta, Berlin, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Beyer, Alfred, mit Frau, Stettin, Preußenhof 2 
+ Truth:	Beyer, Alfred, mit Frau, Stettin, Preußenhof | 2 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Christoph, Paul, Stargard, Baltischer Hof 1 
+ Truth:	Christoph, Paul, Stargard, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Damerius, Wilhelm, Berlin, Jeschkes Hotel 1 
+ Truth:	Damerius, Wilhelm, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0444
+
+final CER: 0.04954268292682927 mean CER: 0.05047233103234396

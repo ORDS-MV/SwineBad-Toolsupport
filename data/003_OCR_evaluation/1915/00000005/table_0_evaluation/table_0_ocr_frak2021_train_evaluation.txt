@@ -1,0 +1,161 @@
+ OCR:	Dohse, Wilhelm, Kaufm, Hannover, Eberts Strandkonditorei 1 
+ Truth:	Dohse, Wilhelm, Kaufm , Hannover, Eberts Strandkonditorei | 1 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Dieckmann, Mar, Dr., prakt. Arzt, Berlin⸗Tempelhof, Schloß Sohen⸗ 
+ Truth:	Dieckmann, Max, Dr., prakt. Arzt, Berlin=Tempelhof, Schloß Hohen= 
+ Levenshtein: 4	CER:  0.0615
+
+ OCR:	zollern. 22 
+ Truth:	zollern | 2 
+ Levenshtein: 3	CER:  0.273
+
+ OCR:	Brecht, Charlotte, Frau Landrat, Grünheide i. d. Mark b. Berlin, Villa 
+ Truth:	Brecht, Charlotte, Frau Landrat, Grünheide i. d. Mark b. Berlin, Villa  
+ Levenshtein: 1	CER:  0.0141
+
+ OCR:	Strandburg 1 
+ Truth:	Strandburg | 1 
+ Levenshtein: 2	CER:  0.143
+
+ OCR:	Dieninghoff, Hauptmann, m. Frau, Stettin, Splenddd 2 
+ Truth:	Dieninghoff, Hauptmann, m. Frau, Stettin, Splendid | 2 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Daden, Hans, Bankbeamter, Charlottenburg, Haus Freia 1 
+ Truth:	Daden, Hans, Bankbeamter, Charlottenburg, Haus Freia | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Cohn, William, Kaufm., m. Fam., Charlottenburg, Dünenstr. 11 3 
+ Truth:	Cohn, William, Kaufm., m. Fam., Charlottenburg, Dünenstr. 11 | 3 
+ Levenshtein: 2	CER:  0.0312
+
+ OCR:	Behr, August, Zollkontrolleur, Stettin, Gasth. Norddeutscher BHof 1 
+ Truth:	Behr, August, Zollkontrolleur, Stettin, Gasth. Norddeutsher Hof | 1 
+ Levenshtein: 4	CER:  0.0597
+
+ OCR:	Calies, Meta, Frau u. Sohn, Stettin, Herrenbadstr. 7 2 
+ Truth:	Calies, Meta, Frau u. Sohn, Stettin, Herrenbadstr. 7 | 2 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Breitsprecher, Anna, Frau u. Sohn, Straßburg, Risch, Grenzstr. 32 2 
+ Truth:	Breitsprecher, Anna, Frau u. Sohn, Straßburg, Risch, Grenzstr. 32 | 2 
+ Levenshtein: 2	CER:  0.029
+
+ OCR:	Chinnow, Rentier, m. Töchter, Stettin, Villa Steffen 3 
+ Truth:	Chinnow, Rentier, m. Töchter, Stettin, Villa Steffen | 3 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	v. Carnap⸗Quernheimb, Elisabeth, Frau, Berlin, Gasth. Prinz Eitel 
+ Truth:	v. Carnap=Quernheimb, Elisabeth, Frau, Berlin, Gasth. Prinz Eitel  
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	ö Friedrich 1 
+ Truth:	Friedrich | 1 
+ Levenshtein: 4	CER:  0.308
+
+ OCR:	Dohse, Louis, Kaufm., Stargard i. P., Eberts Strandkonditorei 1 
+ Truth:	Dohse, Louis, Kaufm., Stargard i. P., Eberts Strandkonditorei | 1 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Dieckmann, Alfred, Kaufm., Stettin, Stranddurg 2 
+ Truth:	Dieckmann, Alfred, Kaufm., Stettin, Strandburg | 2 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Custodis, Jos., Kaufm., m. Frau, Freiberg i. Br., Stranddburg 2 
+ Truth:	Custodis, Jos., Kaufm., m. Frau, Freiberg i. Br., Strandburg | 2 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	Bosek, Hertha, Frau Kaufmann, Haida i. Böhmen, Villa Wartburg 1 
+ Truth:	Bosek, Hertha, Frau Kaufmann, Haida i. Böhmen, Villa Wartburg | 1 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Cohn, M., Kaufm., nr. Frau, Stettin, Splendid 2 
+ Truth:	Cohn, M., Kaufm., m. Frau, Stettin, Splendid | 2 
+ Levenshtein: 4	CER:  0.0833
+
+ OCR:	Chemnitz, Willi, Ingenieur, m. Frau, Berlin, Hempel, Königsstr. 26 2 
+ Truth:	Chemnitz, Willi, Ingenieur, m. Frau, Berlin, Hempel, Königsstr. 26 | 2 
+ Levenshtein: 2	CER:  0.0286
+
+ OCR:	Breuert, W., Besitzer, Stettin, Eberts Strandkonditorie 1 
+ Truth:	Breuert, W., Besitzer, Stettin, Eberts Strandkonditorei | 1 
+ Levenshtein: 3	CER:  0.0508
+
+ OCR:	Dietrich, Otto, Revisor, Hamburg, Schmidts Gastth. 1 
+ Truth:	Dietrich, Otto, Revisor, Hamburg, Schmidts Gasth. | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Danziger, H., Baumeister, m. Frau, Berlin, Park-Gasth. 2 
+ Truth:	Danziger, H., Baumeister, m. Frau, Berlin, Park=Gasth. | 2 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Dobberritz, C., Kaufm., m. Frau, Stettin, Wagner, Moltkestr. 19 2 
+ Truth:	Dobberritz, C., Kaufm., m. Frau, Stettin, Wagner, Moltkestr. 19 | 2 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Bleuel, Joh., Berlin, Villa Nußbaum 1 
+ Truth:	Bleuel, Joh., Berlin, Villa Nußbaum | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Brökelmann, Adolf, Kaufmann, m. Frau, Berlin, Ostsee⸗Gasth. 2 
+ Truth:	Brökelmann, Adolf, Kaufmann, m. Frau, Berlin, Ostsee=Gasth. | 2 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	Dehn, Paul, Kaufm., Stettin, Hubertus 1 
+ Truth:	Dehn, Paul, Kaufm., Stettin, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Dräger, Fabrikbes., m, Fam., Berlin Splendd 3 
+ Truth:	Dräger, Fabrikbes., m, Fam., Berlin Splendid | 3 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Dhew, Fabrikbesitzer, m. Frau, Berlin, Splenddd 2 
+ Truth:	Dhew, Fabrikbesitzer, m. Frau, Berlin, Splendid | 2 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Dacke, Wilhelm, Steuersekretär, Stettin, Park-Gasth. 1 
+ Truth:	Dacke, Wilhelm, Steuersekretär, Stettin, Park=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Dietschthest, Ernst, Fabrikbes., m. Fam., Schwedt, Villa Friedensburg 5 
+ Truth:	Dietschthest, Ernst, Fabrikbes., m. Fam., Schwedt, Villa Friedensburg | 5 
+ Levenshtein: 2	CER:  0.0274
+
+ OCR:	Capptullex, Alfred, Bankbeamter, m. Frau, Berlin, Villa Hohenstaufen 2 
+ Truth:	Capptuller, Alfred, Bankbeamter, m. Frau, Berlin, Villa Hohenstraufen | 2 
+ Levenshtein: 4	CER:  0.0548
+
+ OCR:	Devantier, Rich., Kaufm., Stettin, Villa Maritima 1 
+ Truth:	Devantier, Rich., Kaufm., Stettin, Villa Maritima | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Bonte, Lena, Frau Bankier, Berlin, Viktoria-Gasth. 1 
+ Truth:	Bonte, Lena, Frau Bankier, Berlin, Viktoria=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Dallmer, Paul, Laz.-Insp., m. Frau, Pasewalk, Wagner, Moltkestr. 19 2 
+ Truth:	Dallmer, Paul, Laz.=Insp., m. Frau, Pasewalk, Wagner, Moltkestr. 19 | 2 
+ Levenshtein: 3	CER:  0.0423
+
+ OCR:	David, Erich, Kaufm., m. Frau, Berlin, Villa Stefffnn 2 
+ Truth:	David, Erich, Kaufm., m. Frau, Berlin, Villa Steffen | 2 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Duffner, Marie, Frau, Misdroy, Frank, Schulstr. 27 1 
+ Truth:	Duffner, Marie, Frau, Misdroy, Frank, Schulstr. 27 | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	v. Brandenstein⸗Richert, Fridel, Frau Gutsbes., Stettin, Preußenhof 1 
+ Truth:	v. Brandenstein=Richert, Fridel, Frau Gutsbes., Stettin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0423
+
+ OCR:	Calmon, Gertrud, Frl., Berlin, Villa Dünenschloß 1 
+ Truth:	Calmon, Gertrud, Frl., Berlin, Villa Dünenschloß | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Conradt, Bauerhofsbes., Nitznow, Werner, Färberstr. 18 1 
+ Truth:	Conradt, Bauerhofsbes., Nitznow, Werner, Färberstr. 48 | 1 
+ Levenshtein: 3	CER:  0.0517
+
+final CER: 0.04742729306487696 mean CER: 0.05984309289360425

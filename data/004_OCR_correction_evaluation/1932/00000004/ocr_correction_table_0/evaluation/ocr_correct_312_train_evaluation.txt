@@ -1,0 +1,157 @@
+ OCR:	Jordan Lisa, Frau Dr., Berlin, Midgard 1 
+ Truth:	Jordan, Lisa, Frau Dr., Berlin, Midgard | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Handel, Georg, Dipl.-Ingenieur, Berlin, Cäcilie 1 
+ Truth:	Handel, Georg, Dipl.=Ingenieur, Berlin, Cäcilie | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Häse, Franz, mit Frau, Stebtin, Melanie 2 
+ Truth:	Häse, Franz, mit Frau, Stettin, Melanie | 2 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	v. Gerloff, Heinz-Werner, Berlin, Friedensburg 1 
+ Truth:	v. Gerloff, Heinz=Werner, Berlin, Friedensburg | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Hahndorff, Victor, Berlin, Neptun 1 
+ Truth:	Hahndorff, Victor, Berlin, Neptun | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Hofmann, Fredy, Kaufm., Berlin, Fürst Bismarck 1 
+ Truth:	Hofmann, Fredy, Kaufm., Berlin, Fürst Bismarck | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Hammerstein, Erna, Korrespondentin, Berlin, Wilhelmsruh 1 
+ Truth:	Hammerstein, Erna, Korrespondentin, Berlin, Wilhelmsruh | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	kaiser, Willy, Industrie-Generalvertr., Berlin, Dresdener Hof 1 
+ Truth:	Kaise, Willy, Industrie=Generalvertr., Berlin, Dresdener Hof | 1 
+ Levenshtein: 5	CER:  0.0781
+
+ OCR:	Hiller, Richard, Verw.-Insp., mit Frau, Züllichau, Germania 2 
+ Truth:	Hiller, Richard, Verw.=Insp., mit Frau, Züllichau, Germania | 2 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	Hirsch, Otto, Kaufm., mit Familie, Berlin, Hubertus 3 
+ Truth:	Hirsch, Otto, Kaufm., mit Familie, Berlin, Hubertus | 3 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Kasinger, Hedwig und Ruth, Berlin-Steglitz, Heysestr. 22 2 
+ Truth:	Kasinger, Hedwig und Ruth, Berlin=Steglitz, Heysestr. 22 | 2 
+ Levenshtein: 3	CER:  0.05
+
+ OCR:	Goergenski, Paul, mit Frau, Neukölln, Achilles 2 
+ Truth:	Goergenski, Paul, mit Frau, Neukölln, Achilles | 2 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Hasenack, Wilhelm, Privatdozent, Berlin, Hindersinstraße 1 
+ Truth:	Hasenack, Wilhelm, Privatdozent, Berlin, Hindersinstraße | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Gongoll, Hedy, Berlin, Reichsadler B 1 
+ Truth:	Gongoll, Hedy, Berlin, Reichsadler | 1 
+ Levenshtein: 1	CER:  0.0263
+
+ OCR:	Fritsch, Fritz, Kaufm., Hamburg, Hubertus 1 
+ Truth:	Fritsch, Fritz, Kaufm., Hamburg, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Fischer, Helga, Lehrerin, Berlin, Gertrud 1 
+ Truth:	Fischer, Helga, Lehrerin, Berlin, Gertrud | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Grünwaldt, Willi, Dr., Syndikus, Charlottenburg, Strandburg 1 
+ Truth:	Grünwaldt, Willi, Dr., Syndikus, Charlottenburg, Strandburg | 1 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Feidelberg, Hermann, Kaufm., Berlin, Ostsee-Palast-Hotel 1 
+ Truth:	Feidelberg, Hermann, Kaufm., Berlin, Ostsee=Palast=Hotel | 1 
+ Levenshtein: 4	CER:  0.0667
+
+ OCR:	Horst, Gebrüder, Stettin, Neptun 8 
+ Truth:	Horst, Gebrüder, Stettin, Neptun | 3 
+ Levenshtein: 3	CER:  0.0833
+
+ OCR:	Graupe, Lisbeth, Frau Oberlandesgerichtsrat, mit Tochter 
+ Truth:	Graupe, Lisbeth, Frau Oberlandesgerichtsrat, mit Tochter, 
+ Levenshtein: 1	CER:  0.0175
+
+ OCR:	Privatstraße 122 2 
+ Truth:	 Privatstraße 12 | 2 
+ Levenshtein: 3	CER:  0.15
+
+ OCR:	Gutovitz, Dr. med., Arzt, mit Frau, Berlin, Gertrud 2 
+ Truth:	Gutovitz, Dr. med., Arzt, mit Frau, Berlin, Gertrud | 2 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Keitmann, Ingrid, stud. jur., Berlin, Herrenbadstr. 8 1 
+ Truth:	Keitmann, Ingrid, stud. jur., Berlin, Herrenbadstr. 8 | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Faulhaber, Jacob, Ingenieur, mit Frau, Berlin, Meta 2 
+ Truth:	Faulhaber, Jacob, Ingenieur, mit Frau, Berlin, Meta | 2 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Fischer, Kurt, Dr., Chemiker, mit Frau, Leuna, Agnes 2 
+ Truth:	Fischer, Kurt, Dr., Chemiker, mit Frau, Leuna, Agnes | 2 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Jaechel, Annemarie, Frau, Berlin, Hubertus 1 
+ Truth:	Jaeckel, Annemarie, Frau, Berlin, Hubertus | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Hoffmann, Paul, Dr., Arzt, mit Fam., Berlin-Friedenau, Flora 4 
+ Truth:	Hoffmann, Paul, Dr., Arzt, mit Fam., Berlin=Friedenau, Flora | 4 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	Grunwald, Otto, Ingenieur, mit Frau, Berlin, Ursula 2 
+ Truth:	Grunwald, Otto, Ingenieur, mit Frau, Berlin, Ursula | 2 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Johansen, Franziska, Kopenhagen, Waterkant 1 
+ Truth:	Johansen, Franziska, Kopenhagen, Waterkant | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Huth, Lieselotte, Potsdam, Elsbeth 1 
+ Truth:	Huth, Lieselotte, Potsdam, Elsbeth | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Falt, Eugen, Kaufm., mit Frau, Berlin, Hubertus 2 
+ Truth:	Falk, Eugen, Kaufm., mit Frau, Berlin, Hubertus | 2 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Katz, Margarete, Frau Redakteur, Berlin, Dünenschloß 1 
+ Truth:	Katz, Margarete, Frau Redakteur, Berlin, Dünenschloß | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Ferber, Katharina, Lehrerin, Berlin, Min Ollendeel 1 
+ Truth:	Ferber, Katharina, Lehrerin, Berlin, Min Ollendeel | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Fredrich, Ewald, Baumeister, mit Frau, Berlin, Sonnenschein 2 
+ Truth:	Frederich, Ewald, Baumeister, mit Frau, Berlin, Sonnenschein | 2 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	Klein, Maria, Ehefrau, Rüstvingen, Beatus ille 1 
+ Truth:	Klein, Maria, Ehefrau, Küstringen, Beatus ille | 1 
+ Levenshtein: 4	CER:  0.08
+
+ OCR:	Kloidt, Franz, Dr. phil., Reg.-Rat, mit Fam., Berlin, Midgard 3 
+ Truth:	Kloidt, Franz, Dr. phil., Reg.=Rat, mit Fam., Berlin, Midgard | 3 
+ Levenshtein: 3	CER:  0.0462
+
+ OCR:	Fink, Albert, Kaufm., Berlin, Atlantik 1 
+ Truth:	Fink, Albert, Kaufm., Berlin, Atlantic | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	v. Gerloff, Freiherr, Berlin, Friedensburg 1 
+ Truth:	v. Gerloff, Freiherr, Berlin, Friedensburg | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Joschung, Herbert, Kaufm., Berlin, Dünenschloß 1 
+ Truth:	Joschung, Herbert, Kaufm., Berlin, Dünenschloß | 1 
+ Levenshtein: 2	CER:  0.04
+
+final CER: 0.04852426213106553 mean CER: 0.050868000902180306

@@ -1,0 +1,217 @@
+ OCR:	Seher, Georg, Kaufm., Graz, Hardenbergstr. 4 1 
+ Truth:	Hetzer, Georg, Kaufm., Graz, Hardenbergstr. 4 | 1 
+ Levenshtein: 5	CER:  0.102
+
+ OCR:	de Groen, Thea, Frl., Berlin, Hotel Walfisch 1 
+ Truth:	de Groen, Thea, Frl., Berlin, Hotel Walfisch | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Frudri, Weagda, Stettin, Ostsee-Hotel 1 
+ Truth:	Frudri, Magda, Stettin, Ostsee=Hotel | 1 
+ Levenshtein: 5	CER:  0.125
+
+ OCR:	Klein, Adolf Kaufm., mit Frau, Stettin, Haus Hohenstaufen 
+ Truth:	Klein, Adolf, Kaufm., mit Frau, Stettin, Haus Hohenstaufen | 2 
+ Levenshtein: 5	CER:  0.0806
+
+ OCR:	Kehling, Edmund, Kaufm., mit Fam., Berlin, Neuestr. 33 8 
+ Truth:	Kehling, Edmund, Kaufm., mit Fam., Berlin, Neuestr. 43 | 3 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Karpp, Emil, Kaufm., Berlin, Hotel Deutsches Haus 
+ Truth:	Karpp, Emil, Kaufm., Berlin, Hotel Deutsches Haus | 2 
+ Levenshtein: 4	CER:  0.0755
+
+ OCR:	Hartmann-Sroba, Roland, Musiker, Charlottenburg, Wilhelmstr. 10 1 
+ Truth:	Hartmann=Droba, Roland, Musiker, Charlottenburg, Wilhelmstr. 10 | 1 
+ Levenshtein: 4	CER:  0.0597
+
+ OCR:	Hoppe, Martha, Berlin, Schweriner Hof 
+ Truth:	Hoppe, Martha, Berlin, Schweriner Hof | 1 
+ Levenshtein: 4	CER:  0.0976
+
+ OCR:	Franzelius, Georg, Pastor, Berlin, Moltkestr. 7 
+ Truth:	Franzelius, Georg, Pastor, Berlin, Molktestr. 7 | 1 
+ Levenshtein: 6	CER:  0.118
+
+ OCR:	Hasemann, Walter, Kaufm., Danzig, Schweriner Fohas 1 
+ Truth:	Hasemann, Walter, Kaufm., Danzig, Schweriner Hof | 1 
+ Levenshtein: 4	CER:  0.0769
+
+ OCR:	Golditen, Walter, Reisender, Schweriner Hof 1 
+ Truth:	Golditen, Walter, Reisender, Schweriner Hof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Kuhme, Paul, Direktor, Berlin, Villa Kaiser Wilhelm 1 
+ Truth:	Kuhme, Paul, Direktor, Berlin, Villa Kaiser Wilhelm | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	 
+ Truth:	Höst, Jul., Kaufm., Stettin, Gr. Kirchenstr. 3 | 1 
+ Levenshtein: 50	CER:  1.0
+
+ OCR:	Hübner, Ernst, Techniker, Heegermühle, Central-Hotel 1 
+ Truth:	Hübner, Ernst, Techniker, Heegermühle, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Fahn, Käthe, Privatiere, Berlin, Park-Hotel 1 
+ Truth:	Jahn, Käthe, Privatiere, Berlin, Park=Hotel | 1 
+ Levenshtein: 4	CER:  0.0851
+
+ OCR:	Klabes, Eugen, Kaufm., Berlin, Viktoria-Hotel 1 
+ Truth:	Klabes, Eugen, Kaufm., Berlin, Viktoria=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Gohi, Direktor, mit Fam., Berlin, Katz, Dünenstr. 11 
+ Truth:	Gossi, Direktor, mit Fam., Berlin, Katz, Dünenstr. 19 | 5 
+ Levenshtein: 7	CER:  0.123
+
+ OCR:	van Hees, Albert, Kaufm., Berlin, Villa Beatus ille 1 
+ Truth:	van Hees, Albert, Kaufm., Berlin, Villa Beatus ille | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Hamann, Herbert, Seminarist, Berlin, Hotel International 1 
+ Truth:	Hamann, Herbert, Seminarist, Berlin, Hotel International | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Katzky, Margarete, Privatiere, Berlin, Hohenstaufen 2 
+ Truth:	Katzky, Margarete, Privatiere, Berlin, Hohenstaufen | 1 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	König, Fritz, Dentist, mit Fam., Stettin, Villa Irmela 4 
+ Truth:	König, Fritz, Dentist, mit Fam., Stettin, Villa Irmela | 4 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	 
+ Truth:	Hahn, Frieda, Privatiere, Charlottenburg, Park=Hotel | 1 
+ Levenshtein: 56	CER:  1.0
+
+ OCR:	Koch August, Direktor, mit Frau, Berlin, Strandpalast 
+ Truth:	Koch, August, Direktor, mit Frau, Berlin, Strandpalast | 2 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	Follos, Viktor, Dr. phil., Berlin, Strandburg 2 
+ Truth:	Jollos, Viktor, Dr. phil., Berlin, Strandburg | 2 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Körting, Georg, Hauptm. a. D., Berlin, Dünenstr. 3 1 
+ Truth:	Körting, Georg, Hauptm. a. D., Berlin, Dünenstr. 3 | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Henning, Erich, Postsekretär, Berlin, Central-Hotel 
+ Truth:	Henning, Erich, Postsekretär, Berlin, Central=Hotel | 1 
+ Levenshtein: 5	CER:  0.0909
+
+ OCR:	Klemm, Paul, Prokurist, mit Frau, Katz, Dünenstr. 18 | 2 
+ Truth:	Klemm, Paul, Prokurist, mit Frau, ? Katz, Dünenstr. 19 | 2 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	dirich Bertha, Berlin, villa Editha 2 
+ Truth:	Hirsch, Bertha, Berlin, Villa Editha | 1 
+ Levenshtein: 7	CER:  0.175
+
+ OCR:	Katiner, Heinrich, Kreisrat, Schönlanke, Hotel Deutsches Haus 1 
+ Truth:	Kattner, Heinrich, Kreisrat, Schönlanke, Hotel Deutsches Haus | 1 
+ Levenshtein: 3	CER:  0.0462
+
+ OCR:	Hahnen Michael, Kaufm., Wien, Katz, Dünenstraße 1 
+ Truth:	Hahnen, Michael, Kaufm., Wien, Katz, Dünenstraße | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Kann, Herbert, Kaufm., Berlin, Hotel Walfisch 1 
+ Truth:	Kann, Herbert, Kaufm., Berlin, Hotel Walfisch | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Grüning, Karl, Ingenieur, mit Frau, Heringsdorf, Hotel Westend 2 
+ Truth:	Grüning, Karl, Ingenieur, mit Frau, Heringsdorf, Hotel Westend | 2 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Hesse, Adolf, Inspektor, Charlottenburg, Gastw. Schas 1 
+ Truth:	Hesse, Adolf, Inspektor, Charlottenburg, Gastw. Schatz | 1 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Kornemann, Chr., Frau, Stettin, Augustastr. 7 1 
+ Truth:	Kornemann, Chr., Frau, Stettin, Augustastr. 7 | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Katzenstein, Franz, Kaufm., mit Frau, Berlin, Katz, Dünenstr. 19 2 
+ Truth:	Katzestein, Franz, Kaufm., mit Frau, Berlin, Katz, Dünenstr. 19 | 2 
+ Levenshtein: 3	CER:  0.0448
+
+ OCR:	Hirschfeld, Lotte, Frau, Binz, Jeschkes Hotel 1 
+ Truth:	Hirschfeld, Lotte, Frau, Binz, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Kehling, Ernst, Kaufm., mit Frau, Berlin, Neuestr. 45 5 
+ Truth:	Kehling, Ernst, Kaufm., mit Frau, Berlin, Neuestr. 45 | 5 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Klabes, Erich, Kaufm., Berlin, Viktoria-Hotel 1 
+ Truth:	Klabes, Erich, Kaufm., Berlin, Viktoria=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Faechel, Charlotte, Frau, mit Fam., Berlin, Haus Helene 3 
+ Truth:	Jaeckel, Charlotte, Frau, mit Fam., Berlin, Haus Helene | 3 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	Fanbe, Maria, Berlin, Villa Vineta 1 
+ Truth:	Janke, Maria, Berlin, Villa Vineta | 1 
+ Levenshtein: 4	CER:  0.105
+
+ OCR:	Hanne, Georg, Kaufm., Berlin, Pension Nußbaum 1 
+ Truth:	Hanne, Georg, Kaufm., Berlin, Pension Nußbaum | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Krüger, Wilhelm, Kaufm., Berlin, Villa Irmela 1 
+ Truth:	Krüger, Wilhelm, Kaufm., Berlin, Villa Irmela | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Hansin, Johannes, Zahntechniker, Friedland i. M., Norddeutscher Hof 1 
+ Truth:	Hansin, Johannes, Zahntechniker, Friedland i. M., Norddeutscher Hof | 1 
+ Levenshtein: 2	CER:  0.0282
+
+ OCR:	Keltmet, Fosef Landgerichtssekvetär, Berlin, Deutsches Haus 1 
+ Truth:	Kettmer, Josef, Landgerichtssekretär, Berlin, Deutsches Haus | 1 
+ Levenshtein: 7	CER:  0.109
+
+ OCR:	Hesse, Joachim, Kaufm., mit Frau, Dünentr. 14 2 
+ Truth:	Hesse, Joachim, Kaufm., mit Frau, Dünenstr. 14 | 2 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Krüger, Johanna, Frl., Berlin, Villa Irmela 1 
+ Truth:	Krüger, Johanna, Frl., Berlin, Villa Irmela | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Fornofsti, Crich, Kaufm., Stettin, Central-Hotel 1 
+ Truth:	Fornofski, Erich, Kaufm., Stettin, Central=Hotel | 1 
+ Levenshtein: 5	CER:  0.0962
+
+ OCR:	Jacobowitz, Mich., Kaufm., Berlin, Deutsches Haus 1 
+ Truth:	Jacobowitz, Mich., Kaufm., Berlin, Deutsches Haus | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	dentalmann Otto, Kaufm, Berlin, Katz, Dünenstr. 11 1 
+ Truth:	Henkelmann, Otto, Kaufm., Berlin, Katz, Dünenstr. 19 | 1 
+ Levenshtein: 8	CER:  0.143
+
+ OCR:	Fahnke, Elise, Frau, Heiligensee, Villa Vineta 1 
+ Truth:	Jahnke, Elise, Frau, Heiligensee, Villa Vineta | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Fahnke, Marie, Geschäftsinhaberin, Stettin, Viktoria⸗Hotel 1 
+ Truth:	Jahnke, Marie, Geschäftsinhaberin, Stettin, Viktoria=Hotel | 1 
+ Levenshtein: 4	CER:  0.0645
+
+ OCR:	Friedmann, Wilh., Diplom-Ingen., Stettin, Vittoria-Hotel 1 
+ Truth:	Friedmann, Wilh., Diplom=Ingen., Stettin, Viktoria=Hotel | 1 
+ Levenshtein: 5	CER:  0.0833
+
+ OCR:	Geißler, Willy, Kaufm., Berlin, Hotel International 1 
+ Truth:	Geißler, Willy, Kaufm., Berlin, Hotel International | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Gammrath, Paul, Kaufm., Berlin, Jeschtes Hotel 1 
+ Truth:	Gammrath, Paul, Kaufm., Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+final CER: 0.09910529938059189 mean CER: 0.10093475959885777

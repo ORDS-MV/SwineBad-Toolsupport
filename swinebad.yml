@@ -1,0 +1,26 @@
+name: swinebad
+channels:
+  - pytorch
+  - nvidia
+  - https://conda.anaconda.org/conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pytorch=2.3
+  - pytorch-cuda
+  - torchvision
+  - tensorboard
+  - pip
+  - pip:
+    - nvidia-smi
+    - nvitop
+    - scikit-learn
+    - labelme2coco
+    - Wand
+    - pytesseract
+    - python-levenshtein==0.25.1
+    - bitsandbytes==0.43.3
+    - accelerate==0.33.0
+    - transformers==4.44.2

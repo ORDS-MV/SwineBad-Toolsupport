@@ -1,0 +1,221 @@
+ OCR:	Theodor, Kaufmann, Elbing, Central-Hotel 1 
+ Truth:	Fuchs, Theodor, Kaufmann, Elbing, Central=Hotel | 1 
+ Levenshtein: 10	CER:  0.196
+
+ OCR:	Gerlach, Heinr., Kaufmann, Stolpe, Haegers Hotel 1 
+ Truth:	Gerlach, Heinr., Kaufmann, Stolpe, Haegers Hotel | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Habetha, H., Fabrikbesitzer, Torgelow, Hot. Schwer. Hof 1 
+ Truth:	Habetha, H., Fabrikbesitzer, Torgelow, Hot. Schwer. Hof | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Guttmann, Georg, Kaufm., und Frau, Weiden Bayern 
+ Truth:	Guttmann, Georg, Kaufm., mit Frau, Weiden (Bayern), 
+ Levenshtein: 6	CER:  0.118
+
+ OCR:	Hohenzollernhof 2 
+ Truth:	 Hohenzollernhof | 2 
+ Levenshtein: 3	CER:  0.15
+
+ OCR:	Henning, Otto, Kaufmann, Brandenburg, Metropol 1 
+ Truth:	Hennig, Otto, Kaufmann, Brandenburg, Metropol | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Görlitz, Emil, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Görlitz, Emil, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Jacubowsky, Georg, Kaufmann, Leipzig, H. Drei Kronen 1 
+ Truth:	Jacubowsky, Georg, Kaufmann, Leipzig, H. Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Greiser, Max, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Greiser, Max, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Goedecke, H., Hotelier, Berlin, Central-Hotel 1 
+ Truth:	Goedecke, H., Hotelier, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Fröhlich, Gustav, Schauspieler, Berlin, Villa Achilles 1 
+ Truth:	Fröhlich, Gustav, Schauspieler, Berlin, Villa Achilles | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Gerrelmann, Minna, Witwe, Leba, Lotsenstraße 11 1 
+ Truth:	Gerrelmann, Minna, Witwe, Leba, Lotsenstraße 11 | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Freund, Bruno, Kaufmann, Berlin, Central-Hotel 1 
+ Truth:	Freund, Bruno, Kaufmann, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Herzkowitz, Ludwig, Kaufmann, Stuttgart, Preußenhof 1 
+ Truth:	Herzkowitz, Ludwig, Kaufmann, Stuttgart, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Kapp, Gustav, Bahnhofswirt, Stargard, Ht. Drei Kronen 1 
+ Truth:	Kapp, Gustav, Bahnhofswirt, Stargard, Ht. Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Jünger, Wilhelm, Kaufmann, Lüdenscheid, Baltischer Hof 1 
+ Truth:	Jünger, Wilhelm, Kaufmann, Lüdenscheid, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Grande, E., Heringsdorf, Drei Kronen 1 
+ Truth:	Grande, E., Heringsdorf, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Hiller, August, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Hiller, August, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Gerber, Willy, Kaufmann, Berlin, Central-Hotel 1 
+ Truth:	Gerber, Willy, Kaufmann, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Geraht, Karl, Oberingenieur, Pankow, Central-Hotel 1 
+ Truth:	Geraht, Karl, Oberingenieur, Pankow, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Horn, Harry, Schauspieler, Berlin, Villa Achilles 1 
+ Truth:	Horn, Harry, Schauspieler, Berlin, Villa Achiles | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Gutzmann, Georg, Ksm., mit Frau, Stettin, Drei Kronen 2 
+ Truth:	Gutzmann, Georg, Kfm., mit Frau, Stettin, Drei Kronen | 2 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Koeppel, Wilh., Baumeister, Stettin, Hotel Drei Kronen 1 
+ Truth:	Koeppel, Wilh., Baumeister, Stettin, Hotel Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Gaebler, Otto, Kaufmann, Berlin, Jeschkes Hotel 1 
+ Truth:	Gaebler, Otto, Kaufmann, Berlin, Jesckes Hotel | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Gruhlke, Robert, Mühlenbesitzer, Prenzlau, Drei Kronen 1 
+ Truth:	Gruhlke, Robert, Mühlenbesitzr, Prenzlau, Drei Kronen | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Gehrmann, Carl, Kaufmann, mit Frau, Stettin, Balt. Hof 2 
+ Truth:	Gehrmann, Carl, Kaufmann, mit Frau, Stettin, Balt. Hof | 2 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Hopfmann, Amalia, Frau Kaufm., Stettin, Christl. Hosp. 1 
+ Truth:	Hopfmann, Amalia, Frau Kaufm., Stettin, Christl. Hosp. | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Friedheim, Otto, Hamburg, Baltischer Hof 1 
+ Truth:	Friedheim,, Otto, Hamburg, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Haaker, Ludwig, Wilsnach, Kl. Markt. 1 
+ Truth:	Haaker, Ludwig, Wilsnach, Kl. Markt | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Klöhn, Max, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	Klöhn, Max, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Höring, W., Kaufmann, Berlin, Jeschkes Hotel 1 
+ Truth:	Höring, W., Kaufmann, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Hambruch, Wilh., Kaufmann, Oliva, Preußenhof 1 
+ Truth:	Hambruch, Wilh., Kaufmann, Oliva, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Handrenk, Max, Kaufmann, Berlin, Jeschkes Hotel 1 
+ Truth:	Handrenk, Max, Kaufmann, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Heide, Wilh., Bankbeamter, Berlin, Hotel Drei Kronen 1 
+ Truth:	Heide, Wilh., Bankbeamter, Berlin, Hotel Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Graef, Rudolf, Komm., mit Frau, Berlin, Haegers Hotel 2 
+ Truth:	Graef, Rudolf, Komm., mit Frau, Berlin, Haegers Hotel | 2 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Hoge, Carl, Kaufmann, mit Frau, Berlin, Metropol 2 
+ Truth:	Hoge, Carl, Kaufmann, mit Frau, Berlin, Metropol | 2 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Gruber, Wilhelm, Kaufmann, Wittenberg, Baltischer Hof 1 
+ Truth:	Gruber, Wilhelm, Kaufmann, Wittenberg, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Foerster, Ernst, Referendar, Leipzig, Drei Kronen 1 
+ Truth:	Foerster, Ernst, Referendar, Leipzig, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Jahn, Rudolf, Kaufmann, Berlin, Central-Hotel 1 
+ Truth:	Jahn, Rudolf, Kaufmann, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Gerchandt, Carl, Kaufmann, Stralsund, Jeschkes Hotel 1 
+ Truth:	Gerchlandt, Carl, Kaufmann, Stralsund, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	vom Hofe, Kalau, Kaufmann, Stettin, Central-Hotel 1 
+ Truth:	vom Hofe, Kalau, Kaufmann, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Hoffmann, Frau, mit Tochter, Berlin, Jeschkes Hotel 2 
+ Truth:	Hoffmann, Frau, mit Tocter, Berlin, Jeschkes Hotel | 2 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Krahn, Thea, Frau, Berlin, Preußenhof 1 
+ Truth:	Krahn, Thea, Frau, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Grunwald, Walter, Kaufmann, Greifswald, Central-Hotel 1 
+ Truth:	Grunwald, Walter, Kaufmann, Greifswald, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Jming, Wilh., Ingenieur, Bremen, Hotel Schweriner Hof 1 
+ Truth:	Iming, Wilh., Ingenieur, Bremen, Hotel Schweriner Hof | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Foerster, Ernst, Referendar, Leipzig, Preußenhof 1 
+ Truth:	Foerster, Ernst, Referendar, Leipzig, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Kosmer, Carl, Kaufmann, Altona, Preußenhof 1 
+ Truth:	Kosmer, Carl, Kaufmann, Altona, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Hempel, Hugo, Kaufmann, Stralsund, Central-Hotel 1 
+ Truth:	Hempel, Hugo, Kaufmann, Stralsund, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Hamburger, Georg, Kaufmann, Berlin, Baltischer Hof 1 
+ Truth:	Hamburger, Georg, Kaufmann, Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Galske, Korvetten-Kapitän, Kiel, Jeschkes Hotel 1 
+ Truth:	Galske, Korvetten=Kapitän, Kiel, Jeschkes Hotel | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Hintze, Willy, Major a. D., Berlin, Drei Kronen 1 
+ Truth:	Hintze, Willy, Major a. D., Berlin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Friedländer, Hermann, Kaufmann, Rostock, Preußenhof 1 
+ Truth:	Friedländer, Hermann, Kaufmann, Rostock, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Hoffmeister, Helene, Frau, Friedenau, Central-Hotel 1 
+ Truth:	Hoffmeister, Helene, Frau, Friedenau, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	Götzlaff, Charlotte, Fräulein, Torgelow, Jeschkes Hotel 1 
+ Truth:	Götzlaff, Charlotte, Fräulein, Torgelow, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Franz, Marga, Fräulein, Berkin, Hotel Drei Kronen 1 
+ Truth:	Franz, Marga, Fräulein, Berlin, Hotel Drei Kronen | 1 
+ Levenshtein: 3	CER:  0.0566
+
+final CER: 0.05152471083070452 mean CER: 0.053156722084169196

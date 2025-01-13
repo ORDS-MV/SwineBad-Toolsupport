@@ -1,0 +1,141 @@
+ OCR:	Stensbeck, Elfriede, Frau, Bremen, Hardenbergstr. 4 1 
+ Truth:	Stensbeck, Elfriede, Frau, Bremen, Hardenbergstr. 4 | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Ubilig, Alfred, Bankbeamter, mit Frau, Berlin, Neuestr. 34 2 
+ Truth:	Ubilig, Alfred, Bankbeamter, mit Frau, Berlin, Neuestr. 34 | 2 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	pieper, Paul, Gewerberat, mit Fam., Bremen, Eggebrechtstr. 5 2 
+ Truth:	Pieper, Paul, Gewerberat, mit Fam., Bremen, Eggebrechtstr. 5 | 5 
+ Levenshtein: 4	CER:  0.0625
+
+ OCR:	Voß, Karl, Eisenbahnbeamter, Gransee, Friedrichstr. 35 1 
+ Truth:	Voß, Karl, Eisenbahnbeamter, Gransee, Friedrichstr. 35 | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Weymann, Hugo, Eisenbahnoberinsp., Münster i. Westf., Augustastr. 7 1 
+ Truth:	Weymann, Hugo, Eisenbahnoberinsp., Münster i. Westf., Augustastr. 7 | 1 
+ Levenshtein: 2	CER:  0.0282
+
+ OCR:	Schmidt, Gustav, Eisenb.-Obersekr., mit Frau, Altona, Friedrichstr. 12 2 
+ Truth:	Schmidt, Gustav, Eisenb.=Obersekr., mit Frau, Altona, Friedrichstr. 12 | 2 
+ Levenshtein: 3	CER:  0.0405
+
+ OCR:	Rofenthal, F., Kaufm., mit Fam. und Bed., Czempin, Königsallee 4 
+ Truth:	Rosenthal, F., Kaufm., mit Fam. und Bed., Czempin, Königsallee | 4 
+ Levenshtein: 3	CER:  0.0455
+
+ OCR:	Wolf, Jos., Student, Wien, Dünenstaße 3 1 
+ Truth:	Wolf, Jos., Student, Wien, Dünenstraße 3 | 1 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	2 Hiervon Furgäste 123 
+ Truth:	Hiervon Kurgäste 123 
+ Levenshtein: 3	CER:  0.15
+
+ OCR:	Schmit, Aloys, Kaufm., mit Frau, Aachen, Dünensr. 9 2 
+ Truth:	Schmit, Aloys, Kaufm., mit Frau, Aachen, Dünenstr. 9 | 2 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Novalowitch, Kofsara, Frau, Berlin, Dünenstr. 14 1 
+ Truth:	Novakowitch, Kossara, Frau, Berlin, Dünenstr. 1a | 1 
+ Levenshtein: 5	CER:  0.0962
+
+ OCR:	Schlimmer, Josef, Kaufm., Berlin, Neuestr. 44 1 
+ Truth:	Schlimmer, Josef, Kaufm., Berlin, Neuestr. 43 | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Sekurius, Adolf, Bankier, mit Frau, Berlin, Friedrichstr. 9 2 
+ Truth:	Sekurius, Adolf, Bankier, mit Frau, Berlin, Friedrichstr. 9 | 2 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Pape, Margarete, Frau, mit Kindern, Berlin, Dünenstr. 14a 4 
+ Truth:	Pape, Margarete, Frau, mit Kindern, Berlin, Dünenstr. 1a | 4 
+ Levenshtein: 3	CER:  0.05
+
+ OCR:	Michaelis, Martha, Arztfrau, mit Kind, Berlin, Hardenbergstr. 1 2 
+ Truth:	Michaelis, Martha, Arztfrau, mit Kind, Berlin, Hardenbergstr. 1 | 2 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Faxmann, Rudolf, Ingen., mit Frau, Braunschweig, Dünensir. 2 
+ Truth:	Paxmann, Rudolf, Ingen., mit Frau, Braunschweig, Dünenstr. | 2 
+ Levenshtein: 4	CER:  0.0645
+
+ OCR:	 
+ Truth:	Schumacher, Heinrich, Eisenb.=Ingen., Jüterbog, Friedrichstr. 31 | 1 
+ Levenshtein: 68	CER:  1.0
+
+ OCR:	Stein, Hans, z. Ad. 22 e 1 
+ Truth:	Stein, Hans, Fabrik rr d 1 | 1 
+ Levenshtein: 13	CER:  0.433
+
+ OCR:	Rosenbaum, Kurt, Direktor, mit Frau. Berlin, Herrenbadsvr. 1 2 
+ Truth:	Rosenbaum, Kurt, Direktor, mit Frau Berlin, Herrenbadstr. 1 | 2 
+ Levenshtein: 4	CER:  0.0635
+
+ OCR:	Stiller, Ernst, Postsekretär, pxtu, Züllichau, Kl. Marktstraße 2 
+ Truth:	Stiller, Ernst, Postsekretär, m Frau, Züllichau, Kl. Marktstraße | 2 
+ Levenshtein: 7	CER:  0.103
+
+ OCR:	Thomas, Chr. Nep., Geh. Obersekr., Emkiryen, Dünenstr. 9 1 
+ Truth:	Thomas, Chr. Nep., Geh. Obersekr., Emkiryen, Dünenstr. 9 | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Sina, Moritz, Kaufm., mit Frau, Berlin, Herrenbadstr. 1 2 
+ Truth:	Sina, Moritz, Kaufm., mit Frau, Berlin, Herrenbadstr. 1 | 2 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Schapiro, mit Frau, Berlin, Dünenstr. 15 2 
+ Truth:	Schapiro, mit Frau, Berlin, Dünenstr. 15 | 2 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Wilhelm, Karl Eduard, Strumpfwarenfabrikant, Chemnitz, Dünenstraße 1 
+ Truth:	Wilhelm, Karl Eduard, Strumpfwarenfabrikant, Chemnitz, Dünenstraße | 1 
+ Levenshtein: 2	CER:  0.0286
+
+ OCR:	Vescey, Lise, Sanatoriumsbes., Wien, Dünenstr. 24 1 
+ Truth:	Vescey, Lise, Sanatoriumsbes., Wien, Dünenstr. 24 | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Simon, Lilli, Frau Karlottenburg, Wilhelmstraße 2 
+ Truth:	Simon, Lilli, Frau Ka harlottenburg, Wilhelmstraße | 2 
+ Levenshtein: 5	CER:  0.0926
+
+ OCR:	Wieg, Alex, Kaufm., Berlin, Hohenstaufen k 1 
+ Truth:	Wieg, Alex, Kaufm., Berlin, Hohenstaufen | 1 
+ Levenshtein: 1	CER:  0.0227
+
+ OCR:	Siegel, Heyneck, Beamter, mit Frau, Tschechoslowakei, 2 
+ Truth:	Siegel, Hyneck, Beamter, mit Frau, Tschechoslowakei, ? | 2 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	Steinsdorff, Wilhelm, Chefredakteur, Zittau, Dünenstr. 6 1 
+ Truth:	Steinsdorff, Wilhelm, Chefredakteur, Zittau, Dünenstr. 6 | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Piehies, Theodor, Regierungsrat, Elberfeld, Dünenstr. 7 | 1 
+ Truth:	Piehies, Theodor, Regierungsrat, Elberfeld, Dünenstr. 7 | 1 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	d. Mühlenfels, Anna, Oberregierungsrat-Ww., Stettin, Seestraße 1 
+ Truth:	v. Mühlenfels, Anna, Oberregierungsrat=Ww., Stettin, Seestraße | 1 
+ Levenshtein: 4	CER:  0.0606
+
+ OCR:	Rochmann, Paul, Arzt, Berlin, Herrenbadstr. 1 
+ Truth:	Rochmann, Paul, Arzt, Berlin, Herrenbadstr. 1 | 1 
+ Levenshtein: 4	CER:  0.0816
+
+ OCR:	Muche, Elfriede, Lycealdirektorin, Charlottenburg, Moltkestr. 13 1 
+ Truth:	Muche, Elfriede, Lycealdirektorin, Charlottenburg, Moltkestr. 13 | 1 
+ Levenshtein: 2	CER:  0.0294
+
+ OCR:	Schiltz-Engehard, Ilse, m. 1 ein, Königsallee 2 
+ Truth:	Schultz=Engehard, Ilse, m in, Königsallee | 2 
+ Levenshtein: 8	CER:  0.178
+
+ OCR:	Weerth, Wilhelm, Dr., Reg.-Assessor, mit Frau, 2 Hohenstaufen 2 
+ Truth:	Weerth, Wilhelm, Dr., Reg.=Assessor, mit Frau, ? Hohenstaufen | 2 
+ Levenshtein: 4	CER:  0.0615
+
+final CER: 0.09122632103688934 mean CER: 0.0945599970577422

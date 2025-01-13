@@ -1,0 +1,153 @@
+ OCR:	Emmerich, Pauline, Frau verw. Geheimrat, Hamburg, Emmerich 
+ Truth:	Emmerich, Pauline, Frau verw. Geheimrat, Hamburg, Emmerich, 
+ Levenshtein: 1	CER:  0.0169
+
+ OCR:	Neuestr. 3940 1 
+ Truth:	 Neuestr. 39/40 | 1 
+ Levenshtein: 4	CER:  0.211
+
+ OCR:	Engel, Max, Ingenieur, Berlin, Viktoria Gasth. 1 
+ Truth:	Engel, Max, Ingenieur, Berlin, Viktoria Gasth. | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Ehlert, Gertrud, Frau Diplom-Ingenieur, Gollnow i. Pomm., Eden, 1 
+ Truth:	Ehlert, Gertrud, Frau Diplom-Ingenieur, Gollnow i. Pomm., Eden | 1 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Calissen, Kapitän, Kiel, Preußenhof 1 
+ Truth:	Calissen, Kapitän, Kiel, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Fronhöfer, Katharine, Frau, Varzin, Schulz 1 
+ Truth:	Fronhöfer, Katharine, Frau, Varzin, Schulz | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Dietrich, Elisabeth, Fräulein, Potsdam, Schweriner Hof 1 
+ Truth:	Dietrich, Elisabeth, Fräulein, Potsdam, Schweriner Hof | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Göpner, Else, Frau, Berlin, Viktoria-Gasth. 1 
+ Truth:	Göpner, Else, Frau, Berlin, Viktoria=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Fret, Apotheker, Bromberg, Preußenhof 1 
+ Truth:	Freck, , Apotheker, Bromberg, Preußenhof | 1 
+ Levenshtein: 6	CER:  0.136
+
+ OCR:	Dietz, Hubert, Regierungsbaumeister, mit Familie, Wittenberge, Walsisch 83 
+ Truth:	Dietz, Hubert, Regierungsbaumeister, mit Familie, Wittenberge, Walfisch | 3 
+ Levenshtein: 3	CER:  0.04
+
+ OCR:	Freyer, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Freyer, , Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 4	CER:  0.0952
+
+ OCR:	Cuypers, Marx, Leutnant, Dresden, Beatus ille 41 
+ Truth:	Cuypers, Max, Leutnant, Dresden, Beatus ille | 1 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Devantin, Richard, Kaufmann, Stettin, Maritima 1 
+ Truth:	Devantin, Richard, Kaufmann, Stettin, Maritima | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Frings, Carl Peter, Kaufmann, Berlin, An de Waterkant 1 
+ Truth:	Frings, Carl Peter, Kaufmann, Berlin, An de Waterkant | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Ever | Erna | Frau | mit Kindern u. Bedienung | Charlottenburg | Elisabeth 4 
+ Truth:	Ever, Erna, Frau, mit Kindern u. Bedienung, Charlottenburg, Elisabeth | 4 
+ Levenshtein: 12	CER:  0.164
+
+ OCR:	Fliegel, A., Frau Dr., Berlin, Walfisch 1 
+ Truth:	Fliegel, A., Frau Dr., Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Fraenkel, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Fraenkel, , Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 4	CER:  0.0909
+
+ OCR:	v. Eckert, Marie, Frau Oberst, Freienwalde, Quisisana 1 
+ Truth:	v. Eckert, Marie, Frau Oberst, Freienwalde, Quisisana | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Cahn, Paul, Kaufmann, Berlin, Habsburg -- 1 
+ Truth:	Cahn, Paul, Kaufmann, Berlin, Habsburg | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Eisheuer, Clara, Frau, Berlin, Hohenstaufen 1 
+ Truth:	Eisheuer, Clara, Frau, Berlin, Hohenstaufen | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Dreßler, Mathilde, Frau, Werder a. Havel, Beatus ille 1 
+ Truth:	Dreßler, Mathilde, Frau, Werder a. Havel, Beatus ille | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Emmerich, Georg, Fabrikbesitzer, mit Tochter, Berlin, Walfisch 2 
+ Truth:	Emmerich, Georg, Fabrikbesitzer, mit Tochter, Berlin, Walfisch | 2 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Gäbel, Walter, Kaufmann, Breslau, Haus Marie 1 
+ Truth:	Gäbel, Walter, Kaufmann, Breslau, Haus Marie | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Deutzr, Hermann, Kaufmann, Stettin, Drei Kronen 1 
+ Truth:	Deutzr, Hermann, Kaufmann, Stettin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	v. Dittfuhrt, Wolfgang, Hauptmann, Küstendil Bulgarien Walfisch 1 
+ Truth:	v. Dittfuhrt, Wolfgang, Hauptmann, Küstendil (Bulgarien), Walfisch | 1 
+ Levenshtein: 5	CER:  0.0714
+
+ OCR:	Cohn, Martha, Frau Kaufmann, mit Familie und Bedienung, Berlin 
+ Truth:	Cohn, Martha, Frau Kaufmann, mit Familie und Bedienung, Berlin= 
+ Levenshtein: 1	CER:  0.0159
+
+ OCR:	Wilmersdorf, Waldblick 4 
+ Truth:	Wilmersdorf, Waldblick | 4 
+ Levenshtein: 2	CER:  0.0769
+
+ OCR:	Damm, Gustav, Kaufmann, mit Frau, Berlin-Lichterfelde, Goldfried 2 
+ Truth:	Damm, Gustav, Kaufmann, mit Frau, Berlin=Lichterfelde, Goldfried | 2 
+ Levenshtein: 3	CER:  0.0441
+
+ OCR:	Fricke, Paula, Frau Bahnmeister, mit Töchtern, Laskowitz Westpreußen 
+ Truth:	Fricke, Paula, Frau Bahnmeister, mit Töchtern, Laskowitz (Westpreußen) 
+ Levenshtein: 2	CER:  0.0286
+
+ OCR:	Segebrecht, Schulstraße 27 3 
+ Truth:	 Segebrecht, Schulstraße 27 | 3 
+ Levenshtein: 3	CER:  0.0968
+
+ OCR:	Feldberg, Gustav, Kaufmann, mit Frau, Stettin, Schloß am Meer 2 
+ Truth:	Feldberg, Gustav, Kaufmann, mit Frau, Stettin, Schloß am Meer | 2 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Deutmann, Eugen, Unteroffizier, Friedrichsort, Fürst Bismarck 1 
+ Truth:	Deutmann, Eugen, Unteroffizier, Friedrichsort, Fürst Bismarck | 1 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Diedrichs, Lulla, Frau Kaufmann, Hannover, Haiderose - 1 
+ Truth:	Diebrichs, Lulla, Frau Kaufmann, Hannover, Haiderose | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Danielsohn, Margarete, Frau Arzt, mit Kind und Erzieherin, Berlin, 
+ Truth:	Danielsohn, Margarete, Frau Arzt, mit Kind und Erzieherin, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Haus auf der Düne 3 
+ Truth:	 Haus aus der Düne | 3 
+ Levenshtein: 4	CER:  0.182
+
+ OCR:	Denzer, Bertha, Privatiere, Königsberg, Wanda 1 
+ Truth:	Denzer, Bertha, Privatiere, Königsberg, Manda | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Demuth, Marie, Frau, Charlottenburg, Beatus ille 1 
+ Truth:	Demuth, Marie, Frau, Charlottenburg, Beatus ille | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Decker, J., Kaufmann, Berlin, Habsburg 1 
+ Truth:	Decker, J., Kaufmann, Berlin, Habsburg | 1 
+ Levenshtein: 2	CER:  0.0476
+
+final CER: 0.05220476431829701 mean CER: 0.05877479177107764

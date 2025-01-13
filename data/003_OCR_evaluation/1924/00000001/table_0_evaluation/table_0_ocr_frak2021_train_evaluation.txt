@@ -1,0 +1,173 @@
+ OCR:	Ernst, Chr., Ing., mit Frau, Berlin, Drei 
+ Truth:	Ernst, Chr., Ing., mit Frau, Berlin, Drei 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Kronen 2 
+ Truth:	 Kronen | 2 
+ Levenshtein: 3	CER:  0.273
+
+ OCR:	Gladtke, Ernst, Berlin, Preußenhof 1 
+ Truth:	Gladtke, Ernst, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Friedländer, S., Kfm., Berlin, Jeschke 1 
+ Truth:	Friedländer, S., Kfm., Berlin, Jeschke | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Falkner, Hans, Kapellmstr., mit Frau, Berlin, 
+ Truth:	Falkner, Hans, Kapellmstr., mit Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Seerings Hotel 2 
+ Truth:	 Seerings Hotel | 2 
+ Levenshtein: 3	CER:  0.158
+
+ OCR:	Fink, Bruno, Kfm., Berlin, Baltischer Hof 1 
+ Truth:	Fink, Bruno, Kfm., Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Fahrenbach, Günther, Spediteur, mit Frau, 
+ Truth:	Fahrenbach, Günther, Spediteur, mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Neukölln, Bollwerk 38 2 
+ Truth:	 Neukölln, Bollwerk 38 | 2 
+ Levenshtein: 3	CER:  0.115
+
+ OCR:	Feldebusch, Jakob, Kfm., Pasewalk, Metropol 1 
+ Truth:	Feldebusch, Jakob, Kfm., Pasewalk, Metropol | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Fedrigotti, Anton, Graf, Stud., mit Frau, 
+ Truth:	Fedrigotti, Anton, Graf, Stud., mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Berlin, Preußenhof 2 
+ Truth:	 Berlin, Preußenhof | 2 
+ Levenshtein: 3	CER:  0.13
+
+ OCR:	Freudenhammer, Ewald, Kfm., Halle a. S., 
+ Truth:	Freudenhammer, Ewald, Kfm., Halle a. S., 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Central⸗Hotel 1 
+ Truth:	 Central=Hotel | 1 
+ Levenshtein: 4	CER:  0.222
+
+ OCR:	Geismer, Oskar, Kfm., Frankfurt, Drei Kronen 1 
+ Truth:	Geismer, Oskar, Kfm., Frankfurt, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Göttmann, Bernhard, Kfm., m. Frau, Berlin, 
+ Truth:	Göttmann, Bernhard, Kfm., m. Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Walfisch 2 
+ Truth:	 Walfisch | 2 
+ Levenshtein: 3	CER:  0.231
+
+ OCR:	Fritz, Olga, Frau, Wiesbaden, Hubertus 1 
+ Truth:	Fritz, Olga, Frau, Wiesbaden, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Elsner, Ewald, Restaurateur, mit Frau, Ber⸗ 
+ Truth:	Elsner, Ewald, Restaurateur, mit Frau, Ber= 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	lin, Schmidts Hotel 2 
+ Truth:	lin, Schmidts Hotel | 2 
+ Levenshtein: 2	CER:  0.087
+
+ OCR:	Edenfeld, Siegmund, Bankdirektor, mit Frau, 
+ Truth:	Edenfeld, Siegmund, Bankdirektor, mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Berlin, Atlantic 2 
+ Truth:	 Berlin, Atlantic | 2 
+ Levenshtein: 3	CER:  0.143
+
+ OCR:	Frost, Paul, Kfm., Hamburg, Fürstenhof 1 
+ Truth:	Frost, Paul, Kfm., Hamburg, Fürstenhof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Giese, Fritz, Kfm., Leipzig, Central⸗Hotel 1 
+ Truth:	Giese, Fritz, Kfm., Leipzig, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Gadon, Friedrich, Kfm., Köln, Central⸗Hotel 1 
+ Truth:	Gadon, Friedrich, Kfm., Köln, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Fochtmann, Kaufm., Verlin⸗Schöneberg, 
+ Truth:	Fochtmann, Kaufm., Berlin=Schöneberg, 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Schmidts Hotel 1 
+ Truth:	 Schmidts Hotel | 1 
+ Levenshtein: 3	CER:  0.158
+
+ OCR:	Esser, Toni, Stettin, Schmidts Hotel 1 
+ Truth:	Esser, Toni, Stettin, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Eichmeyer, Walter, Berlin, Goldner Hirsch 1 
+ Truth:	Eichmeyer, Walter, Berlin, Goldner Hirsch | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Fischer, Rittergutsbesitzer, mit Frau, Neuen⸗ 
+ Truth:	Fischer, Rittergutsbesitzer, mit Frau, Neuen= 
+ Levenshtein: 1	CER:  0.0222
+
+ OCR:	dorf, Walfisch 2 
+ Truth:	dorf, Walfisch | 2 
+ Levenshtein: 2	CER:  0.111
+
+ OCR:	Eichel, Max, Kfm., mit Frau, Halberstadt, 
+ Truth:	Eichel, Max, Kfm., mit Frau, Halberstadt, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Walsisch 2 
+ Truth:	 Walfisch | 2 
+ Levenshtein: 4	CER:  0.308
+
+ OCR:	Fröhlich, Bernhard, Kaufm., Oranenburg, 
+ Truth:	Fröhlich, Bernhard, Kaufm., Oranienburg, 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	Preußenhof 1 
+ Truth:	 Preußenhof | 1 
+ Levenshtein: 3	CER:  0.2
+
+ OCR:	Fricke, Hans, Kfm., Magdeburg, Central⸗H., 1 
+ Truth:	Fricke, Hans, Kfm., Magdeburg, Central=H. | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Geyer, Paul, Kfm., Frankfurt, Preußenhof 1 
+ Truth:	Geyer, Paul, Kfm., Frankfurt, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Fischmann, Th., Kfm., Berlin, Preußenhof 1 
+ Truth:	Fischmann, Th., Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Frichter, Paul, Kfm., Berlin, Preußenhof 1 
+ Truth:	Frichter, Paul, Kfm., Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Ehmke, Emilie, Frau, Pasewalk, Glückauf 1 
+ Truth:	Ehmke, Emilie, Frau, Pasewalk, Glückauf | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Gottschalk, Otto, Kaufm., Berlin, Central⸗H. 1 
+ Truth:	Gottschalk, Otto, Kaufm., Berlin, Central=H. | 1 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Fürstenberg, Fr., Architekt, Berlin, Atlantic 1 
+ Truth:	Fürstenberg, Fr., Architekt, Berlin, Atlantic | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Förster, Gustav, Professor, Potsdam, Jeschke 1 
+ Truth:	Förster, Gustav, Professor, Potsdam, Jeschke | 1 
+ Levenshtein: 2	CER:  0.0417
+
+final CER: 0.053035143769968054 mean CER: 0.07448014750111817

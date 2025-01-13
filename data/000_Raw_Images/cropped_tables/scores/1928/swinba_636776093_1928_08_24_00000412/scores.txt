@@ -1,0 +1,2 @@
+Score for table_0:  0.9998472929000854
+Score for table_1:  0.999832272529602

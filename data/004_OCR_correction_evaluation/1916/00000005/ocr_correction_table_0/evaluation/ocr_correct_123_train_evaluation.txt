@@ -1,0 +1,153 @@
+ OCR:	Abraham, Erna, Frau, Privatiere, Berlin, An de Waterkant 1 
+ Truth:	Abraham, Erna, Frau, Privatiere, Berlin, An de Waterkant | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Beckmann, Hede, Fräulein, Berlin-Wilmersdorf, Fremdenheim Seeschloß 1 
+ Truth:	Beckmann, Hede, Fräulein, Berlin=Wilmersdorf, Fremdenheim Seeschloß | 1 
+ Levenshtein: 3	CER:  0.0423
+
+ OCR:	Brand. Else, Lehrerin, Berlin, Nußbaum 1 
+ Truth:	Brand, Else, Lehrerin, Berlin, Nußbaum | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Berger, Alexander, Zahnlehrer, Landsberg a. W., Anna-Lisa 1 
+ Truth:	Berger, Alexander, Zahnlehrer, Landsberg a. W., Anna=Lisa | 1 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Adler, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Adler, Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Blumenthal, Walter Kaufmann, Berlin, Schloß Hohenzollern 1 
+ Truth:	Blumenthal, Walter; Kaufmann, Berlin, Schloß Hohenzollern | 1 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Brand, Helene, Frau, Berlin, Nußbaum 1 
+ Truth:	Brand, Helene, Frau, Berlin, Nußbaum | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Berg, Marie, Frau Dr., Berlin, Walfisch 1 
+ Truth:	Berg, Marie, Frau Dr., Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Birkholz, Berta, Buchhalterin, Charlottenburg, Hoppe, Moltkestr. 22 1 
+ Truth:	Birkholz, Berta, Buchhalterin, Charlottenburg, Hoppe, Moltkestr. 22 | 1 
+ Levenshtein: 2	CER:  0.0282
+
+ OCR:	Banke, Christel, Frau Stabsarzt, mit Sohn und Bedien., Magdeburg 
+ Truth:	Banke, Christel, Frau Stabsarzt, mit Sohn und Bedien., Magdeburg, 
+ Levenshtein: 1	CER:  0.0154
+
+ OCR:	Haus Kaiser Wilhelm 3 
+ Truth:	 Haus Kaiser Wilhelm | 3 
+ Levenshtein: 3	CER:  0.125
+
+ OCR:	Baar, Leutnant, Stettin, Fremdenheim Seeschloß 1 
+ Truth:	Baar, Leutnant, Stettin, Fremdenheim Seeschloß | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Beyer, August, Kaufmann, mit Familie, Berlin-Tempelhof, Favorit 3 
+ Truth:	Beyer, August, Kaufmann, mit Familie, Berlin=Tempelhof, Favorit | 3 
+ Levenshtein: 3	CER:  0.0448
+
+ OCR:	Blumenthal, Paula, Frau Priv., mit Tochter, Berlin, An de Waterkant 2 
+ Truth:	Blumenthal, Paula, Frau Priv., mit Tochter, Berlin, An de Waterkant | 2 
+ Levenshtein: 2	CER:  0.0282
+
+ OCR:	v. Beseler, Katharine, Frau, Charlottenburg, Robert-Koch-Straße 1 
+ Truth:	v. Beseler, Katharine, Frau, Charlottenburg, Rokert=Koch=Straße | 1 
+ Levenshtein: 5	CER:  0.0746
+
+ OCR:	Böttcher, Erna, Frau Ingenieur, mit Sohn, Berlin, Haus Möwe 2 
+ Truth:	Böttcher, Erna, Frau Ingenieur, mit Sohn, Berlin, Haus Möwe | 2 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Bussa, Else, Frau Major, Wetzlar, Albrecht, Moltkestr. 2 1 
+ Truth:	Bussa, Else, Frau Major, Wetzlar, Albrecht, Moltkestr. 2 | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Buttmann, Hugo, Oberst a. D., mit Töchtern, Berlin, Favorit 3 
+ Truth:	Buttmann, Hugo, Oberst a. D., mit Töchtern, Berlin, Favorit | 3 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Berg, Marie, Frau Dr., Berlin, Prinz Eitel Friedrich 1 
+ Truth:	Berg, Marie, Frau Dr., Berlin, Prinz Eitel Friedrich | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Allteler, Gustav, Privatier, Steglitz, Schulz, Gartenstr. 17a 1 
+ Truth:	Allteler, Gustav, Privatier, Steglitz, Schulz Gartenstr. 17a | 1 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	Buck, Luise, Fräulein, Berlin, Quindt, Robert-Koch-Straße 1 
+ Truth:	Buck, Luise, Fräulein, Berlin, Quindt, Robert=Koch=Straße | 1 
+ Levenshtein: 4	CER:  0.0656
+
+ OCR:	Auerbach, Erich, Berlin, Meißner, Heinrichstr. 2A 1 
+ Truth:	Auerbach, Erich, Berlin, Meißner, Heinrichstr. 2 | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Belter, Clara, Frau, Berlin, Haus Steinlien 1 
+ Truth:	Belter, Clara, Frau, Berlin, Haus Steinlein | 1 
+ Levenshtein: 4	CER:  0.0851
+
+ OCR:	Bettac, Else, Frau, mit Kindern, Rossow, Hoffmann, Moltkestr. 22 4 
+ Truth:	Bettac, Else, Frau, mit Kindern, Rossow, Hoffmann, Moltkestr. 22 | 4 
+ Levenshtein: 2	CER:  0.0294
+
+ OCR:	Breitenfeld, Clara Fräulein, Leipzig, Jacoby, Gr. Kirchenstr. 14 1 
+ Truth:	Breitenfeld, Clara, Fräulein, Leipzig, Jacoby, Gr. Kirchenstr 14 | 1 
+ Levenshtein: 4	CER:  0.0588
+
+ OCR:	Birkholz, Otto, Schuhmachermeister, Brody, Böttchers Logierhaus 1 
+ Truth:	Birkholz, Otto, Schuhmachermeister, Brody, Böttchers Logierhaus | 1 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Bergmann, Claire, Fräulein, Neukölln-Berlin, Agir 1 
+ Truth:	Bergmann, Claire, Fräulein, Neukölln=Berlin, Ägir | 1 
+ Levenshtein: 4	CER:  0.0755
+
+ OCR:	Brok, Frau Geheimrat, Charlottenburg, Gasth. Walfisch 1 
+ Truth:	Brok, Frau Geheimrat, Charlottenburg, Gasth. Walfisch | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Blumberg, Conrad, Dr. Arzt, Stettin, Hohenstaufen 1 
+ Truth:	Blumberg, Conrad, Dr. Arzt, Stettin, Hohenstaufen | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Blischniok, Heinrich, Regierungskanzlei⸗inspektor, mit Tochter, Potsdam 
+ Truth:	Blischnniok, Heinrich, Regierungskanzlei=Inspektor, mit Tochter, Potsdam, 
+ Levenshtein: 4	CER:  0.0548
+
+ OCR:	Schulz, Gartenstr. 17a 2 
+ Truth:	 Schulz Gartenstr. 17a | 2 
+ Levenshtein: 4	CER:  0.154
+
+ OCR:	Arlt, Paul, Kaufmann, Berlin, Hohenstaufen 1 
+ Truth:	Arlt, Paul, Kaufmann, Berlin, Hohenstaufen | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Bölter, Ida, Frau, Mamlitz, Hohenzollernhof 1 
+ Truth:	Bölter, Ida, Frau, Mamlitz, Hohenzollernhof | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	Börner, Grete, Fräulein, Berlin, Walfisch 1 
+ Truth:	Börner, Grete, Fräulein, Berlin, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Bach, Marie, Fabrikbesitzerin, Kötzschenbroda i. S., Glücksburg 1 
+ Truth:	Bach, Marie, Fabrikbesitzerin, Kötzschenbroda i. S., Glücksburg | 1 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Auerbach, Emma, Frau, Berlin, Meißner, Heinrichstr. 2 1 
+ Truth:	Auerbach, Emma, Frau, Berlin, Meißner, Heinrichstr. 2 | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Bauer, Kaufmann, Berlin, Preußenhof 1 
+ Truth:	Bauer, Kaufmann, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Böhme, Max, Wärter, Bautzen, Schmidts Gasth. 1 
+ Truth:	Böhme, Max, Wärter, Bautzen, Schmidts Gasth. | 1 
+ Levenshtein: 2	CER:  0.0417
+
+final CER: 0.045928030303030304 mean CER: 0.04950623224954879

@@ -1,0 +1,153 @@
+ OCR:	990 | Dr. Braun, Chemikex Berlin Villa Aegir 1 
+ Truth:	990 | Dr. Braun, Chemiker | Berlin | Villa Aegir | 1 
+ Levenshtein: 7	CER:  0.135
+
+ OCR:	991 | Buchholz, Julius, Konfektionär | Breslau | Villa Splendid 1 
+ Truth:	991 | Buchholz, Julius, Konfektionär | Breslau | Villa Splendid | 1 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Vebertrag | 1674 
+ Truth:	Uebertrag | 1674 
+ Levenshtein: 1	CER:  0.0625
+
+ OCR:	1022 | Gudell, Werner, Shüler Halensee 1 
+ Truth:	1022 | Gudell, Werner, Schüler | Halensee | „ | 1 
+ Levenshtein: 9	CER:  0.184
+
+ OCR:	1017 | Gehler Dresden . Hotel Seestern 1 
+ Truth:	1017 | Gehler | Dresden | Hotel Seestern | 1 
+ Levenshtein: 5	CER:  0.114
+
+ OCR:	1014 Fritshke, M., Bau-Jngenieur |Dresden Hotel Seestern 1 
+ Truth:	1014 | Fritschke, M., Bau=Ingenieur | Dresden | Hotel Seestern | 1 
+ Levenshtein: 10	CER:  0.152
+
+ OCR:	1015 | Feichtner, Helene, Fr. Kaufmann, m. Fam. u. Bedg. | Rixdorf Villa Steinbeg 4 
+ Truth:	1015 | Feichtner, Helene, Fr. Kaufmann, m. Fam. u. Bedg. | Rixdorf | Villa Steinberg | 4 
+ Levenshtein: 5	CER:  0.0568
+
+ OCR:	978 | Beutner, Helene, Fräulein Berlin |Villa Schloß Hohenzollern 1 
+ Truth:	978 | Beutner, Helene, Fräulein | Berlin | Villa Schloß Hohenzollern | 1 
+ Levenshtein: 5	CER:  0.0694
+
+ OCR:	1007 | Ernst, Selma | y | 1 
+ Truth:	1007 | Ernst, Selma | „ | „ | 1 
+ Levenshtein: 5	CER:  0.161
+
+ OCR:	1006 | Ernst, Heinrich, Fabrikant, mit Bedienung | Berlin |LVilla Hilda 2 
+ Truth:	1006 | Ernst, Heinrich, Fabrikant, mit Bedienung | Berlin | Villa Hilda | 2 
+ Levenshtein: 3	CER:  0.04
+
+ OCR:	983 | Bergemann, Kaufmann Berlin - |Feshkes Hotel 1 
+ Truth:	983 | Bergemann, Kaufmann | Berlin | Jeschkes Hotel | 1 
+ Levenshtein: 8	CER:  0.145
+
+ OCR:	980 | Boer, Richard, Kaufmann |„ Hotel Prinz Eitel Friedrich 1 
+ Truth:	980 | Boer, Richard, Kaufmann | „ | Hotel Prinz Eitel Friedrich | 1 
+ Levenshtein: 5	CER:  0.0746
+
+ OCR:	1013 | Freund, Ditto, Bankbeamter, mit Frau Halensee |Villa Wilhelma 2 
+ Truth:	1013 | Freund, Otto, Bankbeamter, mit Frau | Halensee | Villa Wilhelma | 2 
+ Levenshtein: 7	CER:  0.0946
+
+ OCR:	1008 | Fuchs, Frieda, Frau Maurermeister, mit Kindern | Görltg |Villa Toni 3 
+ Truth:	1008 | Fuchs, Frieda, Frau Maurermeister, mit Kindern | Görlitz | Villa Toni | 3 
+ Levenshtein: 5	CER:  0.0625
+
+ OCR:	 979 | Beutner, Käthe, Frau O y 1 
+ Truth:	979 | Beutner, Käthe, Frau | „ | „ | 1 
+ Levenshtein: 9	CER:  0.237
+
+ OCR:	1003 | Eggenkiwiyler, A., Diplom-Jngenieux |Dresden |Hotel Seestern l 
+ Truth:	1003 | Eggenkiwiyler, A., Diplom=Ingenieur | Dresden | Hotel Seestern | 1 
+ Levenshtein: 8	CER:  0.11
+
+ OCR:	982 | Brachmann, Bodo, Schüler |Leipzig 1 1 
+ Truth:	982 | Brachmann, Bodo, Schüler | Leipzig | „ | 1 
+ Levenshtein: 6	CER:  0.125
+
+ OCR:	986 | von Below, Rittergutsvefslyer |Targelin b. Anklam | Hotel Walfish | 1 
+ Truth:	986 | von Below, Rittergutsbesitzer | Targelin b. Anklam | Hotel Walfisch | 1 
+ Levenshtein: 7	CER:  0.0909
+
+ OCR:	971 | Albert, Ludwig, Kind |Sqlatkow |Kinderpflegeheim 1 
+ Truth:	971 | Albert, Ludwig, Kind | Schlatkow | Kinderpflegeheim | 1 
+ Levenshtein: 6	CER:  0.0984
+
+ OCR:	981 | Bayl, Erich, Leutnant - | Coblenz Kinderpflegeheim 1 
+ Truth:	981 | Bayl, Erich, Leutnant | Coblenz | Kinderpflegeheim | 1 
+ Levenshtein: 6	CER:  0.1
+
+ OCR:	1011 | Feilke, W., Referendar |Stargard i. Pom. m 1 
+ Truth:	1011 | Feilke, W., Referendar | Stargard i. Pom. | „ | 1 
+ Levenshtein: 6	CER:  0.107
+
+ OCR:	- 1004 | Eichfe, Wilh., cand. rer. teh |„ y 1 
+ Truth:	1004 | Eichfe, Wilh., cand. rer. tech. | „ | „ | 1 
+ Levenshtein: 10	CER:  0.2
+
+ OCR:	1029 | Guttmann, Vtto, Kaufmann, mit Fau |Breslau |Villa Schloß Hohenzollern 2 
+ Truth:	1029 | Guttmann, Otto, Kaufmann, mit Frau | Breslau | Villa Schloß Hohenzollern | 2 
+ Levenshtein: 6	CER:  0.0723
+
+ OCR:	1002 | Ebel, Julus, Kaufmann |Berlin |Villa Daheim 1 
+ Truth:	1002 | Ebel, Julus, Kaufmann | Berlin | Villa Daheim | 1 
+ Levenshtein: 4	CER:  0.0714
+
+ OCR:	1021 | von Gilgenheimb, Friz, Kind |Breslau |Kinderpflegeheim 1 
+ Truth:	1021 | von Gilgenheimb, Fritz, Kind | Breslau | Kinderpflegeheim | 1 
+ Levenshtein: 5	CER:  0.0735
+
+ OCR:	975 | Beyer, E., Kantor, mit Frau - |Neustadt i. S. |Villa Dinse 2 
+ Truth:	975 | Beyer, E., Kantor, mit Frau | Neustadt i. S. | Villa Dinse | 2 
+ Levenshtein: 5	CER:  0.0735
+
+ OCR:	1023 | Grensdorf, Stabs8arzt |Bromberg |Jeshkes Hotel 1 
+ Truth:	1023 | Grensdorf, Stabsarzt | Bromberg | Jeschkes Hotel | 1 
+ Levenshtein: 6	CER:  0.102
+
+ OCR:	987 | von Below, D., Rittergutsbefiger |Premen bei Anklam y 1 
+ Truth:	987 | von Below, D., Rittergutsbesitzer | Premen bei Anklam | „ | 1 
+ Levenshtein: 9	CER:  0.134
+
+ OCR:	| Uebertrag | 1587 
+ Truth:	Uebertrag | 1587 
+ Levenshtein: 2	CER:  0.125
+
+ OCR:	985 | Berndt, Kaufmann |Verlin y - 1 
+ Truth:	985 | Berndt, Kaufmann | Berlin | „ | 1 
+ Levenshtein: 6	CER:  0.154
+
+ OCR:	995 | Cohn, Leopold, Rentier, mit Familie |Waidmannslust | Villa Nußbaum 3 
+ Truth:	995 | Cohn, Leopold, Rentier, mit Familie | Waidmannsluft | Villa Nußbaum | 3 
+ Levenshtein: 4	CER:  0.0519
+
+ OCR:	1024 | Groschkus, Gertrud Berlin |Berg, Moltkestr. 14 1 
+ Truth:	1024 | Groschkus, Gertrud | Berlin | Berg, Moltkestr. 14 | 1 
+ Levenshtein: 5	CER:  0.0833
+
+ OCR:	988 | Berlin, Jda, Lehrerin, em. |Greifs8wald | Villa Viktoria Luise 1 
+ Truth:	988 | Berlin, Ida, Lehrerin, em. | Greifswald | Villa Viktoria Luise | 1 
+ Levenshtein: 5	CER:  0.0694
+
+ OCR:	1030 | Dr, Gotischalk, Ernst, Arzt, mit Frau | Charlotteuburg | Villa Silesia |4 
+ Truth:	1030 | Dr. Gottschalk, Ernst, Arzt, mit Frau | Charlotteuburg | Villa Silesia | 4 
+ Levenshtein: 3	CER:  0.037
+
+ OCR:	1027 | Guhn, Johannes, Ober-Postassistent, mit Frau | Neusalz |Brunnow, Krausestr. 190 2 
+ Truth:	1027 | Guhn, Johannes, Ober=Postassistent, mit Frau | Neusalz | Brunnow, Krausestr. 10 | 2 
+ Levenshtein: 5	CER:  0.0556
+
+ OCR:	973 | Dr. Auerbach, Richard, Journalist, mit Frau | „ |Villa Kaiser Wilhelm 92 
+ Truth:	973 | Dr. Auerbach, Richard, Journalist, mit Frau | „ | Villa Kaiser Wilhelm | 2 
+ Levenshtein: 3	CER:  0.0375
+
+ OCR:	993 | Berju, Simon, Kaufmann, mit Frau - Berlin - - Pension Pulvermann 92 
+ Truth:	993 | Berju, Simon, Kaufmann, mit Frau | Berlin | Pension Pulvermann | 2 
+ Levenshtein: 6	CER:  0.0833
+
+ OCR:	1019 | Glasberg, Philipp, Schneidermstr., m. Fam. u. Bedg. | Berlin - | Villa Heiderose 4 
+ Truth:	1019 | Glasberg, Philipp, Schneidermstr., m Fam. u. Bedg. | Berlin | Villa Heiderose | 4 
+ Levenshtein: 5	CER:  0.0568
+
+final CER: 0.09010526315789473 mean CER: 0.0981310456973642

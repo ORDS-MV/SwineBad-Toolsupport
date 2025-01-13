@@ -1,0 +1,157 @@
+ OCR:	Geiger, Franz, Hauptmann, Kreuzberg, Preußenhof 1 
+ Truth:	Geiger, Franz, Hauptmann, Kreuzberg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Knaebel, Georg, Neukölln, Goldener Hirsch 1 
+ Truth:	Knaebel, Georg, Neukölln, Goldener Hirsch | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Franz, Julius, Jena, Preußenhof 1 
+ Truth:	Franz, Julius, Jena, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0571
+
+ OCR:	Heinemann, Richard, Altona, Preußenhof W 1 
+ Truth:	Heinemann, Richard, Altona, Preußenhof | 1 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	Holstein, Günther, Greifswald, Pommernhaus 1 
+ Truth:	Holstein, Günther, Greifswald, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Gelewsty, Erich, Berlin, Preußenhof 2 1 
+ Truth:	Gelewsky, Erich, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Hartmann, Walter, Stettin, Wald und See 1 
+ Truth:	Hartmann, Walter, Stettin, Wald und See | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Fuchs, Fritz, Berlin, Preußenhof 1 
+ Truth:	Duchs, Fritz, Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0833
+
+ OCR:	Goede, Erich, Aussen, Preußenhof 1 | 
+ Truth:	Goede, Erich, Aussen, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Heinze, Gerhard, Bernau, Europäischer Hof 1 
+ Truth:	Heinze, Gerhard, Bernau, Europäischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Isen, Alfred, Breslau, St. Hubertus 1 
+ Truth:	Isen, Alfred, Breslau, St. Hubertus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Hurst, Max, Mannheim, Preußenhof 1 
+ Truth:	Hurst, Max, Mannheim, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Jacobs, Erna, Berlin, Ostsee-Kurheim 1 
+ Truth:	Jacobs, Erna, Berlin, Ostsee=Kurheim | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Harder, Gotth., Pastor, mit Frau, Ruhnow, Pommernhaus 2 
+ Truth:	Harder, Gotth., Pastor, mit Frau, Kuhnow, Pommernhaus | 2 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Grola, Georg, Architekt, Wikinger Hof M 1 
+ Truth:	Grola, Georg, Architekt, Wikinger Hof | 1 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Hellmund, Günther, Plauen, Baltischer Hof 1 
+ Truth:	Hellmund, Günther, Plauen, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Geißler, Hans, Leipzig, Jeschkes Hotel 1 
+ Truth:	Geißler, Hans, Leipzig, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Güthling, Otto, mit Familie, Berlin, St. Hubertus 3 
+ Truth:	Güthling, Otto, mit Familie, Berlin, St. Hubertus | 3 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Hartmann, Meta, Stettin, Pommernhaus L1 
+ Truth:	Hartmann, Meta, Stettin, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Huckert, Otto, Bremen, Schmidts Hotel 1 
+ Truth:	Huckert, Otto, Bremen, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Hein, Erwin, Berlin, St. Hubertus 1 
+ Truth:	Hein, Erwin, Berlin, St. Hubertus | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Hoffmann, W., Hamburg, Baltischer Hof 1 
+ Truth:	Hoffmann, W., Hamburg, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Jonas, Erich, Stettin, Jeschkes Hotel 1 
+ Truth:	Jonas, Erich, Stettin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Hehmky, Bernhard, Berlin, Preußenhof 1 
+ Truth:	Hehmky, bernhard, Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Hildebrandt, Walter, Pastor, mit Frau, Saulin, Pommernhaus 2 
+ Truth:	Hildebrandt, Walter, Pastor, mit Frau, Saulin, Pommernhaus | 2 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Krause, Berlin, Jeschkes Hotel 1 
+ Truth:	Krause, Berlin, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0588
+
+ OCR:	Hartbrecht, Otto, Stettin, Central-Hotel 1 
+ Truth:	Hartbrecht, Otto, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Hünermann, Ilse, mit Familie, Berlin, Roßmann 3 
+ Truth:	Hünermann, Ilse, mit Familie, Berlin, Koßmann | 3 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Jung, Elfriede, Pölitz, Pommernhaus 1 
+ Truth:	Jung, Elfriede, Pölitz, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Grescheck, Georg, Berlin, Baltischer Hof 1 | 
+ Truth:	Grescheck, Georg, Berlin, Baltischer Hof | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Glaß, F., mit Frau, Berlin, St. Hubertus 2 
+ Truth:	Glaß, D., mit Frau, Berlin, St. Hubertus | 2 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Holz, Walter, Stargard, Central-Hotel 1 
+ Truth:	Holz, Walter, Stargard, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Istel, Bruno, Leipzig, Central-Hotel 1 
+ Truth:	Istel, Bruno, Leipzig, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Hinz, Anna, Stargard, Pommernhaus 1 
+ Truth:	Hinz, Anna, Stargard, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Gerlach, Horst, Oberstleutnant a. D., Weimar, Jeschkes Hotel 1 
+ Truth:	Gerlach, Horst, Oberstleutnant a. D., Weimar, Jeschkes Hotel | 1 
+ Levenshtein: 2	CER:  0.0312
+
+ OCR:	Hoppe, Gerhard, Pastor, Potsdam, Pommernhaus 1 
+ Truth:	Hoppe, Gerhard, Pastor, Potsdam, Pommernhaus | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Falisch, L., Berlin, Baltischer Hof 1 
+ Truth:	Felisch, L., Berlin, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Junge, Otto, Hamburg, Wikinger Hof 1 
+ Truth:	Junge, Otto, Hamburg, Wikinger Hof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Holtfreter, Anna, Rentiere, Berlin, Pension Trapp 1 
+ Truth:	Holtfreter, Anna, Rentiere, Berlin, Pension Trapp | 1 
+ Levenshtein: 2	CER:  0.0377
+
+final CER: 0.05097806757557795 mean CER: 0.05207975250047673

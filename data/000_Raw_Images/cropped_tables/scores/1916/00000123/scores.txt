@@ -1,0 +1,3 @@
+Score for table_0:  0.9999687671661377
+Score for table_1:  0.9988248944282532
+Score for table_2:  0.8830639123916626

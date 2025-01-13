@@ -1,0 +1,121 @@
+ OCR:	Grambsch, Stralsund, Schmidts otel 1 
+ Truth:	Grambsch, Stralsund, Schmidts Hotel | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Halenza, Franz, Lübeck, Baltischer hof 1 
+ Truth:	Halenza, Franz, Lübeck, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	2222 222 2222222 122222 
+ Truth:	F 
+ Levenshtein: 23	CER:  23.0
+
+ OCR:	Gehr, Herbert, Berlin, Preußenhof 1 
+ Truth:	Gehr, Herbert, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Faß, Adolf, Offenbach, Schweriner of 1 
+ Truth:	Faß, Adolf, Offenbach, Schweriner Hof | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Gamradt, Wilh, Stettin, Wikinger of 1 
+ Truth:	Gamradt, Wilh., Stettin, Wikinger Hof | 1 
+ Levenshtein: 4	CER:  0.0976
+
+ OCR:	Euermann, Erich, Hagen, Lindenblüre 1 
+ Truth:	Euermann, Erich, Hagen, Lindenblüte | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Friedel, Fritz, Löcknitz, Schmidts Hotel 1 
+ Truth:	Friedel, Fritz, Löcknitz, Schmidts Hotel | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Heilmann, C, Hamburg, Preußenhof 1 
+ Truth:	Heilmann, C., Hamburg, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0811
+
+ OCR:	Hermann, Erich, Stettin, Baltischer „of 1 
+ Truth:	Hermann, Erich, Stettin, Baltischer Hof | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Fritsch, Friedrich, Berlin, Preußenhof 1 
+ Truth:	Fritsch, Friedrich, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Gauger, Richard, mit Frau, Angermann, Schweriner Hof 2 
+ Truth:	Gauger, Richard, mit Frau, Angermann, Schweriner Hof | 2 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Freckmann, Willi, Berlin, Central-Hotel 1 
+ Truth:	Freckmann, Willi, Berlin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Hüttel, Franz, Berlin, OstseeKurheim 1 
+ Truth:	Hüttel, Franz, Berlin, Ostsee=Kurheim | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Gehrmann, Otto, Berlin, Preußenhof 1 
+ Truth:	Gehrmann, Otto, Berlin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Eisenstein, Max, Stettin, Preußenhof 1 
+ Truth:	Eisenstein, Max, Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Heilmann, C. Hamburg, Preußenhof 1 
+ Truth:	Heilmann, C. Hamburg, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Hermstadt, L, Berlin, Preußenhof 1 
+ Truth:	Hermstadt, L., Berlin, Preußenhof | 1 
+ Levenshtein: 3	CER:  0.0811
+
+ OCR:	Hauth, Alfred, Berlin-Spandau, Europäischer „of 1 
+ Truth:	Hauth, Alfred, Berlin=Spandau, Europäischer Hof | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Gafbas, Wilh, Dipl-Ing,, Beuthen, Central-Hotel 1 
+ Truth:	Gafbas, Wilh., Dipl.=Ing., Beuthen, Central=Hotel | 1 
+ Levenshtein: 7	CER:  0.132
+
+ OCR:	Grewe, Oscar, Hannover, Preußenhof 1 
+ Truth:	Grewe, Oscar, Hannover, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Glomb, Joseph, Beuthen, Westend 1 
+ Truth:	Glomb, Joseph, Beuthen, Westend | 1 
+ Levenshtein: 2	CER:  0.0571
+
+ OCR:	Garbe, E, Stettin, Wikinger of B  
+ Truth:	Garbe, E., Stettin, Wikinger Hof | 1 
+ Levenshtein: 4	CER:  0.111
+
+ OCR:	Herbst, Mar, Berlin-Lichterfelde, Preußenhof 1 
+ Truth:	Herbst, Max, Berlin=Lichterfelde, Preußenhof | 1 
+ Levenshtein: 4	CER:  0.0833
+
+ OCR:	Fritsch, Fritz, Stettin, CentralHotel 1 
+ Truth:	Fritsch, Fritz, Stettin, Central=Hotel | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Held, Vitus, Gastwirt, mit Frau, Berlin, Preußenhof 2 
+ Truth:	Held, Vitus, Gastwirt, mit Frau, Berlin, Preußenhof | 2 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Hippe, Werner, Ingenieur, Berlin, Central-Hotel, 1 
+ Truth:	Hippe, Werner, Ingenieur, Berlin, Central=Hotel, | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Fuchs, Eugen, Pforzheim, Preußenhof 1 
+ Truth:	Fuchs, Eugen, Pforzheim, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Gottschalk, Luci, Berlin, OstseeKurheim 1 
+ Truth:	Gottschalk, Luci, Berlin, Ostsee=Kurheim | 1 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Fuhlbrück, Carl, Finkenwalde, Kühle auelle 1 
+ Truth:	Fuhlbrück, Carl, Finkenwalde, Kühle Quelle | 1 
+ Levenshtein: 3	CER:  0.0652
+
+final CER: 0.08656957928802589 mean CER: 0.8325598259520532

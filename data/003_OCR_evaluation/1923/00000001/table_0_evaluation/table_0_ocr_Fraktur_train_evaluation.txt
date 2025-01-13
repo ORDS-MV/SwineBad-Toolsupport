@@ -1,0 +1,189 @@
+ OCR:	Dittricki, Alexander, Kfm., Berlin, Strandh. 1 
+ Truth:	Dittrich, Alexander, Kfm., Berlin, Strandh. | 1 
+ Levenshtein: 4	CER:  0.0851
+
+ OCR:	Brodsky, Madeleine, Frau, mit Kindern, 
+ Truth:	Brodsky, Madeleine, Frau, mit Kindern, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Berlin, Beatus ille 3 
+ Truth:	 Berlin, Beatus ille | 3 
+ Levenshtein: 3	CER:  0.125
+
+ OCR:	Busch, Wally, Frl., Berlin, Strandhotel 1 
+ Truth:	Busch, Wally, Frl., Berlin, Strandhotel | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Aalst, Jean, Dr., mit Fr., Berlin, Goldfried 2 
+ Truth:	Aalst, Jean, Dr., mit Fr., Berlin, Goldfried | 2 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Burauchj, Olga, Lehrerin, Grimmen, Vineta 1 
+ Truth:	Burauch, Olga, Lehrerin, Grimmen, Vineta | 1 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Alesch, Hugo, Direktor, Berlin, Waterkant 1 
+ Truth:	Alesch, Hugo, Direktor, Berlin, Waterkant | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Buhaly, Eberh., Jngen., Stettin, Barbarossa 1 
+ Truth:	Buchaly, Eberh., Ingen., Stettin, Barbarossa | 1 
+ Levenshtein: 4	CER:  0.0833
+
+ OCR:	Alexander, Albert, Kfm., Stettin, Ostseehotel 1 
+ Truth:	Alexander, Albert, Kfm., Stettin, Ostseehotel | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Chaim, Josef, Bankbeamter, Wien, Walfisch 1 
+ Truth:	Chaim, Josef, Bankbeamter, Wien, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Briest, E., Dr., Sanitätsrat, mit Frau, Ber- 
+ Truth:	Briest, E., Dr., Sanitätsrat, mit Frau, Ber= 
+ Levenshtein: 1	CER:  0.0227
+
+ OCR:	lin-Adlershof, Hubertus 2 
+ Truth:	lin=Adlershof, Hubertus | 2 
+ Levenshtein: 3	CER:  0.111
+
+ OCR:	Bentheim, Grete, Frl., Berlin, Viktoriahotel 1 
+ Truth:	Bentheim, Grete, Frl., Berlin, Viktoriahotel | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Berkmann, Hanna, Frl., Berlin, Ostseehotel i 
+ Truth:	Berkmann, Hanna, Frl., Berlin, Ostseehotel | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Abrahamsfohn, Ludwig, Dr., Rechitsanw., nrit 
+ Truth:	Abrahamsohn, Ludwig, Dr., Rechtsanw., mit 
+ Levenshtein: 4	CER:  0.0976
+
+ OCR:	Fam., Berlin, Strandburg 3 
+ Truth:	 Fam., Berlin, Strandburg | 3 
+ Levenshtein: 3	CER:  0.103
+
+ OCR:	Basclanann, Walter, Kfm., mit Frau, Berlin, 
+ Truth:	Baschmann, Walter, Kfm., mit Frau, Berlin, 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Meeresstille 2 
+ Truth:	 Meeresstille | 2 
+ Levenshtein: 3	CER:  0.176
+
+ OCR:	Aronfohn, Sally, Kaufm., Berlin, Jester 1 
+ Truth:	Aronsohn, Sally, Kaufm., Berlin, Jester | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Behrens-Ramberg, Georg, Kunstmaler, Lübed, 
+ Truth:	Behrens=Ramberg, Georg, Kunstmaler, Lübeck, 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Jesdes Hotel 1 
+ Truth:	 Jeschkes Hotel | 1 
+ Levenshtein: 6	CER:  0.316
+
+ OCR:	Auschin, Michael, Sänger, Berlin, Moeve 1 
+ Truth:	Auschin, Michael, Sänger, Berlin, Moeve | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Baida, Boris, Jngen., Berlin, Flora 1 
+ Truth:	Baida, Boris, Ingen., Berlin, Flora | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	Burchfuhrer, Honka, Düsseldorf, Vineta 1 
+ Truth:	Burchfuhrer, Honka, Düsseldorf, Vineta | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Berlowit, Else, Frau, mit Kind und Bed., 
+ Truth:	Berlowitz, Else, Frau, mit Kind und Bed., 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Mrlin, Schloß-Hotel 3 
+ Truth:	 Berlin, Schloß=Hotel | 3 
+ Levenshtein: 6	CER:  0.24
+
+ OCR:	Benaikowskyg, Else, Frau, mit Kind, Berlin, 
+ Truth:	Benaikowsky, Else, Frau, mit Kind, Berlin, 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	Meta 2 
+ Truth:	 Meta | 2 
+ Levenshtein: 3	CER:  0.333
+
+ OCR:	Bejarano, Jfomir, Kfm., mit Frau, Berlin, 
+ Truth:	Bejarano, Isomir, Kfm., mit Frau, Berlin, 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Strandhotel 2 
+ Truth:	 Strandhotel | 2 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	„Cohn, Karl, Rechtsanwalt, mit Frau, Berlin, | 
+ Truth:	Cohn, Karl, Rechtsanwalt, mit Frau, Berlin, 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Friedensburg 2 
+ Truth:	 Friedensburg | 2 
+ Levenshtein: 3	CER:  0.176
+
+ OCR:	Berdagna, Jose, Dr. med., mit Frau, Berlin, 
+ Truth:	Berdagna, Jose, Dr. med., mit Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Sehlloßhotel 2 
+ Truth:	 Schloßhotel | 2 
+ Levenshtein: 5	CER:  0.312
+
+ OCR:	Behrendt, Heinz, Ksm., Stettin, Schloß am 
+ Truth:	Behrendt, Heinz, Kfm., Stettin, Schloß am 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Meer 1 
+ Truth:	 Meer | 1 
+ Levenshtein: 3	CER:  0.333
+
+ OCR:	Borup, Harry, Lagerverwalter, mit Frau, 
+ Truth:	Borup, Harry, Lagerverwalter, mit Frau, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Mültzow, Vineta 2 
+ Truth:	 Mültzow, Vineta | 2 
+ Levenshtein: 3	CER:  0.15
+
+ OCR:	Blüth, Karl, Kfm., Wilmersdorf, Hubertus 1 
+ Truth:	Blüth, Karl, Kfm., Wilmersdorf, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Bohr, Albert, Patentanw., mit Frau, Berlin, 
+ Truth:	Bohr, Albert, Patentanw., mit Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Hohenstaufen 2 
+ Truth:	 Hohenstaufen | 2 
+ Levenshtein: 3	CER:  0.176
+
+ OCR:	Bitow, Willy, Kaufm., mit Frau, Stettin, 
+ Truth:	Bütow, Willy, Kaufm., mit Frau, Stettin, 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	Strandhotel 2 
+ Truth:	 Strandhotel | 2 
+ Levenshtein: 3	CER:  0.188
+
+ OCR:	Abraham, Joseph, Kaufm., mit Fem., Char- 
+ Truth:	Abraham, Joseph, Kaufm., mit Fam., Char= 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	lottenburg, Hohenstaufen 3 
+ Truth:	lottenburg, Hohenstaufen | 3 
+ Levenshtein: 2	CER:  0.0714
+
+ OCR:	Conrad, Franz, Kaufm., mit Frau, Stettin, 
+ Truth:	Conrad, Franz, Kaufm., mit Frau, Stettin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Sclzloßhotel 2 
+ Truth:	 Schloßhotel | 2 
+ Levenshtein: 5	CER:  0.312
+
+final CER: 0.0712979890310786 mean CER: 0.09974772145928654

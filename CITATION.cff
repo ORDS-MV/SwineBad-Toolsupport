@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SwineBad: Tool support for the automatic extraction of
+  newspaper data from data from historical newspapers
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Steffen
+    family-names: Steiner
+    affiliation: Wismar University of Applied Sciences
+    orcid: 'https://orcid.org/0000-0002-0652-5735'
+  - given-names: Frank
+    family-names: Krüger
+    email: frank.krueger@hs-wismar.de
+    affiliation: Wismar University of Applied Sciences
+    orcid: 'https://orcid.org/0000-0002-7925-3363'
+repository-code: 'https://github.com/ORDS-MV/SwineBad-Toolsupport'
+license: Apache-2.0
+version: '1.0'
+date-released: '2025-01-13'

@@ -1,0 +1,161 @@
+ OCR:	rüggemann, Adolf, Juwelier, Berlin, Pension Seeshloß 1 
+ Truth:	Brüggemann, Adolf, Juwelier, Berlin, Pension Seeschloß | 1 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Behrendt, Paul, Kaufm., mit Fam., Stettin, Villa Nußbaum 38 
+ Truth:	Behrendt, Paul, Kaufm., mit Fam., Stettin, Villa Nußbaum | 3 
+ Levenshtein: 3	CER:  0.05
+
+ OCR:	Bauer, Ottilie, Frau, Berlin, Pension Wilhelmsruh 1k 
+ Truth:	Bauer, Ottilie, Frau, Berlin, Pension Wilhelmsruh | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Bcnek, Käte, Priv., Berlin, Splendid 1 
+ Truth:	Benek, Käte, Priv., Berlin, Splendid | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Binder, Hans, Fabrikant, mit Frau, Berlin, Schloß Hohenzollern 2 
+ Truth:	Binder, Hans, Fabrikant, mit Frau, Berlin, Schloß Hohenzollern | 2 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	ornstedt, Johanna, Frl., Magdeburg, Park-Hotel 1 
+ Truth:	Bornstedt, Johanna, Frl., Magdeburg, Park=Hotel | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Bähmer, Adam, Dr. med., mit Frau, Berlin, Schloß Hohenzollern 2 
+ Truth:	Bähmer, Adam, Dr. med., mit Frau, Berlin, Schloß Hohenzollern | 2 
+ Levenshtein: 2	CER:  0.0308
+
+ OCR:	Adam, Wilh., Kaufm., Eberswalde, Oehlkes Gasth. 1 
+ Truth:	Adam, Wilh., Kaufm., Eberswalde, Oehlkes Gasth. | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	rmeister, Elise, Frau, Stettin, Gasth. z. Deutschen Kaiser 1 
+ Truth:	Burmeister, Elise, Frau, Stettin, Gasth. z. Deutschen Kaiser | 1 
+ Levenshtein: 4	CER:  0.0625
+
+ OCR:	Ahlsberg, Leopold, Kfm., mit Fam., Berlin, Schloß Hohenzollern 8 
+ Truth:	Ahlsberg, Leopold, Kfm., mit Fam., Berlin, Schloß Hohenzollern | 3 
+ Levenshtein: 3	CER:  0.0455
+
+ OCR:	räunlih, Julius, Dr. jur., Rhedercibesißer, mit Frau, Stettin, Villa 
+ Truth:	Bräunlich, Julius, Dr. jur., Rhedereibesitzer, mit Frau, Stettin, Villa  
+ Levenshtein: 6	CER:  0.0833
+
+ OCR:	Strandburg 2 
+ Truth:	Strandburg | 2 
+ Levenshtein: 2	CER:  0.143
+
+ OCR:	Arnfeld, Clara, Priv., Berlin, Splendid 1 
+ Truth:	Arnfeld, Clara, Priv., Berlin, Splendid | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Setne Kontglthe Hoheit, Prinz Heinrich von Preußen, mit Gesoige 
+ Truth:	Seine Königliche Hoheit, Prinz Heinrich von Preußen, mit Gefolge  
+ Levenshtein: 8	CER:  0.123
+
+ OCR:	Kiel, Zum Walfist 15 
+ Truth:	Kiel, Zum Walfisch | 15 
+ Levenshtein: 4	CER:  0.174
+
+ OCR:	MWotlcher, Anna, Schwester, Stettin, Eberts Strandkonditorei 1 
+ Truth:	Böttcher, Anna, Schwester, Stettin, Eberts Strandkonditorei | 1 
+ Levenshtein: 6	CER:  0.0952
+
+ OCR:	raun, Rudolf, Reichshauptbankkaierer, mit Frau, Berlin, Pension 
+ Truth:	Braun, Rudolf, Reichshauptbankkassierer, mit Frau, Berlin, Pension  
+ Levenshtein: 4	CER:  0.0597
+
+ OCR:	Seeshloß 2 
+ Truth:	Seeschloß | 2 
+ Levenshtein: 3	CER:  0.231
+
+ OCR:	Anding, Theodor, Fabrikant, m. Frau, Berlin, Gasth. Prz. Eit. Fricdr. 2 
+ Truth:	Anding, Theodor, Fabrikant, m. Frau, Berlin, Gasth. Prz. Eit. Friedr. | 2 
+ Levenshtein: 3	CER:  0.0411
+
+ OCR:	uno, M., Stettin, Park-Hotel 1 
+ Truth:	Bruno, M., Stettin, Park=Hotel | 1 
+ Levenshtein: 5	CER:  0.147
+
+ OCR:	Barthult, Frl., Lassahn, Hotel Drei Kronen 1 
+ Truth:	Barthult, Frl., Lassahn, Hotel Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Berg., Ilse, Frl., Stettin, Splendid  
+ Truth:	Berg., Ilse, Frl., Stettin, Splendid | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Bähr, Kaufm., Berlin, Schmidts Gasth. 1 
+ Truth:	Bähr, Kaufm., Berlin, Schmidts Gasth. | 1 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	alke, Waldemar, Kadow b. Potsdam, Schloß Hohenzollern 1 
+ Truth:	Balke, Waldermar, Kadow b. Potsdam, Schloß Hohenzollern | 1 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	randt, Else, Frl., Berlin, Villa Nußbaum  
+ Truth:	Brandt, Else, Frl., Berlin, Villa Nußbaum | 1 
+ Levenshtein: 4	CER:  0.0889
+
+ OCR:	lumenthal, Alfred, Kaufm., Berlin, Villa Hohenstaufen 1- 
+ Truth:	Blumenthal, Alfred, Kaufm., Berlin, Villa Hohenstaufen | 1 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	riola, Frau, Kaufm., mit Fam., Greifswald, Hubertus 4 
+ Truth:	Briola, Frau, Kaufm., mit Fam., Greifswald, Hubertus | 4 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	remc, Recktsanwalt, Berlin, Viktoria-Hotel 1 
+ Truth:	Breme, Rechtsanwalt, Berlin, Viktoria=Hotel | 1 
+ Levenshtein: 6	CER:  0.128
+
+ OCR:	rndt, Kaufm., mit Fam., Stettin, Vulp, Bedastr. 10 8 
+ Truth:	Arndt, Kaufm., mit Fam., Stettin, Vulp, Bedastr. 10 | 3 
+ Levenshtein: 4	CER:  0.0727
+
+ OCR:	Wolf, Karl, Tischlermeister, m. Fam., Stettin, Norddeutscher Hof 5 
+ Truth:	Bölk, Karl, Tischlermeister, m. Fam., Stettin, Norddeutscher Hof | 5 
+ Levenshtein: 5	CER:  0.0735
+
+ OCR:	Bähr, C., Kaufm., mit Fam., Stettin, Villa Waldbli 8 
+ Truth:	Bähr, C., Kaufm., mit Fam., Stettin, Villa Waldblick | 3 
+ Levenshtein: 5	CER:  0.0893
+
+ OCR:	M Braunschweig, Richard, Schüler, Berlin, Poetter, Moltkestr. 15 1 
+ Truth:	v. Braunschweig, Richard, Schüler, Berlin, Poetter, Moltkestr. 15 | 1 
+ Levenshtein: 4	CER:  0.058
+
+ OCR:	Andersohn, Anna, Frau, Horst, Gasthof zum Deutsch. Kaiser 1 
+ Truth:	Andersohn, Anna, Frau, Horst, Gasthof zum Deutsch. Kaiser | 1 
+ Levenshtein: 2	CER:  0.0328
+
+ OCR:	Anlih, Lotte, Frl., Stettin, Hubertus 1 
+ Truth:	Anlich, Lotte, Frl., Stettin, Hubertus | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	raun, Sabine, Frau Kaufm., Stettin, Villa Hohenstaufen 1. 
+ Truth:	Braun, Sabine, Frau Kaufm., Stettin, Villa Hohenstaufen | 1 
+ Levenshtein: 4	CER:  0.0678
+
+ OCR:	Bindemann, Emma, Frau Rechtsanwalt, Berlin, Villa Sonnenschein 1 
+ Truth:	Bindemann, Emma, Frau Rechtsanwalt, Berlin, Villa Sonnenschein | 1 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Bemen, Hauptmann, mit Frau, Spandau, Splendid 2 
+ Truth:	Bemen, Hauptmann, mit Frau, Spandau, Splendid | 2 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Behne, Felix, Fabrikbesißer, mit Frau, Berlin, Villa Beatus ille 2 
+ Truth:	Behne, Felix, Fabrikbesitzer, mit Frau, Berlin, Villa Beatus ille | 2 
+ Levenshtein: 4	CER:  0.058
+
+ OCR:	Behne, Otto, mit Schwester, Werder a. Havel, Villa Beatus ille 2 
+ Truth:	Behne, Otto, mit Schwester, Werder a. Havel, Villa Beatus ille | 2 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Baiß, Romain, Kunstgewerbler, mit Frau, Berlin, Splendid 2 
+ Truth:	Baitz, Romain, Kunstgewerbler, mit Frau, Berlin, Splendid | 2 
+ Levenshtein: 4	CER:  0.0656
+
+final CER: 0.06592386258124419 mean CER: 0.07363580448909064

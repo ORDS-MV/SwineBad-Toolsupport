@@ -1,0 +1,157 @@
+ OCR:	Bernhardt, Georg, Stabs8arzt, mit Frau, Stettin, Favorit 2 
+ Truth:	Bernhardt, Georg, Stabsarzt, Stettin, Favorit | 2 
+ Levenshtein: 13	CER:  0.265
+
+ OCR:	Besser, Margarete, Vorsteherin, Berlin, Jeschkes Gasth. 1. 
+ Truth:	Besser, Margarete, Vorsteherin, Berlin, Jeschkes Gasth. | 1 
+ Levenshtein: 3	CER:  0.0508
+
+ OCR:	Bergmann, Klare, Berlin, Schloß Hohenzollern 1 
+ Truth:	Bergmann, Klare, Berlin, Schloß Hohenzollern | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Berndt, Elfriede, Lehrerin, Neukölln, Westend-Gasth. 1 
+ Truth:	Berndt, Elfriede, Lehrerin, Neukölln, Westend=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Berger, Käte, Stettin, Glüksbug 1 
+ Truth:	Berger, Käte, Stettin, Glücksburg | 1 
+ Levenshtein: 4	CER:  0.108
+
+ OCR:	Böttger, Käte, Johanniterschwester, Chemnig, Wilhelma 1 
+ Truth:	Böttger, Käte, Johanniterschwester, Schemnitz, Wilhelma | 1 
+ Levenshtein: 6	CER:  0.102
+
+ OCR:	Berliner, Käthe, Berlin, Kurparkstraße 168 1 
+ Truth:	Berliner, Käthe, Berlin, Kurparkstraße 16 | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Barleben, Frig, Bureauvorsteher, mit Frau, Lichtenberg, Walfish 2 
+ Truth:	Barleben, Fritz, Bureauvorsteher, mit Frau, Lichtenberg, Walfisch | 2 
+ Levenshtein: 5	CER:  0.0725
+
+ OCR:	Bluncke, Elfriede, Buchhalterin, Wolgast, Fürstenhof 1 
+ Truth:	Bluncke, Elfriede, Buchhalterin, Wolgast, Fürstenhof | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Bernstein, Rehtsanwalt, Stettin, Schweriner Hof 1 
+ Truth:	Bernstein, Rechtsanwalt, Stettin, Schweriner Hof | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Berger, Elisabeth, Frl., Düsseldorf, Haegers Gasth. 1 
+ Truth:	Berger, Elisabeth, Frl., Düsseldorf, Haegers Gasth. | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Bortfeld, Max, Fabrikant, m. Fam., Magdeburg, Schloß Hohenzollern 3 
+ Truth:	Bortfeld, Max, Fabrikant, m. Fam., Magdeburg, Schloß Hohenzollern | 3 
+ Levenshtein: 2	CER:  0.029
+
+ OCR:	Bartel, Hermann, Rentier, mit Frau, Stettin, Fürst Bismar 2 
+ Truth:	Bartel, Hermann, Rentier, mit Frau, Stettin, Fürst Bismarck | 2 
+ Levenshtein: 4	CER:  0.0635
+
+ OCR:	Berg, Charlotte, Frau, Berlin, Haus Krasuki 1 
+ Truth:	Bertz, Charlotte, Frau, Berlin, Haus Krasucki | 1 
+ Levenshtein: 5	CER:  0.102
+
+ OCR:	Biging, Helene, Buchhalterin, Verlin-Brig, Titel, Gadebuschstraße 14 1 
+ Truth:	Biging, Helene, Buchhalterin, Berlin=Britz, Titel, Gadebuschstraße 14 | 1 
+ Levenshtein: 6	CER:  0.0822
+
+ OCR:	Bauer, Auguste, Frau, mit Kind, Südweiler, Kr. Saarbrücken, Wergin, 
+ Truth:	Bauer, Auguste, Frau, mit Kind, Südweiler, Kr. Saarbrücken, Wergin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Färberstraßze 8  
+ Truth:	 Färberstraße 23 | 2 
+ Levenshtein: 7	CER:  0.35
+
+ OCR:	Behnke, Erna, Frau, Altdamm, Burwig, Färberst. 8 1 
+ Truth:	Behnke, Erna, Frau, Altdamm, Burwitz, Färberstr. 8 | 1 
+ Levenshtein: 5	CER:  0.0926
+
+ OCR:	Bischhoff, Emil, Bäermeister, mit Frau, Lichtenberg, Fürstenhof 82 
+ Truth:	Bischhoff, Emil, Bäckermeister, mit Frau, Lichtenberg, Fürstenhof | 2 
+ Levenshtein: 4	CER:  0.058
+
+ OCR:	Bartholomeus, Walter, Stabsarzt, mit Frau, Stettin, Walfisch 2 
+ Truth:	Bartholomeus, Walter, Stabsarzt, mit Frau, Stettin, Walfisch | 2 
+ Levenshtein: 2	CER:  0.0312
+
+ OCR:	Barbuzki, Margarete, Frl., Berlin, Kleists Gasthaus 1 
+ Truth:	Barbutzki, Margarete, Frl., Berlin, Kleist's Gasthaus | 1 
+ Levenshtein: 4	CER:  0.0702
+
+ OCR:	Bernstein, Jna, Frau, mit Kind und Bed., Berlin, Augustastr. 12a 8 
+ Truth:	Bernstein, Ina, Frau, mit Kind und Bed., Berlin, Augustastr. 12a | 3 
+ Levenshtein: 4	CER:  0.0588
+
+ OCR:	Bernhardt, Herta, Stettin, Kujawski, Gartenstr. 18 1 
+ Truth:	Bernhardt, Herta, Stettin, Kujawski, Gartenstr. 18 | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	v. Bodungen, Elisabeth, Berlin, Schloß am Meer 1 
+ Truth:	v. Bodungen, Elisabeth, , Berlin, Schloß am Meer | 1 
+ Levenshtein: 4	CER:  0.0769
+
+ OCR:	Bauer, Luise, Frau, Neukölln, Bingang, Neuestraße 71 1 
+ Truth:	Bauer, Luise, Frau, Neukölln, Bingang, Neuestraße 71 | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	1 Birkholz, Paul, Kaufmann, Berlin, Westend-Gasth. 1. 
+ Truth:	Birkholz, Paul, Kaufmann, Berlin, Westend=Gasth. | 1 
+ Levenshtein: 6	CER:  0.115
+
+ OCR:	Bersh, Franz, Stettin, Fürst Bismar 1 
+ Truth:	Bersch, Franz, Stettin, Fürst Bismarck | 1 
+ Levenshtein: 5	CER:  0.119
+
+ OCR:	Bernhardt, Karl, Cafetier, Berlin, Drei Kronen 1 
+ Truth:	Bernhardt, Karl, Cafetier, Berlin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Bekmann, Traute, Stettin, Gartenstraße 24 1 
+ Truth:	Beckmann, Traute, Stettin, Gartenstraße 24 | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	| Blum, Elli, Braunschweig, Jeshkes Gasth. 1 
+ Truth:	Blum, Elli, , Braunschweig, Jeschkes Gasth. | 1 
+ Levenshtein: 7	CER:  0.149
+
+ OCR:	Behrendorff, Erna, Frau, Belgard, Kasemne 1 
+ Truth:	Behrendorff, Erna, Frau, Belgard, Kaserne | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Berger, Marta, Stettin, Glüks8burg 1 
+ Truth:	Berger, Marta, Stettin, Glücksburg | 1 
+ Levenshtein: 4	CER:  0.105
+
+ OCR:	Bauer, Elise, Frau, Südweiler, Kreis Saarbrütken, Färberstr. 23 1 
+ Truth:	Bauer, Elise, Frau, Südweiler, Krais Saarbrücken, Färberstr. 23 | 1 
+ Levenshtein: 4	CER:  0.0597
+
+ OCR:	Blödow, Hedwig, Frl., Labes, Kr. Regenwalde, Kempke, Gartenstr. 42 1 
+ Truth:	Blödow, Hedwig, Frl., Labes, Kr. Regenwalde, Kempke, Gartenstr. 42 | 1 
+ Levenshtein: 2	CER:  0.0286
+
+ OCR:	Besinsky, Felix, Kaufm., Stettin, Preußenhof 1 
+ Truth:	Besinsky, Felix, Kaufm., Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Bartz, Dora, Frl., Stettin, Drei Kronen 1 
+ Truth:	Bartz, Dora, Frl., Stettin, Drei Kronen | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Becher, Magdalene, Frau, mit Kind, Bauhwiß, Germania 8 
+ Truth:	Becher, Magdalene, Frau, mit Kind, Bauchwitz, Germania | 2 
+ Levenshtein: 6	CER:  0.103
+
+ OCR:	Bluhm, Richard, mit Familie, Berlin, Thimian, Schönebergstr. 8  
+ Truth:	Bluhm, Richard, mit Familie, Berlin, Thimian, Schönebergstr. 8 | 4 
+ Levenshtein: 3	CER:  0.0455
+
+ OCR:	Bodenstein, Elise, Posen, Stephanie - 1 
+ Truth:	Bodenstein, Slise, , Posen, Stephanie | 1 
+ Levenshtein: 4	CER:  0.0976
+
+final CER: 0.07051585423568386 mean CER: 0.07791027991747572

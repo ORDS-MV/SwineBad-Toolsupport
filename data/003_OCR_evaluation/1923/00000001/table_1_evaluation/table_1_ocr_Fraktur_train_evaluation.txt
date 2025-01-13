@@ -1,0 +1,185 @@
+ OCR:	Kahn, Kfm., mit Frau, Berlin, Strandburg 
+ Truth:	Kahn, Kfm., mit Frau, Berlin, Strandburg | 2 
+ Levenshtein: 4	CER:  0.0909
+
+ OCR:	Kops, Hanny, Frau, mit Kindern, Berlin, 
+ Truth:	Kops, Hanny, Frau, mit Kindern, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Nußbaum 1 
+ Truth:	 Strandburg | 4 
+ Levenshtein: 12	CER:  0.8
+
+ OCR:	Horras, Herm., Direktor, mit Frau, Char- 
+ Truth:	Horras, Herm., Direktor, mit Frau, Char= 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	lottenburg, Hubertus 2 
+ Truth:	lottenburg, Hubertus | 2 
+ Levenshtein: 2	CER:  0.0833
+
+ OCR:	Kops, Hanny, Frau, mit Töchtern, Berlin, 
+ Truth:	Kops, Hanny, Frau, mit Töchtern, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Strandburg 4 
+ Truth:	 Splendid | 3 
+ Levenshtein: 9	CER:  0.692
+
+ OCR:	Kannenbers, Erich, Rittergutsbes., mit Frau 
+ Truth:	Kannenberg, Erich, Rittergutsbes., mit Frau 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	| und Bed., Voigtshagen, Hubertus A 
+ Truth:	 und Bed., Voigtshagen, Hubertus | 3 
+ Levenshtein: 4	CER:  0.111
+
+ OCR:	Jsrael, Herm., Kaufm., mit Frau, Stettin, 
+ Truth:	Israel, Herm., Kaufm., mit Frau, Stettin, 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Strand-Hotel 2 
+ Truth:	 Strand=Hotel | 2 
+ Levenshtein: 4	CER:  0.235
+
+ OCR:	Goldscanidt, Franz, Kaufm., Berlin, Jester 1 
+ Truth:	Goldschmidt, Franz, Kaufm., Berlin, Jester | 1 
+ Levenshtein: 4	CER:  0.087
+
+ OCR:	Khrapko, Frau, mit Gesellschafterin, Bevlin, 
+ Truth:	Khrapko, Frau, mit Gesellschafterin, Berlin, 
+ Levenshtein: 1	CER:  0.0227
+
+ OCR:	Schiloy am Meer 2 
+ Truth:	 Schloß am Meer | 2 
+ Levenshtein: 5	CER:  0.263
+
+ OCR:	Kryjatt, Hildegard, Frau, Berlin, Goldfried 1 
+ Truth:	Krysatt, Hildegard, Frau, Berlin, Goldfried | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Heindel, Marg., Berlin, Vineta - 1 
+ Truth:	Heindel, Marg., Berlin, Vineta | 1 
+ Levenshtein: 1	CER:  0.0294
+
+ OCR:	Hentsch, Else, Frl., Stettin, Min Ollendeel 1 
+ Truth:	Hentsch, Else, Frl., Stettin, Min Ollendeel | 1 
+ Levenshtein: 2	CER:  0.0426
+
+ OCR:	1 Kirst, Ottilie, Frau, mit Mutter, Berlin, 
+ Truth:	Kirst, Ottilie, Frau, mit Mutter, Berlin, 
+ Levenshtein: 2	CER:  0.0488
+
+ OCR:	Hokbenstaufen I 
+ Truth:	 Hohenstaufen | 2 
+ Levenshtein: 6	CER:  0.353
+
+ OCR:	Kahn, Albert, Kaufm., mit Fam., Berlin, 
+ Truth:	Kahn, Albert, Kaufm., mit Fam., Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Preußenhof E 
+ Truth:	 Preußenhof | 3 
+ Levenshtein: 4	CER:  0.267
+
+ OCR:	Goldberg, Hermann, Berlin, Hubertus 1 
+ Truth:	Goldberg, Hermann, Berlin, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Herzog, Albert, Kaufm., mit Frau, Berlin, 
+ Truth:	Herzog, Albert, Kaufm., mit Frau, Berlin, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Viktoria-Hotel 2 
+ Truth:	 Viktoria=Hotel | 2 
+ Levenshtein: 4	CER:  0.211
+
+ OCR:	Hildebrandt, Kaufm., mit Sctwester, Berlin, 
+ Truth:	Hildebrandt, Kaufm., mit Schwester, Berlin, 
+ Levenshtein: 1	CER:  0.0233
+
+ OCR:	Schloß am Meer 2 
+ Truth:	 Schloß am Meer | 2 
+ Levenshtein: 3	CER:  0.158
+
+ OCR:	Janson, Sibylla, mit Fam., Berlin, Dünen- 
+ Truth:	Janson, Sibylla, mit Fam., Berlin, Dünen= 
+ Levenshtein: 1	CER:  0.0244
+
+ OCR:	Fester 2 
+ Truth:	schloß | 3 
+ Levenshtein: 9	CER:  0.9
+
+ OCR:	Heise, Otto, Kaufm., mit Frau, Charlotten- 
+ Truth:	Heise, Otto, Kaufm., mit Frau, Charlotten= 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	burg, Augustahotel 1 
+ Truth:	burg, Augustahotel | 1 
+ Levenshtein: 2	CER:  0.0909
+
+ OCR:	Goldberg, Henri, Sänger, Berlin, Moeve- 1 
+ Truth:	Goldberg, Henri, Sänger, Berlin, Moeve | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Krebs, Bernhard, RNittergutsbesißer, Berlin, 
+ Truth:	Krebs, Bernhard, Rittergutsbesitzer, Berlin, 
+ Levenshtein: 3	CER:  0.0682
+
+ OCR:	Splendid B 
+ Truth:	 Splendid | 1 
+ Levenshtein: 4	CER:  0.308
+
+ OCR:	Goldstein, Harry, Kaufm., Berlin, 1 
+ Truth:	Goldstein, Harry, Kaufm., Berlin, ? | 1 
+ Levenshtein: 4	CER:  0.103
+
+ OCR:	Haase, Paul, Lehrer, m. Frau, Rügenwalde, 
+ Truth:	Haase, Paul, Lehrer, m. Frau, Rügenwalde, 
+ Levenshtein: 0	CER:  0.0
+
+ OCR:	Min Ollendeel 2 
+ Truth:	 Min Ollendeel | 2 
+ Levenshtein: 3	CER:  0.167
+
+ OCR:	Heyda, Gertrud, Stralsund, Hubertus 1 
+ Truth:	Heyda, Gertrud, Stralsund, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Gehring, Emil, Bankbeamter, Berlin, Vikto- 
+ Truth:	Gehring, Emil, Bankbeamter, Berlin, Vikto= 
+ Levenshtein: 1	CER:  0.0238
+
+ OCR:	riahotell 1 
+ Truth:	riahotel | 1 
+ Levenshtein: 2	CER:  0.167
+
+ OCR:	Hamann, Moses, Kaufm., Berlin, 1 
+ Truth:	Hamman, Moses, Kaufm., Berlin, ? | 1 
+ Levenshtein: 6	CER:  0.167
+
+ OCR:	|Kuhn, Susi, Frl., Berlin, Europäischer Hof 1 
+ Truth:	Kuhn, Sussi, Frl., Berlin, Europäischer Hof | 1 
+ Levenshtein: 4	CER:  0.0851
+
+ OCR:	Hils, Alice, Frau, Berlin, Strandburg i 
+ Truth:	Hils, Alice, Frau, Berlin, Strandburg | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Hanf Alfred, Rechtsanw., mit Fam., Stettin, 
+ Truth:	Hanf ,Alfred, Rechtsanw., mit Fam., Stettin, 
+ Levenshtein: 1	CER:  0.0227
+
+ OCR:	Friedensburg o 4 
+ Truth:	 Friedensburg | 4 
+ Levenshtein: 2	CER:  0.118
+
+ OCR:	Hogenhaus, Dipl.-Fngen., Berlin, Viktoria- 
+ Truth:	Hogenhaus, Dipl.=Ingen., Berlin, Viktoria= 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Hotel 1 
+ Truth:	Hotel | 1 
+ Levenshtein: 2	CER:  0.222
+
+final CER: 0.08715901530272788 mean CER: 0.13995967465790302

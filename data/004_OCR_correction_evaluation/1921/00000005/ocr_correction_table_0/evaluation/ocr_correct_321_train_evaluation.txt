@@ -1,0 +1,209 @@
+ OCR:	Kunipert, Marie, Filialleiterin, Berlin, Fortuna 1 
+ Truth:	Kumpert, Marie, Filialleiterin, Berlin, Fortuna | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Opitz, Erika, Berlin, Viktoria Luise 1 
+ Truth:	Opitz, Erika, Berlin, Viktoria Luise | 2 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Krug, Siegmund, Kaufm., Berlin, Viktoria Luise 1 
+ Truth:	Krug, Siegmund, Kaufm., Berlin, Viktoria Luise | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Martens, Otto, Bankangestellter, Berlin, Gartenstr. 42 1 
+ Truth:	Martens, Otto, Bankangesteller, Berlin, Gartenstr. 42 | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Kunimer, Otto, Leipzig, Krankenhaus 1 
+ Truth:	Kummer, Otto, Leipzig, Krankenhaus | 1 
+ Levenshtein: 4	CER:  0.105
+
+ OCR:	Mottek, Alfved, Kaufm., Berlin, Bismarckstr. 12 1 
+ Truth:	Mottek, Alfred, Kaufm., Berlin, Bismarckstr. 12 | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Pelcherim, Lehrerin der Tanzkunst, mit Tochter, Leipzig, Rheingold 2 
+ Truth:	Pelcherim, Lehrerin der Tanzkunst, mit Tochter, Leipzig, Rheingold | 2 
+ Levenshtein: 2	CER:  0.0286
+
+ OCR:	Möllendorf, Winfried und Günter, Kaufleute, Stettin, Gadebuschstr. 18 2 
+ Truth:	Möllendorf, Winfried und Günter, Kaufleute, Stettin, Gadebuschstr. 18 | 2 
+ Levenshtein: 2	CER:  0.0274
+
+ OCR:	Poser, Elisabeth, Frau, Berlin, Strandburg L 1 
+ Truth:	Poser, Elisabeth, Frau, Berlin, Strandburg | 1 
+ Levenshtein: 1	CER:  0.0217
+
+ OCR:	Labus, Kaufm., mit Frau, Berlin, Jester 2 
+ Truth:	Labus, Kaufm., mit Frau, Berlin, Jester | 2 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Podzuweit, Geschw., Buchhalterinnen, 2 Gartenstr. 18 2 
+ Truth:	Podzuweit, Geschw., Buchhalterinnen, ? Gartenstr. 18 | 2 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Läschner, Lobtchen, Haustochter, Dresden, Kindstr. 2 1 
+ Truth:	Löschner, Lottchen, Haustochter, Dresden, Kindstr. 2 | 1 
+ Levenshtein: 4	CER:  0.0714
+
+ OCR:	Lange, Konrad, Leutnant a. D., Marienwerder, Krankenhaus 1 
+ Truth:	Lange, Konrad, Leutnant a. D., Marienwerder, Krankenhaus | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Kehl Karl, Architekt, Eisenach, Splendid 1 
+ Truth:	Kehl, Karl, Architekt, Eisenach, Splendid | 1 
+ Levenshtein: 3	CER:  0.0667
+
+ OCR:	Krüger, Frau Gastwirt, mit Tochter, Berlin, Haus am Kurpark 2 
+ Truth:	Krüger, Frau Gastwirt, mit Tochter, Berlin, Haus am Kurpark | 2 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Krönig, Erna, Buchhalterin, Berlin, Emma Louise 1 
+ Truth:	Krönig, Erna, Buchhalterin, Berlin, Emma Louise | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Neugebauer, Therese, Privatiere, Berlin, Hohenstaufen 1 
+ Truth:	Neugebauer, Therese, Privatiere, Berlin, Hohenstaufen | 1 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Krützmann, Richard, Kaufm., Stettin, Hubertus 1 
+ Truth:	Krützmann, Richard, Kaufm., Stettin, Hubertus | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Leibecke, Walter, Kaufm., Berlin, Splendid 1 
+ Truth:	Leibecke, Walter, Kaufm., Berlin, Splendid | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Pottschien, Kartha, Röntgenassistentin, Berlin, Möwe 1 
+ Truth:	Pottschien, Martha, Röntgenassistentin, Berlin, Möwe | 1 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Lagier, Josef, Oberstadtsekretär, Velbert, Parkhalle 1 
+ Truth:	Lagier, Josef, Oberstadtsekretär, Velbert, Parkhalle | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Hbewlies, Willi, Poliermeister, Gollnow, Alberti 1 
+ Truth:	Oberlies, Willi, Poliermeister, Gollnow, Alberi | 1 
+ Levenshtein: 5	CER:  0.098
+
+ OCR:	Litten, Emil, Dr., ehem. Gutsbesitzer, mit Fam., Berlin, Azurea 8 
+ Truth:	Litten, Emil, Dr., ehem. Gutsbesitzer, mit Fam., Berlin, Azurea | 3 
+ Levenshtein: 3	CER:  0.0448
+
+ OCR:	Paul, Betty, Einrichterin, Berlin, Emma Louise 1 
+ Truth:	Paul, Betty, Einrichterin, Berlin, Emma Louise | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Müller, Leopold, Apothekenbesitzer, Hamburg, Hohenstaufen 1 
+ Truth:	Müller, Leopold, Apothekenbesitzer, Hamburg, Hohenstaufen | 1 
+ Levenshtein: 2	CER:  0.0328
+
+ OCR:	Scheel, Artur, Kaufm., mit Frau, Königsberg, Hubertus 2 
+ Truth:	Scheel, Artur, Kaufm., mit Frau, Königsberg, Hubertus | 2 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Kosnantzi, Kaufm. mit Frau, Berlin, Gadebuschstr. 18 2 
+ Truth:	Posnantzi, Kaufm., mit Frau, Berlin, Gadebuschstr. 18 | 2 
+ Levenshtein: 4	CER:  0.0702
+
+ OCR:	Auhr, Heinrich, Fabrikbesißer, Beckum, Hohenstaufen 1 
+ Truth:	Ruhr, Heinrich, Fabrikbesitzer, Beckum, Hohenstaufen | 1 
+ Levenshtein: 5	CER:  0.0893
+
+ OCR:	Lesser, Georg, Kaufm., mit Frau, Stettin, Friedensburg 2 
+ Truth:	Lesser, Georg, Kaufm., mit Frau, Stettin, Friedensburg | 2 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Mensing, Hermann, Kaufm., Berlin, Herkules 1 
+ Truth:	Mensing, Hermann, Kaufm., Berlin, Herkules | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Kalusche, Fritz, Oberzollinspektor, mit Frau, Berlin, Aegir 2 
+ Truth:	Kalusche, Fritz, Oberzollinspektor, mit Frau, Berlin, Aegir | 2 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Nitzung, Max, Gastwirt, mit Frau, Berlin, Friedenstr. 2 
+ Truth:	Nitzung, Max, Gastwirt, mit Frau, Berlin, Friedenstr. | 2 
+ Levenshtein: 2	CER:  0.0351
+
+ OCR:	Neumann, Lotte, Schauspielerin, Berlin, Splendid 1 
+ Truth:	Neumann, Lotte, Schauspielerin, Berlin, Splendid | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Reifarth, Agnes, Frau, Chemnitz, Parkhalle 1 
+ Truth:	Reifarth, Agnes, Frau, Chemnitz, Parkhalle | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Miazgowski, Simon, Pensionär, Berlin, Wanda 1 
+ Truth:	Miazgowski, Simon, Pensionär, Berlin, Manda | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Lang, Kurt, Kaufm., Berlin, Heureka 1 
+ Truth:	Lang, Kurt, Kaufm., Berlin, Heureka | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Vankein, Rudolf, Architekt, Charlottenburg, Emma Louise 1 
+ Truth:	Pankein, Rudolf, Architekt, Charlottenburg, Emma Louise | 1 
+ Levenshtein: 3	CER:  0.0508
+
+ OCR:	Sucksdorf, Charlotte, Geschäftsinh., Berlin, Am Meer 1 
+ Truth:	Sucksdorf, Charlotte, Geschäftsinh., Berlin, Am Meer | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Ostwin, Gustav, Kontorist, Schweden, Wilhelmstr. 2 1 
+ Truth:	Ostwin, Gustav, Kontorist, Schweden, Wilhelmstr. 2 | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Kirchhoff, Arno, Filmschauspieler, Berlin, Emma Louise 1 
+ Truth:	Kirchhoff, Arno, Filmschauspieler, Berlin, Emma Louise | 1 
+ Levenshtein: 2	CER:  0.0345
+
+ OCR:	Martin, Willhelm, Kaufm., mit Fam., Berlin, Splendid 4 
+ Truth:	Martin, Wilhelm, Kaufm., mit Fam., Berlin, Splendid | 4 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	Kühne Helene, Steglitz, Friedrichstr. 1 1 
+ Truth:	Kühne Helene, Steglitz, Friedrichstr. 1 | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Paetz, Arzt, Ducherow, Merkur 1 
+ Truth:	Paetz, Arzt, Ducherow, Merkur | 1 
+ Levenshtein: 2	CER:  0.0606
+
+ OCR:	Scheuermann, Oskar, Kaufm., Wien, Splendid A T 1 
+ Truth:	Scheuermann, Oskar, Kaufm., Wien, Splendid | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Rosenberg, Paul, mit Frau, Charlottenburg, Reichsadler 3 
+ Truth:	Rosenberg, Paul, mit Frau, Charlottenburg, Reichsadler | 2 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Voser, Otto, Operateur, mit Frau, Berlin, Strandburg 2 
+ Truth:	Poser, Otto, Operateur, mit Frau, Berlin, Strandburg | 2 
+ Levenshtein: 3	CER:  0.0536
+
+ OCR:	Lewy, Adolf Kaufm., mit Frau, Berlin, Splendid 2 
+ Truth:	Lewy, Adolf, Kaufm., mit Frau, Berlin, Splendid | 2 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Schäfer, Erna, Berlin, Splendid L 1 
+ Truth:	Schäfer, Erna, Berlin, Splendid | 1 
+ Levenshtein: 1	CER:  0.0286
+
+ OCR:	Müller, Botho, mit Frau, Nikolaisee, Strandburg 2 
+ Truth:	Müller, Botho, mit Frau, Nikolaisee, Strandburg | 2 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Rauchfus, Georg, Fabrikant, Berlin, Splendid | T T T | 1 
+ Truth:	Rauchfus, Georg, Fabrikant, Berlin, Splendid | 1 
+ Levenshtein: 8	CER:  0.167
+
+ OCR:	Mädchen, Otto, Geheimrat, Potsdam, Merkur 1 
+ Truth:	Mädser, Otto, Geheimrat, Potsdam, Merkur | 1 
+ Levenshtein: 5	CER:  0.114
+
+ OCR:	Auprecht, Kurt, mit Frau, Jüterbog, Strandhotel. 2 
+ Truth:	Ruprecht, Kurt, mit Frau, Jüterbog, Strandhotel | 2 
+ Levenshtein: 3	CER:  0.0588
+
+final CER: 0.05148951820522251 mean CER: 0.05282675326401928

@@ -1,0 +1,197 @@
+ OCR:	Weck, Sophie, Berlin, Hubertus B 
+ Truth:	Beck, Sophie, Berlin, Hubertus | 1 
+ Levenshtein: 4	CER:  0.118
+
+ OCR:	Bukowski, Konstanze, Modistin, Berlin, Aegir  
+ Truth:	Busowski, Konstanze, Modistin, Berlin, Aegir | 1 
+ Levenshtein: 4	CER:  0.0833
+
+ OCR:	Crohn, Siegfried, Kaufm,, Berlin, Splendid O1 
+ Truth:	Crohn, Siegfried, Kaufm., Berlin, Splendid | 1 
+ Levenshtein: 3	CER:  0.0652
+
+ OCR:	Körler, H, Kaufm, Berlin, Hubertus 2 
+ Truth:	Görler, H., Kaufm., Berlin, Hubertus | 1 
+ Levenshtein: 6	CER:  0.15
+
+ OCR:	Fmolms, Anna, Schaufpielerin, Charloltenburg, Zum Walfisch 2 
+ Truth:	Hmolwa, Anna, Schauspielerin, Charlottenburg, Zum Walfisch | 1 
+ Levenshtein: 8	CER:  0.129
+
+ OCR:	Bamberg, Georg, Ober-Telegr.-Aff, Greifenhagen, Trapp R 
+ Truth:	Bamberg, Georg, Ober=Telegr.=Ass., Greifenhagen, Trapp | 1 
+ Levenshtein: 8	CER:  0.138
+
+ OCR:	WBurre, Theo, Architekt, mit Fam,, Steglitz, Maritim 8 
+ Truth:	Burre, Theo, Architekt, mit Fam., Steglitz, Maritima | 3 
+ Levenshtein: 6	CER:  0.107
+
+ OCR:	elwe Margarete, Frau mit Tochter Fürflenwalde Huberlus O2 
+ Truth:	Heller, Margarete, Frau, mit Tochter, Fürstenwalde, Hubertus | 2 
+ Levenshtein: 12	CER:  0.188
+
+ OCR:	Brieger, Harald, Leutnant, mit Frau, Magdeburg, Seerings Gasth.  
+ Truth:	Brieger, Harald, Leutnant, mit Frau, Magdeburg, Seerings Gasth. | 2 
+ Levenshtein: 3	CER:  0.0448
+
+ OCR:	Altmann, Ludolf, Kaufm,, Berlin, Haideprinzes  
+ Truth:	Altmann, Ludolf, Kaufm., Berlin, Haideprinzeß | 1 
+ Levenshtein: 5	CER:  0.102
+
+ OCR:	B. Bennigsen, Rudolf, Kaufm,, Berlin, Splendid  
+ Truth:	v. Bennigsen, Rudolf, Kaufm., Berlin, Splendid | 1 
+ Levenshtein: 5	CER:  0.1
+
+ OCR:	Bachrach, Siedfried, Kaufm, mit Frau, Berlin, Goldfried 2 
+ Truth:	Bachrach, Siegfried, Kaufm., mit Frau, Berlin, Goldfried | 2 
+ Levenshtein: 4	CER:  0.0667
+
+ OCR:	Berg, Hans, Theater-Direktor, Berlin, Splendid 1 
+ Truth:	Berg, Hans, Theater=Direktor, Berlin, Splendid | 1 
+ Levenshtein: 3	CER:  0.06
+
+ OCR:	Doevel, Else, Perleberg, Aegir 2 
+ Truth:	Doevel, Else, Perleberg, Aegir | 1 
+ Levenshtein: 3	CER:  0.0882
+
+ OCR:	dier, Hildegard, Frau, mit Sohn, Berlin, Prins Heinrich 2 
+ Truth:	Adler, Hildegard, Frau, mit Sohn, Berlin, Prinz Heinrich | 2 
+ Levenshtein: 5	CER:  0.0833
+
+ OCR:	Deter, Mar, Fabrikbesitzer, Grunewald Zum Walfisch  
+ Truth:	Deter, Max, Fabrikbesitzer, Grunewald, Zum Walfisch | 1 
+ Levenshtein: 5	CER:  0.0909
+
+ OCR:	Eilert, Paul, Hilfskalkulator im Kriegsminst, Berlin, Kniebel, Friedenstr. 1 1 
+ Truth:	Eilert, Paul, Hilfskalkulator im Kriegsminst., Berlin, Kniebel, Friedenstr. 1 | 1 
+ Levenshtein: 3	CER:  0.037
+
+ OCR:	Kerhardt, Herm, mit Fam. u. Bed, Charlottenburg, Albrecht 5 
+ Truth:	Gerhardt, Herm., mit Fam. u. Bed., Charlottenburg, Albrecht | 5 
+ Levenshtein: 5	CER:  0.0794
+
+ OCR:	Fischer, Margarete, Privat⸗-Sekretarin, Berlin, Favorit 1 
+ Truth:	Fischer, Margarete, Privat=Sekretärin, Berlin, Favorit | 1 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	Nranke Berte, Rentiere, Berlin, Krüger 1 
+ Truth:	Franke, Berte, Rentiere, Berlin, Krüger | 1 
+ Levenshtein: 4	CER:  0.093
+
+ OCR:	Norgmann, Wally, Frl,, Torgelow, Christl. dospsis  
+ Truth:	Borgmann, Wally, Frl., Torgelow, Christl. Hospiz | 1 
+ Levenshtein: 8	CER:  0.154
+
+ OCR:	Klasen, A,, Privatiere, mit Tochter, Altona,  
+ Truth:	Clasen, A., Privatiere, mit Tochter, Altona, ? | 2 
+ Levenshtein: 7	CER:  0.14
+
+ OCR:	Höhmer, Fohannes, Kaufm,, mit Frau, Stettin, Splendid 2 
+ Truth:	Böhmer, Johannes, Kaufm., mit Frau, Stettin, Splendid | 2 
+ Levenshtein: 5	CER:  0.0877
+
+ OCR:	Lacobi, Reter Dentist, Berlin, Frinz Eitel Friedrich i 
+ Truth:	Jacobi, Peter, Dentist, Berlin, Prinz Eitel Friedrich | 1 
+ Levenshtein: 7	CER:  0.123
+
+ OCR:	Gruher Elifabeth, Fe Steltin gif TTTT 
+ Truth:	Gauger, Elisabeth, Frl., Stettin, Elise | 1 
+ Levenshtein: 18	CER:  0.419
+
+ OCR:	Mlach, Friedr, Direktor u. Rechtsanw, m. Frau, Charlottenburg, Hohenstaufen 2 
+ Truth:	Blach, Friedr., Direktor u. Rechtsanw., m. Frau, Charlottenburg, Hohenstaufen | 2 
+ Levenshtein: 5	CER:  0.0617
+
+ OCR:	Kebel, Lucie, Handelslehrerin Rathenow, RolandsecL 1 
+ Truth:	Gebel, Lucie, Handelslehrerin, Rathenow, Rolandseck | 1 
+ Levenshtein: 5	CER:  0.0909
+
+ OCR:	Herrmann, Ehr, Frau, Berlin, Erlenschloß TLIT 1 
+ Truth:	Herrmann, Chr., Frau, Berlin, Erlenschloß | 1 
+ Levenshtein: 6	CER:  0.133
+
+ OCR:	rothe, Warie, Ww, Babelsberg, Sonnenschein 1 
+ Truth:	Grothe, Marie, Ww., Babelsberg, Sonnenschein | 1 
+ Levenshtein: 5	CER:  0.104
+
+ OCR:	Appelbaum, Margarere, Frau, mit Tochter, Charlottenburg, Meta  
+ Truth:	Appelbaum, Margarete, Frau, mit Tochter, Charlottenburg, Meta | 2 
+ Levenshtein: 4	CER:  0.0615
+
+ OCR:	Burre, Oskar, Landiäger, Steglitz, Maritim 7 
+ Truth:	Burre, Oskar, Landjäger, Steglitz, Maritima | 1 
+ Levenshtein: 5	CER:  0.106
+
+ OCR:	Mutowski, Viktor, Kaufm, Berlin, Agir, 1 
+ Truth:	Busowski, Viktor, Kaufm., Berlin, Aegir | 1 
+ Levenshtein: 6	CER:  0.14
+
+ OCR:	Karl, Berlin, Klein, Bismarckstr 5  
+ Truth:	Hauenstein, Karl, Berlin, Klein, Bismarckstr. 5 | 1 
+ Levenshtein: 16	CER:  0.314
+
+ OCR:	Mohein Walter, Kaufm, Berlin, Rheingold „e 7 
+ Truth:	Bohnstein, Walter, Kaufm., Berlin, Rheigold | 1 
+ Levenshtein: 10	CER:  0.213
+
+ OCR:	erger, Fr, Frau, mit Kind, Hamburg, Wwaldesruh 8 
+ Truth:	Berger, Fr., Frau, mit Kind, Hamburg, Waldesruh | 2 
+ Levenshtein: 6	CER:  0.118
+
+ OCR:	Eweler, Hans Fabrikant, mit Fam,, Halensee, Gretel  
+ Truth:	Eweler, Hans, Fabrikant, mit Fam., Halensee, Gretel | 4 
+ Levenshtein: 5	CER:  0.0909
+
+ OCR:	Jacoby, Martha. Fruu, Preslau, Frida 2 
+ Truth:	Jacoby, Martha, Frau, Breslau, Frida | 1 
+ Levenshtein: 6	CER:  0.15
+
+ OCR:	Bollinger, Asta, Berlin, Favorit 1 
+ Truth:	Bollinger, Asta, Berlin, Favorit | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	2 Muthilde, Frl., 222 Nieeresstilte a  
+ Truth:	Bröcker, Mathilde, Frl., ? , Meeresstille | 1 
+ Levenshtein: 17	CER:  0.378
+
+ OCR:	Herieche, Anna. Crossen a, O, Rolandseck 1 
+ Truth:	Geriecke, Anna, Crossen, a. O., Rolandseck | 1 
+ Levenshtein: 8	CER:  0.174
+
+ OCR:	Exdmann, Vera, Frau Doktor, Misdroh, Nsixe  
+ Truth:	Erdmann, Vera, Frau Doktor, Misdroy, Nixe | 1 
+ Levenshtein: 6	CER:  0.133
+
+ OCR:	Froelich, Bruno, Reichsbgtztbeamter. mit Fam. u. Bed,, Neukölln, Dünenschloß 4 
+ Truth:	Froelich, Bruno, Reichsbankbeamter, mit Fam. u. Bed., Neukölln, Dünenschloß | 4 
+ Levenshtein: 8	CER:  0.101
+
+ OCR:	Mrünning, Gertrud, Frau Generalagent, mit Tochter, Bromberg, Erlenschlos 
+ Truth:	Brünning, Gertrud, Frau Generalagent, mit Tochter, Bromberg, Erlenschloß | 2 
+ Levenshtein: 6	CER:  0.0789
+
+ OCR:	Klücksmann, Rose, Privatiere, Berlin, Berolina 2 
+ Truth:	Glücksmann, Rose, Privatiere, Berlin, Berolina | 1 
+ Levenshtein: 4	CER:  0.08
+
+ OCR:	äthge, Wilhelm, Landwirt, mit Fam. u, Bed,, Steglitz, Alberti 5 
+ Truth:	Bäthge, Wilhelm, Landwirt, mit Fam. u. Bed., Steglitz, Alberti | 5 
+ Levenshtein: 5	CER:  0.0758
+
+ OCR:	Wöttcher, Jenny, Frau, Berlin, Krger 2 
+ Truth:	Böttcher, Jenny, Frau, Berlin, Krüger | 2 
+ Levenshtein: 4	CER:  0.0976
+
+ OCR:	Aonk, Paul, Kaufm,, mit Frau, Friedenau, Splendid  
+ Truth:	Bonk, Paul, Kaufm., mit Frau, Friedenau, Splendid | 2 
+ Levenshtein: 5	CER:  0.0943
+
+ OCR:	Altmann, Victor, Fabrikdirektor, Berlin, Ostsee-Gasth. 1 
+ Truth:	Altmann, Victor, Fabrikdirektor, Berlin, Ostsee=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Fielitz, Wilhelm, Kaufm, mit Frau, Stettin, Prins Heinrich 2 
+ Truth:	Fielitz, Wilhelm, Kaufm., mit Frau, Stettin, Prinz Heinrich | 2 
+ Levenshtein: 4	CER:  0.0635
+
+final CER: 0.11322912695386962 mean CER: 0.11834047607317674

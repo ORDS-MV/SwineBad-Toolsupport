@@ -1,0 +1,93 @@
+"| Abraham, Arthur, Kaufm., mit Frau, Berlin, Pension Seeshloz    
+. | dermann, Walter, Dr. phil., Vinz, Jeschkes Gasty.       1
+ | dam, Livy, Direttrice, Berlin, Parthotel        1
+| | leffle, Varga, Studentin, Rojtok, Deutsches Haus      1
+- | Ahrendt, Willy, Kaufm., Usedom, Central-Hotel     1
+1 |Lbrens, August, Kaufm., Stettin, Jeschles Gasth.       41
+l |V tmann, Vax, Kaufm., Breslau, Villa Favorit .      1
+. | Ultinann, Georg, Kaufm., Leipzig, Deutsches Haus       1
+1 ültshul, Oskar, Fabritbesißer, Berlin, Vila Hohenstaufen     1
+  Andrea, August, Major a. D., Potsdan, Hotel Walfish    -  1
+1 Upelbaum, Berthold, Kaufm., Berlin, Vittoria-Hotel      1
+"TUron, Anita, Schülerin, Berlin, Villa Neptun        1
+Aßmuß, Paul, Buchdruereibesißer, Berlin, Strandpalast .    1
+Vade, Paula, Privatiere, Charlottenburg, Park-Hotel      1
+a Bader, Rentier, mit Frau, Medroto, Hotel Walfish       2
+Baer, Karl, Apotheker, Berlin, Hotel Drei Kronen .      1
+- |VBaensch, Frig, Kaufm., Berlin, Villa Kaiser Wilhelm      1
+Bald, Wilhelm, Abteilungs-Präsident, mit Frau, Stettin, Jeschkes Gajthaus 2
+ |Varraz, Marg., Privatiere, Berlin, Ostsee-Hotel       1
+WBaumgarten, H., Kaufm., mit Frau, Berlin, Domke, Lotsenstr. 77    2
+P üller, Kaufm., mit Frau, Berlin, Viktoria-Hotel    2
+ Bast, Rechtsanwalt, mit Fam., Stettin, Villa Maritima      4
+ rmann, Emil, Kaufm., mit Frau, Stettin, Kaz, Dünenstraße    
+ Behrens, Paul, Kaufm., mit Frau, Berlin, Hotel Walfis     2
+ow, Kaufm., Stettin, Hotel Drei Kronen        141
+j, Hans, FKaufm., mit Fvau, Berlin, Hotel Walfisch      2
+Mergmann, Walter, Chemiker, Berlin, Lange, Färberstraßke     1
+ Werndt, Jda, Privatiere, Charlottenburg, Kaß, Dünenstraße 19    1
+ Besser, Roland, mit Fam., Stettin, Fenstonat Seeschloß      4
+f.Beutler, Dagobert, 9echtsanwalt, Berlin, Jeschtes Hotel     1
+Blaustein, Martin, Kaufm., Berlin, Viktoria-Hotel       1
+-„dblischke, Frib, Kaufm., Stettin, Viktoria-Hotekt        1
+- Blum, Jean, Kaufm., Berlin, Ostsoe-Hoteel       1
+ Blümel, Wilh., Kaufm., Berlin, Hotel Deutsches Haus      1
+JI.Vöhmann, Joh., Kaufm., Berlin, Hotel Westend       1
+Böhms, Jul, Kaufm., mit Frau, Berlin, Hotel Walfis     
+ABhnish, Hugo, Postsekretär, mit Sohn, Berlin, Molikestr. 9.    
+. Börner, Hans, Dr., mit Frau, Berlin, Jesters Hotel      2
+ Bormann, Jul., Oberinspektor, mit Frau, Herrnhof, Pension Seeschloß 
+3kGoettcher, C. A., Kaufin., mit Frau, Berlin, Jesters Hotel     2
+EWBoitin, Marie, Lehrerin, Güstrow, Eggebrechtstr. 12      1
+Böttger, Kurt, Kaufm., Leipzig, Central-Hotel        1
+ Brachler, Frit, Eberswalde, Central-Hotel        1
+Prauden, Karl, Dr. med., Berlin, Hotel Walfish       1
+ Brauer, Elis., Schülerin, Stettin, Martha-Else-Zaus      1
+dBraune, Wilh., mit Frau, Stettin, Böttchers Logierhaus      2
+ del, Ernst, Student, Halle a. S., Central-Hotel      1
+Breuer, Frieda, Charlottenburg, Gasth. Stephanie       1
+trunk, Dr. jur., Ueermünde, Lecu Walfish       1
+ Brokmann, Friß, Chemiker, mit Frau, Berlin, Hotel Walfis     2
+c Poignant, Erna, Stettin, Hotel Schweriner Hof       1.
+A runlich, Kaufm., mit Frau, Stettin, Hotel Drei Kronen     
+f4örüdner, Hans, Operettensänger, Berlin, Villa Heureka      1
+Luchholz, Willy, Kaufm., Berlin, Jeschkes Hotel       1
+„udeloff, Hans, Kgqufm., 2 Hotel Drei Kronen      2
+Puvgmeister, Ewald, Kaufm., Stettin, Hotel Deutsches Haus     1
+1 n, Clava u. Math., Berlin, Villa Favorit      
+„ Farmozien, Wilh., Kaufm., Wollin, Schweriner Hof       1
+ | asten, Elly, Frl., Stettin, Parkhalle, Gartenstr. 18      1
+- | iorwig, Cäsar, Direktor, Berlin, Villa Heureka       1
+„en, M., Kaufm., mit Frau, Berlin, Villa Strandbburg .    2
+Lohn, Sigism., Kaufm., mit Frau, Greifswald, Jeschkes Hotel    2
+Fohn, Georg, Kaufm., mit Frau, Berlin, Haus Helene      2
+aTarzow, Georg, Schüler, Berlin, Parkhalle, Gartenstr. 18     1
+raforte, Wolfgang, Kaufm., Berlin, Jesters Hotel       1
+hlenberg, Sri, Direktor, mit Fam., Berlin, Osftsee-Hotel    
+| 2amni, Milly, Buchhalterin, Eberswalde, Central-Hotel     1
+| F, Karl, Techniker, Tiefenbach, Europäischer Hof       1
+ effohn, Friedr., Schiffsunternehmer, UlsnisSchlei, Central-Hotel  1
+fe, Grete, Frl., Stettin, Hotel Walfish        1
+
+| bler, Hugo, Mühlenbesißer, mit Frau, enhagner Mühle, Kr. Templin,
+Moltkestraße 19     Hesenh  Mühle,  mp V4
+  aring, Karl, Fabrikbesiper, mit Frau, Pankow, Villa Kaiser Wilhelm   21.
+ "rshner, Jrma, Frl., Stettin, Park-Halle, Gartenstrae     1
+mann, Erwin, mit Frau, Berlin, Kat, Dünenstr. 19    2
+ „retves, M., Kontoristin, Berlin, Schweriner Hof     1
+. nbbrang, Friß, Kaufm., Stettin, Pension Seeshloß      1
+. ummenz, Heinrich, Kaufm., mit Frau, Berlin, Europäischer Hof    2
+Fichs, Kaufm., mit Fam., Stettin, Hotel WalfisG    8
+Elgeti, Elisabeth, Langendorf, Hotel Walfisch    1
+7 Tl, Rud., Jngenieur, Spandau, Jeschkes Hotel   UU
+rrih, Karl, Kaufm., Stettin, Hotel Walfish    1
+. "on, Rechtsanwalt, mit Fam., Stettin, Strandburg .     38
+| veg, Otto, Kaufm., mit Frau, Charlottenburg, Hotel Deutsches Haus  2
+. | gtner, Frig, Kaufm., mit Frau, Neukölln, Hotel Walfisch     2.
+. jaehler, Herm., Bankbeamter, Stralsund, Central-Hotel     UU
+„feeßau, Angelita, Frauenshhülerin, Charlottenburg, Villa Heureka   1.
+1 4ischer, Arthur, Kaufm., mit Frau, Leipzig, Jeschkes Hotel     2
+Firscher, Heinr., Fabrikbesiber, mit Fam., Stettin, Villa Neptun    sh.
+ fietscher, Patentanwalt, Wilmersdorf, Hotel Walfisch .     1.
+
+| dee u Se „Stettin, Hotel Walfisch     1

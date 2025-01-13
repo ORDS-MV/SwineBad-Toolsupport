@@ -1,0 +1,209 @@
+ OCR:	Baher, Artur, Kaufm, mit Fam, Berlin, Gadebuschstr. 1 38 
+ Truth:	Bayer, Artur, Kaufm., mit Fam., Berlin, Gadebuschstr. 18 | 3 
+ Levenshtein: 7	CER:  0.117
+
+ OCR:	uer, Otio, Prokurist, mit Frau, Insterburg, Dr. Glau 2 
+ Truth:	G uer, Otto, Prokurist, mit Frau, Insterburg, Dr. Glau | 2 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	enß⸗ Bernhard, Kaufm., mit Famt, Haideros 3 
+ Truth:	Grimnitz, Bernhard, Kaufm., mit Fam., ? Haiderose | 3 
+ Levenshtein: 14	CER:  0.264
+
+ OCR:	Echersdorf, Alfred, Kwufm., mit Tochter, Berlin, Atlantie 2 
+ Truth:	Eckersdorf, Alfred, Kaufm., mit Tochter, Berlin, Atlantic | 2 
+ Levenshtein: 5	CER:  0.082
+
+ OCR:	Fellmanm, Major a. D., Charlottenburg, Hubertus 1 
+ Truth:	Fellmann, Major a. D., Charlottenburg, Hubertus | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Hu eberg, Martin, Kaufm. mit Frau Hersdorf, Schloß⸗Hotel 2 
+ Truth:	Ha rberg, Martin, Kaufm., mit Frau, Hersdorf, Schloß=Hotel | 2 
+ Levenshtein: 7	CER:  0.113
+
+ OCR:	Czonewitz, Hermann, Poliseihauptmann, mit Fam,, Beulin, Nirvana 6 
+ Truth:	Czonewitz, Hermann, Polizeihauptmann, mit Fam., Berlin, Nirvana | 5 
+ Levenshtein: 6	CER:  0.0896
+
+ OCR:	Duler, Kurt, Bankvorstand, Viktomma 1 
+ Truth:	Duler, Kurt, Bankvorstand, ? Viktoria | 1 
+ Levenshtein: 6	CER:  0.146
+
+ OCR:	Hohm, Eliscrbeth, Telephonistin, Berlin, Emma Louise  
+ Truth:	Holm, Elisabeth, Telephonistin, Berlin, Emma Louise | 1 
+ Levenshtein: 6	CER:  0.109
+
+ OCR:	Dubbemimg, Ellen und Luife, Bevlin, Fester s 2 
+ Truth:	Dobbering, Ellen und Luise, Berlin, Jester | 2 
+ Levenshtein: 7	CER:  0.152
+
+ OCR:	Franke, Berua, Privatiere, Chawlottenburg Krüger  
+ Truth:	Franke, Berta, Privatiere, Charlottenburg, Krüger | 1 
+ Levenshtein: 6	CER:  0.113
+
+ OCR:	Bevnhandt, Littwitz, Student, Berlin, Atlantie 1 
+ Truth:	Bernhardt, Littwitz, Student, Berlin, Atlantic | 1 
+ Levenshtein: 5	CER:  0.1
+
+ OCR:	Faupel, Frau, Berlin, Splendid 1 
+ Truth:	Faupel, Frau, Berlin, Splendid | 1 
+ Levenshtein: 2	CER:  0.0588
+
+ OCR:	geob, Helmuth, techm. Leiter in d. Filmbranche, Berlin. ma Louife 1 
+ Truth:	Jacob, Helmuth, techn. Leiter in d. Filmbranche, Berlin, Emma Louise | 1 
+ Levenshtein: 10	CER:  0.139
+
+ OCR:	Faegb⸗ Fosek Babribesitzer, Berlin, Schloß Holel TTT T 
+ Truth:	Jacobi, Josef, Fabrikbesitzer, Berlin, Schloß=Hotel | 1 
+ Levenshtein: 16	CER:  0.291
+
+ OCR:	Fahmh, A. R. Medisiner, Berlin, Strandhotel 1 
+ Truth:	Fahmy, A. R., Mediziner, Berlin, Strandhotel | 1 
+ Levenshtein: 5	CER:  0.104
+
+ OCR:	Hirsch, Wax, Kaufm, mit Frau, Stettin, Friedrichstr. 2 
+ Truth:	Hirsch, Max, Kaufm., mit Frau, Stettin, Friedrichstr. 2 | 2 
+ Levenshtein: 6	CER:  0.102
+
+ OCR:	Bumann, Erich Ernst, Kaufm, Stettin, Am Meer 1 
+ Truth:	Bumann, Erich Ernst, Kaufm., Stettin, Am Meer | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Hamann, Karl, Kaufm, Berlin, Splendid 1 
+ Truth:	Hamann, Karl, Kaufm., Berlin, Splendid | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	ahn, Karl, Gutsbesitzer, mit Frau, Rosenhagen, iffmann 2 
+ Truth:	Hahn, Karl, Gutsbesitzer, mit Frau, Rosenhagen, Schiffmann | 2 
+ Levenshtein: 6	CER:  0.0968
+
+ OCR:	Mufmant Hugo, Kaufm, mit Frau, Berlin, Mim T 2 
+ Truth:	Kaufmann, Hugo, Kaufm., mit Frau, Berlin, Mimi | 2 
+ Levenshtein: 7	CER:  0.14
+
+ OCR:	Beermann, Aliette, mit Fam, Dresden, Fortunn ß 
+ Truth:	Beermann, Aliette, mit Fam., Dresden, Fortuna | 3 
+ Levenshtein: 5	CER:  0.102
+
+ OCR:	Duchl, Fwieda Danzig, Frieda bo 1 
+ Truth:	Duchl, Frieda, Danzig, Frieda | 1 
+ Levenshtein: 4	CER:  0.121
+
+ OCR:	Holm, Narie, Flensbhurg, Emma Louise l1 
+ Truth:	Holm, Marie, Flensburg, Emma Louise | 1 
+ Levenshtein: 4	CER:  0.103
+
+ OCR:	Hilla, Afons, Uniw-Rrof, mit Fam, Greifswald, Sonnenschein k 3 
+ Truth:	Hilka, Alfons, Univ.=Prof., mit Fam., Greifswald, Sonnenschein | 3 
+ Levenshtein: 9	CER:  0.136
+
+ OCR:	Esser, Wilhelm, Kaufm, Berlin, Emma Louise k 10 
+ Truth:	Esser, Wilhelm, Kaufm., Berlin, Emma Louise | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Feehgo dned Mexander, Rittmstr. a. D., m. Frau, Dedeleben, Goldfried 2 
+ Truth:	Freyhold=Hunecken, Alexander, Rittmstr. a. D., m. Frau, Dedeleben, Goldfried | 2 
+ Levenshtein: 16	CER:  0.2
+
+ OCR:	Eilert, Elfviede, mit Fame, Benlin, Friedenstr. 8 
+ Truth:	Eilert, Elfriede, mit Fam., Berlin, Friedenstr. 1 | 3 
+ Levenshtein: 8	CER:  0.151
+
+ OCR:	Eysenk, Gduard, Schaspieler, Gladbach, Viktoria⸗Houel 1 
+ Truth:	Eysenk, Eduard, Schauspieler, Gladbach, Viktoria=Hotel | 1 
+ Levenshtein: 6	CER:  0.103
+
+ OCR:	Furkert, Frieda, Frl., Berlin, Favorit 1 
+ Truth:	Furkert, Frieda, Frl., Berlin, Favorit | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Arndt, Otto, Amtsaktuar, Neustrelitz, Emma Louise k 1 
+ Truth:	Arndt, Otto, Amtsaktuar, Neustrelitz, Emma Louise | 1 
+ Levenshtein: 1	CER:  0.0189
+
+ OCR:	Has zwedrich u Clisabesh, Bankditektor Kass Holdfried 2 
+ Truth:	Haß, Friedrich u. Elisabeth, Bankdirektor, Kassel, Goldfried | 2 
+ Levenshtein: 16	CER:  0.25
+
+ OCR:	Boguslawski, Wilhelm, Schaufpieler, Domke 1 
+ Truth:	Boguslawski, Wilhelm, Schauspieler, ? Domke | 1 
+ Levenshtein: 5	CER:  0.106
+
+ OCR:	Bolien, Frieda, Driesen, Strandhotel k 1 
+ Truth:	Bolien, Frieda, Driesen, Strandhotel | 1 
+ Levenshtein: 1	CER:  0.025
+
+ OCR:	Breger, Marie, Kassel, Friedensburg  
+ Truth:	Breger, Marie, Kassel, Friedensburg | 1 
+ Levenshtein: 3	CER:  0.0769
+
+ OCR:	ischer, Heinrich, Fabrikbesitzer, mit Fam., Stettin, Neptun 5 
+ Truth:	Fischer, Heinrich, Fabrikbesitzer, mit Fam., Stettin, Neptun | 5 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	iedler, Kurt, Chemnitz, Wasserstr 2a 1 
+ Truth:	Fiedler, Kurt, Chemnitz, Wasserstr. 2a | 1 
+ Levenshtein: 4	CER:  0.0952
+
+ OCR:	Bougmann, Karl, Kaufm,, mit Frau, Köpenick, Goldfried 2 
+ Truth:	Borgmann, Karl, Kaufm., mit Frau, Köpenick, Goldfried | 2 
+ Levenshtein: 4	CER:  0.0702
+
+ OCR:	Dahlgrist, Simon, Lichspving, Lindenstr 5 1 
+ Truth:	Dahlgrist, Simon, Lichspring, Lindenstr. 5 | 1 
+ Levenshtein: 4	CER:  0.087
+
+ OCR:	Hemfeldt Kurt, Buchhalter, Berlin, Viktoria Luise B 
+ Truth:	Herzfeldt, Kurt, Buchhalter, Berlin, Viktoria Luise | 1 
+ Levenshtein: 6	CER:  0.109
+
+ OCR:	Anders, Frau, mit Fam, Stettin, Moltkestnaße 25 2 
+ Truth:	Anders, Frau, mit Fam., Stettin, Moltkestraße 25 | 2 
+ Levenshtein: 4	CER:  0.0769
+
+ OCR:	Bengdorf, Bertold, Referendar, Breslau, Haiderose 1 
+ Truth:	Bergdorf, Bertold, Referendar, Breslau, Haiderose | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Ebstein, Kurt, Kaufm., Berlin, Atlantie 1 
+ Truth:	Ebstein, Kurt, Kaufm., Berlin, Atlantic | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Crunemann, Frau, Charlottenburg, Splendid , 1 
+ Truth:	Grunemann, Frau, Charlottenburg, Splendid | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Bitterhof, Wihhelm und GErich, Kaufleute, Berlin, Königsstr 28 2 
+ Truth:	Bitterhof, Wilhelm und Erich, Kaufleute, Berlin, Königsstr. 29 | 2 
+ Levenshtein: 6	CER:  0.0909
+
+ OCR:	Freudenheim, Marg, Frau, Chablottenburg, Meeresstille 1 
+ Truth:	Freudenheim, Marg., Frau, Charlottenburg, Meeresstille | 1 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Bellmann, Frieda, Schwester, Berlin, Kaiser Wilhelm 1 
+ Truth:	Bellmann, Frieda, Schwester, Berlin, Kaiser Wilhelm | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Baer, Alice, Berlin, Atlantit o 1 
+ Truth:	Baer, Alice, Berlin, Atlantic | 1 
+ Levenshtein: 2	CER:  0.0606
+
+ OCR:	Barsekow, Georg, Kaufm., Prins Gitel Friedrich 1 
+ Truth:	Barsekow, Georg, Kaufm., ? Prinz Eitel Friedrich | 1 
+ Levenshtein: 6	CER:  0.115
+
+ OCR:	Ewett, Rudolf, Apotheker, Hildesheim, GluchaufLL T TT 
+ Truth:	Huett, Rudolf, Apotheker, Hildesheim, Glückauf | 1 
+ Levenshtein: 9	CER:  0.18
+
+ OCR:	Grabenhorst, H Barmen, Merkur 1 
+ Truth:	Gravenhorst, H., Barmen, Merkur | 1 
+ Levenshtein: 5	CER:  0.143
+
+ OCR:	Fansen, Alfred, Berlin, Hresdener gzof L T TTTTTI 
+ Truth:	Jansen, Alfred, Berlin, Dresdener Hof | 1 
+ Levenshtein: 13	CER:  0.317
+
+final CER: 0.11098696461824953 mean CER: 0.10900815368326568

@@ -1,0 +1,153 @@
+ OCR:	Bufe, Toni, Kaufm., Stettin, Tip Top 1 
+ Truth:	Buse, Toni, Kaufm., Stettin, Tip Top | 1 
+ Levenshtein: 3	CER:  0.075
+
+ OCR:	Ahrens, Ellen, Frau, Wartenburg a. Elbe, Walfisch 1 
+ Truth:	Ahrens, Ellen, Frau, Wartenburg a. Elbe, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0377
+
+ OCR:	Ambos, Hans, Kaufmann, Küstrin, Park-Gasth. 1 
+ Truth:	Ambos, Hans, Kaufmann, Küstrin, Park=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Arndt, Klara, Frau, mit Sohn, Berlin-Schöneberg, Wilhelma 2 
+ Truth:	Arndt, Klara, Frau, mit Sohn, Berlin=Schöneberg, Wilhelma | 2 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Albrecht, Max, Zahnarzt, Greifswald, Jeschkes Gasth. 1 
+ Truth:	Albrecht, Max, Zahnarzt, Greifswald, Jeschkes Gasth. | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Albers, Lisbeth, Frl., Berlin-Wilmersdorf, Park-Gasth. 1 
+ Truth:	Albers, Lisbeth, Frl., Berlin=Wilmersdorf, Park=Gasth. | 1 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Albert, Friedrich, Kaufmann, Magdeburg, Kaiser Wilhelm L 
+ Truth:	Albert, Friedrich, Kaufmann, Magdeburg, Kaiser Wilhelm | 1 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Burghard, Meta, Frau, mit Frau, Charlottenburg, Irene, 2 
+ Truth:	Burghard, Meta, Frau, mit Frau, Charlottenburg, Irene,  | 2 
+ Levenshtein: 3	CER:  0.0508
+
+ OCR:	Brandenburger, Ella mit Kurt, Spremberg und Stettin, Vielliebchen 2 
+ Truth:	Brandenburger, Ella mit Kurt, Spremberg und Stettin, Vielliebchen | 2 
+ Levenshtein: 2	CER:  0.029
+
+ OCR:	„Abels, Elise, Kontoristin, Stettin, Park-Gasth. 1 
+ Truth:	Abels, Elise, Kontoristin, Stettin, Park=Gasth. | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Borhardt, Fritz, Kfm., mit Fam. u. Bed., Berlin, Schloß Hohenzollern 4 
+ Truth:	Borhardt, Fritz, Kfm., mit Fam. u. Bed., Berlin, Schloß Hohenzollern | 4 
+ Levenshtein: 2	CER:  0.0278
+
+ OCR:	Brauer, Willi, Kaufmann, Wilmersdorf, Walfisch 1 
+ Truth:	Brauer, Willi, Kaufmann, Wilmersdorf, Walfisch | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Bruggemann, Albert, Stettin, Elisabeth 1 
+ Truth:	Bruggemann, Albert, Stettin, Elisabeth | 1 
+ Levenshtein: 2	CER:  0.0476
+
+ OCR:	Brunshagen, Martha, Sekretärin, Stettin, Hertha 1 
+ Truth:	Brunshagen, Martha, Sekretärin, Stettin, Hertha | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Buchhorn, Emmi, Frl., Stettin, Schloß am Meer 1 
+ Truth:	Buchhorn, Emmi, Frl., Stettin, Schloß am Meer | 1 
+ Levenshtein: 2	CER:  0.0408
+
+ OCR:	Bythina, Edgar, Lehrling, Stettin, Friedensburg 1 
+ Truth:	Bythina, Edgar, Lehrling, Stettin, Friedensburg | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	v. Bredow, Alice, Frau, Kutzerow b. Holtzendorf, Glück auf 1 
+ Truth:	v. Bredow, Alice, Frau, Kutzerow b. Holtzendorf, Glück auf | 1 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Albrecht, Karl, Kaufmann, mit Frau, Berlin-Schöneberg, Meereswarte 2 
+ Truth:	Albrecht, Karl, Kaufmann, mit Frau, Berlin=Schöneberg, Meereswarte  | 2 
+ Levenshtein: 4	CER:  0.0563
+
+ OCR:	Aletter, Wilhelm, Komponist, Steglitz, Stephanie 1 
+ Truth:	Aletter, Wilhelm, Komponist, Steglitz, Stephanie | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Berger, Elly, Wwe., Berlin, Emma Louise 1 
+ Truth:	Berger, Elly, Wwe., Berlin, Emma Louise | 1 
+ Levenshtein: 2	CER:  0.0465
+
+ OCR:	Agthe, Kurt, Dr. med., Stettin, Seeschloß 
+ Truth:	Agthe, Kurt, Dr. med., Stettin, Seeschloß | 1 
+ Levenshtein: 4	CER:  0.0889
+
+ OCR:	Brosmann, Frau Elise, mit Kindern, Stettin, Haiderose 8 
+ Truth:	Brosmann, Frau, Elise, mit Kindern, Stettin, Haiderose | 3 
+ Levenshtein: 4	CER:  0.069
+
+ OCR:	Alkan, Klare, Frau, Hannover, Ostsee-Gasth. 1 
+ Truth:	Alkan, Klare, Frau, Hannover, Ostsee=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Bratz, Karl, Direktor, Berlin-Schöneberg, Meereswarte 
+ Truth:	Bratz, Karl, Direktor, Berlin=Schöneberg, Meereswarte | 1 
+ Levenshtein: 5	CER:  0.0877
+
+ OCR:	Brecht, Jos., Kaufm., Mannhein, Walfisch 1 
+ Truth:	Brecht, Jos., Kaufm., Mannhein, Walfisch | 1 
+ Levenshtein: 2	CER:  0.0455
+
+ OCR:	Brauer, Emil, Postsekretär, mit Familie, Radebeul, Walfisch 3 
+ Truth:	Brauer, Emil, Postsekretär, mit Familie, Radebeul, Walfisch | 3 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Busse, Else, Frau Major, mit Sohn, Waren i. Mecklb., Moltkestr. 2 
+ Truth:	Busse, Else, Frau Major, mit Sohn, Waren i. Mecklb., Moltkestr. 2, 
+ Levenshtein: 1	CER:  0.0152
+
+ OCR:	Albrecht 2 
+ Truth:	 Albrecht | 2 
+ Levenshtein: 3	CER:  0.231
+
+ OCR:	Bonk, Käthe, Berlin-Friedenau, Strandpalast 1 
+ Truth:	Bonk, Käthe, Berlin=Friedenau, Strandpalast | 1 
+ Levenshtein: 3	CER:  0.0638
+
+ OCR:	Arndt, Walter, Fabrikbesitzer, Berlin, Dresdener Hof 1 
+ Truth:	Arndt, Walter, Fabrikbesitzer, Berlin, Dresdener Hof | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Brandt, Günther, Gutsbesitzer, Ereenwerow, Kreis Prenzlau, Neptun 1 
+ Truth:	Brandt, Günther, Gutsbesitzer, Creenwerow, Kreis Prenzlau, Neptun | 1 
+ Levenshtein: 3	CER:  0.0435
+
+ OCR:	Brauer, Hans, Erfinder, Berlin, Schloß Hohenzollern 1 
+ Truth:	Brauer, Hans, Erfinder, Berlin, Schloß Hohenzollern | 1 
+ Levenshtein: 2	CER:  0.0364
+
+ OCR:	Albrecht, Richard, Kaufm., mit Frau, Stettin, Hohenstaufen 2 
+ Truth:	Albrecht, Richard, Kaufm., mit Frau, Stettin, Hohenstaufen | 2 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Alexander, Arthur, Kaufm., Stettin, Preußenhof 1 
+ Truth:	Alexander, Arthur, Kaufm., Stettin, Preußenhof | 1 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Breslauer, Willi, Handelskbt., Berlin, Viktoria-Gasth. 1 
+ Truth:	Breslauer, Willi, Handelskbt., Berlin, Viktoria=Gasth. | 1 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Bading, Paul, Beamtenstellvertreter, Neukölln, Haiderose 1 
+ Truth:	Bading, Paul, Beamtenstellvertreter, Neukölln, Haiderose | 1 
+ Levenshtein: 2	CER:  0.0333
+
+ OCR:	Bythina, Frieda, Wwe., mit Tochter, Friedensburg 2 
+ Truth:	Bythina, Frieda, Wwe., mit Tochter, Friedensburg | 2 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Burow, Meta, Frau, Charlottenburg, Aegir 1 
+ Truth:	Burow, Meta, Frau, Charlottenburg, Aegir | 1 
+ Levenshtein: 2	CER:  0.0455
+
+final CER: 0.048015678588927 mean CER: 0.052678169226531256

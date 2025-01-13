@@ -1,0 +1,89 @@
+ OCR:	Alves, Geschwister, Schüler, Berlin, Mertha Elsehaus 3 
+ Truth:	Alves, Geschwister, Schüler, Berlin, M rtha Elsehus | 3 
+ Levenshtein: 4	CER:  0.0727
+
+ OCR:	Albrecht, Richard, Kaufm,, mit Frau, Stettin, Kaiser Wilheim 2 
+ Truth:	Albrecht, Richard, Kaufm., mit Frau, Stettin, Kaiser Wilhelm | 2 
+ Levenshtein: 4	CER:  0.0625
+
+ OCR:	A Klara, Frau, Charlottenburg, Hauff, Lotsenstr. 10 1 
+ Truth:	Busse, Klara, Frau, Charlottenburg, Hauff, Lotsenstr. 10 | 1 
+ Levenshtein: 8	CER:  0.133
+
+ OCR:	Asch, Lucie, Buchhalterin, Wilmersdorf, Stranddurg 1 
+ Truth:	Asch, Lucie, Buchhalterin, Wilmersdorf, Strandburg | 1 
+ Levenshtein: 3	CER:  0.0556
+
+ OCR:	Ascher, Berta, Wwme, m. Töchtern, Charlottenburg, Prinz Eitel Friedr. 3 
+ Truth:	Ascher, Berta, Wwe., m. Töchtern, Charlottenburg, Prinz Eitel Friedr. | 3 
+ Levenshtein: 4	CER:  0.0548
+
+ OCR:	Brrmzlow, Hermann, Rektor, mit Frau, Berlin, Fürst Bismarck 2 
+ Truth:	Brunzlow, Hermann, Rektor, mit Frau, Berlin, Fürst Bismarck | 2 
+ Levenshtein: 4	CER:  0.0635
+
+ OCR:	Baier, Frida, Frau, Berlin, Herta 1 
+ Truth:	Baier, Frida, Frau, Berlin, Herta | 1 
+ Levenshtein: 2	CER:  0.0541
+
+ OCR:	Brüggemann, August, Vize-Postdirektor, Berlin, Zum Walfisch 1 
+ Truth:	Brüggemann, August, Vize=Postdirektor, Berlin, Zum Walfisch | 1 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	Arndt, Werner, Ur,, Gerichtsassessor, Wilmersdorf, Haus Stephanie 1 
+ Truth:	Arndt, Werner, Dr., Gerichtsassessor, Wilmersdorf, Haus Stephanie | 1 
+ Levenshtein: 4	CER:  0.058
+
+ OCR:	Albrecht, Wilhelm, Or,, Referendar, Stettin, Seeschlos  
+ Truth:	Albrecht, Wilhelm, Dr., Referendar, Stettin, Seeschloß | 1 
+ Levenshtein: 6	CER:  0.103
+
+ OCR:	Busse, Else, Frau Major, mit Tochter, Waren in Mecklenb, Albrecht, 
+ Truth:	Busse, Else, Frau Major, mit Tochter, Waren in Meckenb., Albrecht, 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Moltkestraße 2 2 
+ Truth:	 Molkestraße 2 | 2 
+ Levenshtein: 4	CER:  0.222
+
+ OCR:	Borinski, Simon, Sanitätsrat, m. Fam,, Charlottenburg, Strandburg 3 
+ Truth:	Borinski, Simon, Sanitätsrat, m. Fam., Charlottenburg, Strandburg | 3 
+ Levenshtein: 3	CER:  0.0435
+
+ OCR:	Appelbaum, Adolf, Kaufm,, mit Fam,, Stettin, Hgieca 3 
+ Truth:	Appelbaum, Adolf, Kaufm., mit Fam., Stettin, Hygiea | 3 
+ Levenshtein: 6	CER:  0.109
+
+ OCR:	Bredthage, Alice, Frau Kaufm., Walkenrin im Harz, Zunt Walfisch 1 
+ Truth:	Bredthage, Alice, Frau Kaufm., Walkenrin im Harz, Zum Walfisch | 1 
+ Levenshtein: 4	CER:  0.0606
+
+ OCR:	Ackermann, Hugo, Inspektor, Rittergut Vixor, Kr. Stolp, Lotsenstr. 74 1 
+ Truth:	Achermann, Hugo, Inspektor, Rittergut Vixor, Kr. Stolp, Lotsenstr. 74 | 1 
+ Levenshtein: 3	CER:  0.0411
+
+ OCR:	Arenstein, Mar, DOr,, Arzt, mit Fam,, Berlin, Stranddurg 4 
+ Truth:	Arenstein, Mar, Dr., Arzt, mit Fam., Berlin, Strandburg | 4 
+ Levenshtein: 6	CER:  0.102
+
+ OCR:	Buchenholz, Toni, Frl., Charlottenburg, Glücksburg 1 
+ Truth:	Buchenholz, Toni, Frl., Charlottenburg, Glücksburg | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	v. Aberereau, Edith, Berlin, Zum Walfisch 1 
+ Truth:	v. Aberereau, Edith, Berlin, Zum Walfisch | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Alves, Fritz, Bankier, mit Fam,, Berlin, Hohenstaufen 3 
+ Truth:	Anves, Fritz, Bankier, mit Fam., Berlin, Hohenstaufen | 3 
+ Levenshtein: 4	CER:  0.0702
+
+ OCR:	Berkowitz, Karl, Fabrikbesitzer, mit Fant, Schöneberg, Elfriede d 
+ Truth:	Berkowitz, Karl, Fabrikbesitzer, mit Fam., Schöneberg, Elfriese | 4 
+ Levenshtein: 6	CER:  0.0896
+
+ OCR:	Altmann, Ella, Berlin, Fürst Bismarck 1 
+ Truth:	Altmann, Ella, Berlin, Fürst Bismarck | 1 
+ Levenshtein: 2	CER:  0.0488
+
+final CER: 0.0679304897314376 mean CER: 0.07290800332408633

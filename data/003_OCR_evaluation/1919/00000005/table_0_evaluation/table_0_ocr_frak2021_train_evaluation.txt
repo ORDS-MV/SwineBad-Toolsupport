@@ -1,0 +1,197 @@
+ OCR:	Landesmann, Clara, Frau, Berlin, Winkelmann, Grenzstr. 22 1 
+ Truth:	Landesmann, Clara, Frau, Berlin, Winkelmann, Grenzstr. 22 | 1 
+ Levenshtein: 2	CER:  0.0328
+
+ OCR:	Neubert, Max, Bücher⸗Revisor, Berlin, Krüger 1 
+ Truth:	Neubert, Max, Bücher=Revisor, Berlin, Krüger | 1 
+ Levenshtein: 3	CER:  0.0625
+
+ OCR:	Hahn, Marie, Baronin, Rittergut Neuensund b. Straßburg, Beatus⸗-ille . 
+ Truth:	Hahn, Marie, Baronin, Rittergut Neuensund b. Straßburg, Beatus=ille | 1 
+ Levenshtein: 5	CER:  0.0704
+
+ OCR:	Hufnagel, Hans, Geh. Justizrat, Wilmersdorf, Elisabeehk  
+ Truth:	Husnagel, Hans, Geh. Justizrat, Wilmersdorf, Elisabeth | 1 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	Pippel, Oskar, Optiker, Berlin, Daheim 4 
+ Truth:	Pippel, Oskar, Optiker, Berlin, Daheim | 1 
+ Levenshtein: 3	CER:  0.0714
+
+ OCR:	Matte, Else, Kind, Wilmersdorf, Martha⸗Elsehaus  
+ Truth:	Matte, Else, Kind, Wilmersdorf, Martha=Elsehaus | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Neumann⸗RNelson, Paul, Geschäftsführer, Berlin, Strand⸗Gasth. 1 
+ Truth:	Neumann=Nelson, Paul, Geschäftsführer, Berlin, Strand=Gasth. | 1 
+ Levenshtein: 5	CER:  0.0781
+
+ OCR:	Mentzin, Erna, Berlin, Seeschloß 1 
+ Truth:	Mentzin, Erna, Berlin, Seeschloß | 1 
+ Levenshtein: 2	CER:  0.0556
+
+ OCR:	Pinnow, Kurt, Bankvorsteher, Wilmersdorf, Dresdener Hof 1 
+ Truth:	Pinnow, Kurt, Bankvorsteher, Wilmersdorf, Dresdener Hof | 1 
+ Levenshtein: 2	CER:  0.0339
+
+ OCR:	Lemke, Kaufm., Berlin, Zum Walfisch 1 
+ Truth:	Lemke, Kaufm., Berlin, Zum Walfisch | 1 
+ Levenshtein: 2	CER:  0.0513
+
+ OCR:	Pniower, Martha, Frau Rentiere, mit Töchtern, Charlottenburg, Strandburg 3 
+ Truth:	Pniower, Martha, Frau Rentiere, mit Töchtern, Charlottenburg, Strandburg | 3 
+ Levenshtein: 2	CER:  0.0263
+
+ OCR:	Kostrzera, Stefan, Kapellmeister, Berlin, Daheim  
+ Truth:	Kostrzera, Stefan, Kapellmeister, Berlin, Daheim | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Pietras, Paul, Kellner, Schöneberg, Prinz Heinrich 1 
+ Truth:	Pietras, Paul, Kellner, Schöneberg, Prinz Heinrich | 1 
+ Levenshtein: 2	CER:  0.037
+
+ OCR:	Hecht, E., Kaufm., Berlin, Huberrus  
+ Truth:	Hecht, G., Kaufm., Berlin, Hubertus | 1 
+ Levenshtein: 5	CER:  0.128
+
+ OCR:	Ostermeier, Paul, Oberleutnant, mit Sohn, Saarbrücken, Aghnes 2 
+ Truth:	Ostermeier, Paul, Oberleutnant, mit Sohn, Saarbrücken, Agnes | 2 
+ Levenshtein: 3	CER:  0.0469
+
+ OCR:	Kempfer, Hedwig, Stettin, Seerings Gasth. 1 
+ Truth:	Kempfer, Hedwig, Stettin, Seerings Gasth. | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Lasker, Alfred, Kaufm., Breslau, Seerings Gasth. 1 
+ Truth:	Lasker, Alfred, Kaufm., Breslau, Seerings Gasth. | 1 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	Kayser, Margarete, Frl., Tel.⸗Geh., Stargard i. P., Raeck, Friedenstr. T 1 
+ Truth:	Kayser, Margarete, Frl., Tel.=Geh., Stargard i. P., Raeck, Fridenstr. 1 | 1 
+ Levenshtein: 5	CER:  0.0667
+
+ OCR:	Heyland, Oskar, Komponist, Friedenau, Seeschlopß5  
+ Truth:	Heyland, Oskar, Komponist, Friedenau, Seeschloß | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Mane, Gertrud, Schöneberg, Prinz Heinrich 1 
+ Truth:	Mane, Gertrud, Schöneberg, Prinz Heinrich | 1 
+ Levenshtein: 2	CER:  0.0444
+
+ OCR:	Linder, Max, Kaufm., Schöneberg, Prinz Heinrich 1 
+ Truth:	Linder, Max, Kaufm., Schöneberg, Prinz Heinrich | 1 
+ Levenshtein: 2	CER:  0.0392
+
+ OCR:	Kaduk, Kläre, Tel.⸗Geh., Gleiwitz, Meeresstille 1 
+ Truth:	Kaduk, Kläre, Tel.=Geh., Gleiwitz, Meeresstille | 1 
+ Levenshtein: 3	CER:  0.0588
+
+ OCR:	Müller, Adolf, Dr. jur., mit Fam., Dahlem, Haiderooc 4 
+ Truth:	Müller, Adolf, Dr. jur., mit Fam., Dahlem, Haiderose | 4 
+ Levenshtein: 4	CER:  0.0714
+
+ OCR:	Marquardt, Emil, Kaufm., mit Fam., Stettin, Hubertus 3 
+ Truth:	Marquardt, Emil, Kaufm., mit Fam., Stettin, Hubertus | 3 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Lubszynski, Joseph, Kaufm., mit Fam. u. Bed., Berlin, Ida Maria 6 
+ Truth:	Lubszynski, Joseph, Kaufm., mit Fam. u. Bed., Berlin, Ida Maria | 6 
+ Levenshtein: 2	CER:  0.0299
+
+ OCR:	Melsheimer, Amanita, Frau Ingenieur, Charlottenburg, Goldfried 1 
+ Truth:	Melsheimer, Amanita, Frau Ingenieur, Charlottenburg, Goldfried | 1 
+ Levenshtein: 2	CER:  0.0303
+
+ OCR:	Kindle, Paula, Tel.⸗Geh., Münster in Westf., Meeresstille 1 
+ Truth:	Kindle, Paula, Tel.=Geh., Münster in Westf., Meeresstille | 1 
+ Levenshtein: 3	CER:  0.0492
+
+ OCR:	Pufahl, Willy, Artist, Berlin, Huberrus 1 
+ Truth:	Pufahl, Willy, Artist, Berlin, Hubertus | 1 
+ Levenshtein: 3	CER:  0.0698
+
+ OCR:	Plesch, Meta, Frl., Babelsberg, Sonnenschein 1 
+ Truth:	Plesch, Meta, Frl., Babelsberg, Sonnenschein | 1 
+ Levenshtein: 2	CER:  0.0417
+
+ OCR:	Lande, Kurt, Operateur, Schöneberg, Zum Walfisceh 1 
+ Truth:	Lande, Kurt, Operateur, Schöneberg, Zum Walfisch | 1 
+ Levenshtein: 3	CER:  0.0577
+
+ OCR:	Kuhr, Therese, Privatiere, Berlin, Prinz Heinrich  
+ Truth:	Kuhr, Therese, Privatiere, Berlin, Prinz Heinrich | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Lehrhaft, Karl u. Oskar, Gebr., Berlin, Krüger 2 
+ Truth:	Lehrhaft, Karl u. Oskar, Gebr., Berlin, Krüger | 2 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	 
+ Truth:	F 
+ Levenshtein: 1	CER:  1.0
+
+ OCR:	Lippschütz, Walter, Kaufm., Frankfurt a. M., Prinz Heinrich 1 
+ Truth:	Lippschütz, Walter, Kaufm., Frankfurt a. M., Prinz Heinrich | 1 
+ Levenshtein: 2	CER:  0.0317
+
+ OCR:	Litzek, Viktor, Operettensänger, Berlin, Splendid 1 
+ Truth:	Litzek, Viktor, Operettenfänger, Berlin, Splendid | 1 
+ Levenshtein: 3	CER:  0.0566
+
+ OCR:	Kaselow, Rosa, Korrespondentin, Berlin, Trapp 4 
+ Truth:	Kaselow, Rosa, Korrespondentin, Berlin, Trapp | 1 
+ Levenshtein: 3	CER:  0.0612
+
+ OCR:	Liebrecht, Kurt, mit Frau, Peine, Meeresstille 2 
+ Truth:	Liebrecht, Kurt, mit Frau, Peine, Meeresstille | 2 
+ Levenshtein: 2	CER:  0.04
+
+ OCR:	Liermann, Lotti, Berlin, Rheingold 1 
+ Truth:	Liermann, Lotti, Berlin, Rheingold | 1 
+ Levenshtein: 2	CER:  0.0526
+
+ OCR:	Haase, Käte, Lichterfelde, Ostsee⸗Gasth.  
+ Truth:	Haase, Käte, Lichterfelde, Ostsee=Gasth. | 1 
+ Levenshtein: 4	CER:  0.0909
+
+ OCR:	Hertz, Georg, Assessor, Eichenrode, Kr. Wirsitz, Seeschloß 1 
+ Truth:	Hertz, Georg, Assessor, Eichenrode, Kr. Wirsitz, Seeschloß | 1 
+ Levenshtein: 2	CER:  0.0323
+
+ OCR:	Lehmann, Paul, Direktor, mit Frau, Charlottenburg, Splendd 2 
+ Truth:	Lehmann, Paul, Direktor, mit Frau, Charlottenburg, Splendid | 2 
+ Levenshtein: 3	CER:  0.0476
+
+ OCR:	Lüt, Johann, Berlin, Krüger 1 
+ Truth:	Lüt, Johann, Berlin, Krüger | 1 
+ Levenshtein: 2	CER:  0.0645
+
+ OCR:	Heepe, Irma, Lehrerin, Trechwitz, Germania 1 
+ Truth:	Heepe, Irma, Lehrerin, Trechwitz, Germania | 1 
+ Levenshtein: 2	CER:  0.0435
+
+ OCR:	Klooß, Louis, Sparkassen⸗Kontrolleur, Schöneberg, Wartbug 1 
+ Truth:	Klooß, Louis, Sparkassen=Kontrolleur, Schöneberg, Wartburg | 1 
+ Levenshtein: 4	CER:  0.0645
+
+ OCR:	Loewinsohn, Axel, Schüler, Berlin, Treptows Weinstbben 1 
+ Truth:	Loewinsohn, Axel, Schüler, Berlin, Treptows Weinstuben | 1 
+ Levenshtein: 3	CER:  0.0517
+
+ OCR:	Kempfer, Hedwig, Magdeburg, Splendid 1 
+ Truth:	Kempfer, Hedwig, Magdeburg, Splendid | 1 
+ Levenshtein: 2	CER:  0.05
+
+ OCR:	Pich, Franz, Kaufm., mit Frau, Stettin, Annaburg 2 
+ Truth:	Pich, Franz, Kaufm., mit Frau, Stettin, Annaburg | 2 
+ Levenshtein: 2	CER:  0.0385
+
+ OCR:	reining, Walter, Kaufm., Berlin, Zum Walfisccth 1 
+ Truth:	Preining, Walter, Kaufm., Berlin, Zum Walfisch | 1 
+ Levenshtein: 4	CER:  0.08
+
+ OCR:	Lewin, Erich, Kaufm., Berlin, Krüger 1 
+ Truth:	Lewin, Erich, Kaufm., Berlin, Krüger | 1 
+ Levenshtein: 2	CER:  0.05
+
+final CER: 0.05397951142631994 mean CER: 0.07398256206943409

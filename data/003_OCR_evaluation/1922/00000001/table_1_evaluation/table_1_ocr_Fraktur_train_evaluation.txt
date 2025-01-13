@@ -1,0 +1,149 @@
+ OCR:	Lewin, Kurt, Kaufm., mit Fraau,. Berlin, Dünensx. 9 2 
+ Truth:	Lewin, Kurt, Kaufm., mit Frau, Berlin, Dünenstr. 9 | 2 
+ Levenshtein: 6	CER:  0.111
+
+ OCR:	Brauns, Erich,. Technikec, mit Fam., Swinemünde, Heysestr. 30 3 | 
+ Truth:	Brauns, Erich, Techniker, mit Fam., Swinemünde, Heysestr. 30 | 3 
+ Levenshtein: 4	CER:  0.0625
+
+ OCR:	Fried, Alexander, Bankbeamter, Budapest, Dünenstr. 5 1 
+ Truth:	Fried, Alexander, Bankbeamter, Budapest, Dünenstr. 5 | 1 
+ Levenshtein: 2	CER:  0.0357
+
+ OCR:	Feiner, Sami, Kaufm., Berlin, Neueste. 17  
+ Truth:	Feiner, Sami, Kaufm., Berlin, Neuestr. 17 | 1 
+ Levenshtein: 4	CER:  0.0889
+
+ OCR:	Dgzialiner, Max, Kaufm., mit Frau, Stettin, Hohenstausn 2 
+ Truth:	Dzialiner, Max, Kaufm., mit Frau, Stettin, Hohenstaufen | 2 
+ Levenshtein: 5	CER:  0.0847
+
+ OCR:	Brunn, Leopold, Rentner, Schöneberg, Bedasix. 100 1 
+ Truth:	Brunn, Leopold, Rentner, Schöneberg, Bedastr. 10 | 1 
+ Levenshtein: 4	CER:  0.0769
+
+ OCR:	Ede, Hans, Bankbeamtec, mit Fam., Stettin, Vedastr. 0 5 
+ Truth:	Ecke, Hans, Bankbeamter, mit Fam., Stettin, Bedastr. 10 | 3 
+ Levenshtein: 8	CER:  0.136
+
+ OCR:	Garz, Frau, Breslau, Hardenbergsr. 4 1 
+ Truth:	Garz, Frau, Breslau, Hardenbergstr. 4 | 1 
+ Levenshtein: 3	CER:  0.0732
+
+ OCR:	Gervai, Mallwine, Frau Kaufm., mit Kindern, Berlin, Jda Maria 8 
+ Truth:	Gervai, Malwine, Frau Kaufm., mit Kindern, Berlin, Ida Maria | 3 
+ Levenshtein: 5	CER:  0.0781
+
+ OCR:	Born, Clara, Frau, mit Kind u. Bed., Wilmersdorf, Steinstraße 5 
+ Truth:	Born, Clara, Frau, mit Kind u. Bed., Wilmersdorf, Steinstraße | 3 
+ Levenshtein: 3	CER:  0.0462
+
+ OCR:	Ledermann, Siegfried, Diplom-Jngen., mit Frau, Berlin, Gadebuschjtr. 11 2 
+ Truth:	Ledermann, Siegfried, Diplom=Ingen., mit Frau, Berlin, Gadebuschstr. 11 | 2 
+ Levenshtein: 5	CER:  0.0667
+
+ OCR:	 Ggza, Jried, Bankbeamter, Budapest, Dünenjtr. 5 1 
+ Truth:	Geza, Iried, Bankbeamter, Budapest, Dünenstr. 5 | 1 
+ Levenshtein: 6	CER:  0.118
+
+ OCR:	 Ges8ath, Georg. mit Kindern u. Bed., Budäpest, Steinstr. 5 11 
+ Truth:	Geszty, Georg, mit Kindern u. Bed., Budapest, Steinstr. 5 | 11 
+ Levenshtein: 8	CER:  0.129
+
+ OCR:	Althaus, Hans, Eifenbahn-Obexfekx., Gießen, Friedrichstr. 31 1  
+ Truth:	Althaus, Hans, Eisenbahn=Obersekr., Gießen, Friedrichstr. 31 | 1 
+ Levenshtein: 7	CER:  0.109
+
+ OCR:	-Gerhardt, Paul, Oberbahnhessvorst., mit Frau, Hohenbroa, Friedrichstr. 34k 2" 
+ Truth:	Gerhardt, Paul, Oberbahnhofsvorst., mit Frau, Hohenbrocka, Friedrichsr. 31 | 2 
+ Levenshtein: 10	CER:  0.128
+
+ OCR:	Aronson, Moise, Jndustrieller, mit Fam., Wien, Gadebuschstr. 19 3st 
+ Truth:	Aronson, Moise, Industrieller, mit Fam., Wien, Gadebuschstr. 19 | 3 
+ Levenshtein: 4	CER:  0.0597
+
+ OCR:	Gutzefklein, Georg, Kaufum., Berlin, Herrenbadstr. 1 1 
+ Truth:	Guteklein, Georg, Kaufm., Berlin, Herrenbadstr. 1 | 1 
+ Levenshtein: 5	CER:  0.0943
+
+ OCR:	Lehmann, Richard, Bankvorst., mit Fam., Charlottenburg, Jester  
+ Truth:	Lehmann, Richard, Bankvorst., mit Fam., Charlottenburg, Jester | 4 
+ Levenshtein: 3	CER:  0.0455
+
+ OCR:	LIC, UU, MUELLE H rr 
+ Truth:	F 
+ Levenshtein: 20	CER:  20.0
+
+ OCR:	 Koßzl, Guard, Banktbeamter, Tepliß, Waldshloß tt 
+ Truth:	Koßl, Eduard, Bankbeamter, Teplitz, Waldschloß | 1 
+ Levenshtein: 11	CER:  0.22
+
+ OCR:	Lilienthal, Benno, mit Frau, Schöneberg, Moltkestr. BB 23 
+ Truth:	Lelienthal, Benno, mit Frau, Schöneberg, Moltkestr. 25 | 2 
+ Levenshtein: 6	CER:  0.103
+
+ OCR:	v. Arnim, Wienfvied, Graf, mit Ved., Gr. Specrrenwalde, Augustastr. 7 1|  
+ Truth:	v. Arnim, Wienfried, Graf, mit Bed., Gr. Sperrenwalde, Augustastr. 7 | 4 
+ Levenshtein: 5	CER:  0.0694
+
+ OCR:	Fülle, Karl, Werkmeister, mit Fam., Chemmniß, Neueste. 4 8 
+ Truth:	Fülle, Karl, Werkmeister, mit Fam., Chemnitz, Neuestr. 34 | 3 
+ Levenshtein: 8	CER:  0.131
+
+ OCR:	Denhard, Wilhelm, Landgerichtsrat, Stettin, Seestraße 3 
+ Truth:	Denhard, Wilhelm, Landgerichtsrat, Stettin, Seestraße | 1 
+ Levenshtein: 3	CER:  0.0526
+
+ OCR:	Linke, Hubert, Eisenb.-Oberinsp., Aachen-Ferst, Hohenstaufen  
+ Truth:	Linke, Hubert, Eisenb.=Oberinsp., Aachen=Ferst, Hohenstaufen | 1 
+ Levenshtein: 5	CER:  0.0781
+
+ OCR:	Cornelius, Friß, Kaufm., Bexlin, Friedrichstr. 5 1 
+ Truth:	Cornelius, Fritz, Kaufm., Berlin, Friedrichstr. 35 | 1 
+ Levenshtein: 6	CER:  0.111
+
+ OCR:	Böhanel, Marie, Verkäuferin, Wien, Dünenstr. 8 1h 
+ Truth:	Böhmel, Marie, Verkäuferin, Wien, Dünenstr. 3 | 1 
+ Levenshtein: 6	CER:  0.122
+
+ OCR:	Jatoby, Villi, Fabrikbesiber, mit Frau, Schöneberg, Moltkestr. 0 2 
+ Truth:	Jakoby, Willi, Fabrikbesitzer, mit Frau, Schöneberg, Moltkestr. 20 | 2 
+ Levenshtein: 7	CER:  0.1
+
+ OCR:	Meyer, Hermann, Oberbaurat, Halle, Hardenbergsr. 4 1 
+ Truth:	Meyer, Hermann, Oberbaurat, Halle, Hardenbergstr. 4 | 1 
+ Levenshtein: 3	CER:  0.0545
+
+ OCR:	Deufel, Max, Obevregierungs-Baurat, Hannover, Hardenbergstr. 4 1 | 
+ Truth:	Deufel, Max, Oberregierungs=Baurat, Hannover, Hardenbergstr. 4 | 1 
+ Levenshtein: 4	CER:  0.0606
+
+ OCR:	- Mautner, Kurt, Kaufm., Berlin, Herrenbadstr. 1 1 
+ Truth:	Mautner, Kurt, Kaufm., Berlin, Herrenbadstr. 1 | 1 
+ Levenshtein: 4	CER:  0.08
+
+ OCR:	Kallas, Norbert, Eisenbahnantv., D.-Krone, Kurparkstr. 100 k 
+ Truth:	Kallas, Norbert, Eisenbahnanw., D.=Krone, Kurparkstr. 10 | 1 
+ Levenshtein: 6	CER:  0.1
+
+ OCR:	Heymann, Kark, Obervbahnhofsvorst., Rheydt, Dünenstr. 1 1 
+ Truth:	Heymann, Karl, Oberbahnhofsvorst., Rhendt, Dünenstr. 1 | 1 
+ Levenshtein: 5	CER:  0.0862
+
+ OCR:	Klodte, Klara, Ww., Munster i. Westf., Bismarkstr. Q 1 
+ Truth:	Klocke, Klara, Ww., Munster i. Westf., Bismarckstr. 22 | 1 
+ Levenshtein: 7	CER:  0.121
+
+ OCR:	Berne, Alfred, Chef de vang, Berlin, Friedenstrae 1 
+ Truth:	Berncke, Alfred, Chef de 'rang, Berlin, Friedenstraße | 1 
+ Levenshtein: 7	CER:  0.123
+
+ OCR:	Ahders, Georg, Kaufm., Berlin, Friedrichstr. 8 1 
+ Truth:	Ahders, Georg, Kaufm., Berlin, Friedrichstr. 35 | 1 
+ Levenshtein: 4	CER:  0.0784
+
+ OCR:	Borrhagen, Helmut, Großschlächter, mit Frau, Berlin, Gartenstr. 18 . 2 
+ Truth:	Bornhagen, Helmut, Großschlächter, mit Frau, Berlin, Gartenstr. 18 | 2 
+ Levenshtein: 2	CER:  0.0286
+
+final CER: 0.09878277153558053 mean CER: 0.6287449327681885
